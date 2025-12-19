@@ -33,10 +33,12 @@ bot = commands.Bot(command_prefix="!", intents=intents)
 # Fila de músicas por guild
 queue = {}
 
+# ---------- YT-DLP COM COOKIES ----------
 ydl_opts = {
     'format': 'bestaudio/best',
     'noplaylist': True,
-    'quiet': True
+    'quiet': True,
+    'cookiefile': 'cookies.txt'  # <- arquivo de cookies exportado do YouTube
 }
 
 # ===== EVENTO ON_READY =====
@@ -51,30 +53,35 @@ async def ping(ctx):
 
 # ===== FUNÇÃO PARA TOCAR PRÓXIMA MÚSICA =====
 async def play_next(ctx):
-    if not queue.get(ctx.guild.id):
-        await ctx.send("Fila vazia! 😴")
+    while queue.get(ctx.guild.id):
+        song = queue[ctx.guild.id].pop(0)
+        url = song['url']
+        title = song['title']
+        thumbnail = song['thumbnail']
+        duration = song['duration']
+
+        voice_channel = ctx.author.voice.channel
+        if not ctx.voice_client:
+            vc = await voice_channel.connect()
+        else:
+            vc = ctx.voice_client
+
+        try:
+            vc.play(discord.FFmpegPCMAudio(url), after=lambda e: asyncio.run_coroutine_threadsafe(play_next(ctx), bot.loop))
+
+            embed = discord.Embed(title="🎶 Tocando agora:", description=f"**{title}**", color=0x00ff00)
+            embed.add_field(name="Duração", value=duration, inline=True)
+            embed.set_thumbnail(url=thumbnail)
+            await ctx.send(embed=embed)
+            break  # Sai do loop, a música começou
+        except Exception as e:
+            await ctx.send(f"❌ Não foi possível tocar **{title}**, pulando...\nErro: {e}")
+            continue  # Tenta próxima música
+
+    else:
         if ctx.voice_client:
             await ctx.voice_client.disconnect()
-        return
-
-    song = queue[ctx.guild.id].pop(0)
-    url = song['url']
-    title = song['title']
-    thumbnail = song['thumbnail']
-    duration = song['duration']
-
-    voice_channel = ctx.author.voice.channel
-    if not ctx.voice_client:
-        vc = await voice_channel.connect()
-    else:
-        vc = ctx.voice_client
-
-    vc.play(discord.FFmpegPCMAudio(url), after=lambda e: asyncio.run_coroutine_threadsafe(play_next(ctx), bot.loop))
-
-    embed = discord.Embed(title="🎶 Tocando agora:", description=f"**{title}**", color=0x00ff00)
-    embed.add_field(name="Duração", value=duration, inline=True)
-    embed.set_thumbnail(url=thumbnail)
-    await ctx.send(embed=embed)
+        await ctx.send("Fila vazia! 😴")
 
 # ===== COMANDO !PLAY =====
 @bot.command()
@@ -86,16 +93,20 @@ async def play(ctx, url):
     if ctx.guild.id not in queue:
         queue[ctx.guild.id] = []
 
-    # Extrair info do YouTube
-    with youtube_dl.YoutubeDL(ydl_opts) as ydl:
-        info = ydl.extract_info(url, download=False)
-        audio_url = info['url']
-        title = info.get('title', 'Desconhecido')
-        thumbnail = info.get('thumbnail', '')
-        duration_sec = info.get('duration', 0)
-        minutes = duration_sec // 60
-        seconds = duration_sec % 60
-        duration = f"{minutes}:{seconds:02}"
+    # Extrair info do YouTube com cookies
+    try:
+        with youtube_dl.YoutubeDL(ydl_opts) as ydl:
+            info = ydl.extract_info(url, download=False)
+            audio_url = info['url']
+            title = info.get('title', 'Desconhecido')
+            thumbnail = info.get('thumbnail', '')
+            duration_sec = info.get('duration', 0)
+            minutes = duration_sec // 60
+            seconds = duration_sec % 60
+            duration = f"{minutes}:{seconds:02}"
+    except Exception as e:
+        await ctx.send(f"❌ Não foi possível extrair informações do vídeo. Erro: {e}")
+        return
 
     queue[ctx.guild.id].append({
         'url': audio_url,
