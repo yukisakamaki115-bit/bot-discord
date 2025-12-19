@@ -4,7 +4,7 @@ import os
 from dotenv import load_dotenv
 from flask import Flask
 from threading import Thread
-import youtube_dl
+import yt_dlp as youtube_dl  # <- Atualizado
 import asyncio
 
 # ---------- FLASK (keep alive) ----------
