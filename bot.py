@@ -21,3 +21,17 @@ async def ping(ctx):
     await ctx.send("🏓 Pong!")
 
 bot.run(TOKEN)
+
+from flask import Flask
+from threading import Thread
+
+app = Flask(__name__)
+
+@app.route("/")
+def home():
+    return "Bot está online!"
+
+def run_web():
+    app.run(host="0.0.0.0", port=8080)
+
+Thread(target=run_web).start()
