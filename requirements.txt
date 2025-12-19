@@ -12,3 +12,4 @@ python-dotenv==1.2.1
 yarl==1.22.0
 flask==3.0.3
 yt-dlp
+PyNaCl
