@@ -4,7 +4,7 @@ import os
 from dotenv import load_dotenv
 from flask import Flask
 from threading import Thread
-import yt_dlp as youtube_dl  # <- Atualizado
+import yt_dlp as youtube_dl
 import asyncio
 
 # ---------- FLASK (keep alive) ----------
@@ -83,8 +83,6 @@ async def play(ctx, url):
         await ctx.send("Você precisa estar em um canal de voz!")
         return
 
-    voice_channel = ctx.author.voice.channel
-
     if ctx.guild.id not in queue:
         queue[ctx.guild.id] = []
 
@@ -108,7 +106,6 @@ async def play(ctx, url):
 
     await ctx.send(f"✅ Adicionado à fila: **{title}**")
 
-    # Se o bot não está tocando, inicia a música
     if not ctx.voice_client or not ctx.voice_client.is_playing():
         await play_next(ctx)
 
@@ -130,6 +127,18 @@ async def stop(ctx):
         await ctx.send("⏹️ Música parada e fila limpa!")
     else:
         await ctx.send("O bot não está em nenhum canal de voz!")
+
+# ===== COMANDO !QUEUE =====
+@bot.command()
+async def queue_list(ctx):
+    if ctx.guild.id not in queue or len(queue[ctx.guild.id]) == 0:
+        await ctx.send("A fila está vazia! 😴")
+        return
+
+    embed = discord.Embed(title="📜 Fila de músicas", color=0x00ff00)
+    for i, song in enumerate(queue[ctx.guild.id], start=1):
+        embed.add_field(name=f"{i}. {song['title']}", value=f"Duração: {song['duration']}", inline=False)
+    await ctx.send(embed=embed)
 
 # ===== INICIAR BOT =====
 bot.run(TOKEN)
