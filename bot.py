@@ -6,6 +6,8 @@ from flask import Flask
 from threading import Thread
 import yt_dlp as youtube_dl
 import asyncio
+import re
+import random
 
 # ---------- FLASK (keep alive) ----------
 app = Flask(__name__)
@@ -155,6 +157,31 @@ async def queue_list(ctx):
     for i, song in enumerate(queue[ctx.guild.id], start=1):
         embed.add_field(name=f"{i}. {song['title']}", value=f"Duração: {song['duration']}", inline=False)
     await ctx.send(embed=embed)
+
+# ===== ROLAGEM DE DADOS INLINE (1dM, NdM) =====
+@bot.event
+async def on_message(message):
+    if message.author.bot:
+        return
+
+    match = re.fullmatch(r'(\d*)d(\d+)', message.content.lower())
+    if match:
+        num_dice = int(match.group(1)) if match.group(1) else 1
+        sides = int(match.group(2))
+
+        if num_dice > 100:
+            await message.channel.send("❌ Não pode rolar mais de 100 dados de uma vez.")
+            return
+        if sides > 1000000:
+            await message.channel.send("❌ Número de lados muito grande.")
+            return
+
+        results = [random.randint(1, sides) for _ in range(num_dice)]
+        total = sum(results)
+        await message.channel.send(f"🎲 {message.content}: {results} → Total: {total}")
+
+    # Necessário para comandos normais continuarem funcionando
+    await bot.process_commands(message)
 
 # ===== INICIAR BOT =====
 bot.run(TOKEN)
