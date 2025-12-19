@@ -1,235 +1,922 @@
-[
-{
-    "domain": ".chatgpt.com",
-    "expirationDate": 1766174944.156442,
-    "hostOnly": false,
-    "httpOnly": true,
-    "name": "__cf_bm",
-    "path": "/",
-    "sameSite": "no_restriction",
-    "secure": true,
-    "session": false,
-    "storeId": "0",
-    "value": "miwz1f3J83hSYBshmWg8tNem.wNQ_LxVSETb_mbyayI-1766173145-1.0.1.1-Qt3k8k8LS_N7CmGMKqNT.Aq_MEExi2KN1zLJsAu.ubpTcoGuqk_ChxdGkJ5krgB1oOKFXOLxBZlKcp.MYGqnrN8.WLPQB7ddtkanyRDIFFU",
-    "id": 1
-},
-{
-    "domain": ".chatgpt.com",
-    "expirationDate": 1766175499.149192,
-    "hostOnly": false,
-    "httpOnly": true,
-    "name": "__chatroute",
-    "path": "/",
-    "sameSite": "no_restriction",
-    "secure": true,
-    "session": false,
-    "storeId": "0",
-    "value": "eyJhbGciOiJFUzI1NiIsImtpZCI6InM3V09lNzAzUXA2Z2VESkU0bWl6SHlTVU5ySm1MTElrbnRWSXZNT2lwajgiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3NjYxNzU1MDAsImlhdCI6MTc2NjE3MTkwMCwiaXNzIjoiY2hhdC1wb3J0ZXIiLCJwbGFuX3R5cGUiOiJmcmVlIn0.RJKulr6h7VBGv5nIlMFFObGLxL2R8U_dlX5UrkdKa3t6iL0HR9Gf6NArWNeu51s5-XYG806ZE7BavVO8GLNPsQ",
-    "id": 2
-},
-{
-    "domain": ".chatgpt.com",
-    "expirationDate": 1773940193.413837,
-    "hostOnly": false,
-    "httpOnly": true,
-    "name": "__Secure-next-auth.session-token",
-    "path": "/",
-    "sameSite": "lax",
-    "secure": true,
-    "session": false,
-    "storeId": "0",
-    "value": "eyJhbGciOiJkaXIiLCJlbmMiOiJBMjU2R0NNIn0..zAbEsP_DVa3Oy4Z3.NxgF5H1IQYB7sONNzlk1RJFOGJT-euBD6VOqaN8XcuE7v1A2NbCNMQAG0OQHGVOku4zIDK5BFQbjNGXEiQBi8cRsZJnYDAFexFNIMEXXX6-4qY4_Lsa60PMtAq8-oOSTKGswZbAIQQPn2RQIsxlzAXBxqtqgkyTivcHJ6NXHq1vrCMLhpzIaqp08BC7mnPX_8JTf6cQ037fxPcREe_2Jr9CllCmH5BTLUL6vyiPeA4X1kCqyPc3ovKznb-rNqbVfkQXF79-sisx32kUmMep4VCSCfZ1bnAXy4zqmUAhe12mTZRH3tlEM5daBA6F-lmDWyqdnuZEaHq-rgi70KNZBmcU_kcgUNmPpD94d7q59tOSf_i9eaC04U9YjTS-u-3tP7HCO_Zv7PZxd6EQCPRJBsieTy5fnhexSYHplILhbtxHOUsFr7HD-5Ypm8GnZXJkvFwl1sLlz2lHw8M8_cz67mjKLMrDBFVsPY3FAMH0b6sNuHDa08wma8kpkA_ljNSg-5zpAdzwd1yQ56Bs8aEYOvHh9XrxusrH2hiDtAkHUQXSU3z6OfeecBmOm8UrXE9b9dyMGejij2hjyoeHLfHzkGcRxmxPypGAj8gcbpor5dte8ZJQEhTMeDZ0YrlleOxcqAeaZSsXLyPgtJmW4qnstPasjmtau92-jcyMHmDXRkFfRV_tdHC7IRqH-Kq5_2fnhMzJFFk7zKo5SvVyCHc50NHWiLERtkmE45AARRKjhDxCp0OvMPNDCoUi2nb-nXRaN5FUdWgNZ6CzDAjU19QjZVof-Z7-VBaSQXfBfz0sOxuwj-wwXq-l_-BncsqLrtAZsK11qtAXwszs-Krnk-0esB9R-K88AKsNM_qjA0rqvU9oCjxAXz2NKjUqAa2g3lmwcPRfQDMuKkh5Wpuu0jGayW2k0lI4gnNqsoLmOjjfWPY2GxYBTmu6SsmJc9uprs8hfJXgHO1VmtUXNrxkD5v3iGMkKOsuhlpa6yvetTBN0POxsWmAnP3CNMMTowz9RUKFEXCF7FnH-aKuzr6-l3QTsrWA6ybz70ln1V35W8GybgYGhjIXexjsJGVTQPP-FUxkxXZzhihEhgUFtErAxl0xSPyE6H8Q-dPz2cb6-c7UzPxMUB5j-o6aDFujsPVhoSripZmDwyj1nLMdfTNkg5BpFCV3jA0VV8_2P48ENezN6QJhdTZE3wvlxbFWQR-Ojau-1EHU1_F32WO_NYmroJBHN8o3f74rKDv5Thlu_uH1ERVRwdC8Y-fnz_DMJc4FDgF2z-Cmgv9cAEBlZ0mneQX5tJ7DJso53nGgPWr3dRmJ5KlGMnNb1p8rHDY8GR--MEnsqs3o9Iz02ijT0TZQl03XdRsy0Hp6NmVbVLxv0Z0ZnuPCOvH2uUN0UZd058JTvuBBd0uPwWbWq81yDx2w9aq5iHpK4XIS0qemXq2z_MWREm69lReT-nbqFqFaknavBKZeLG2VjkBid066RndLyH3NzXkV2B9tL4Sm5SCR2yrfWF6cE_NQ_OpRLihnzvQAmU1j02x3lx8DahK9KsoO5nq9yw-m0qoxR6M0nDBdwIYP0LuIeHpmxamzvweas2n4xejZnmIVDbVubwjJOLnevj3BomIaQj2IfCl_SCcmitgWG5Cp4upB9bG5jzKG8J5dwbWuw_5q7ofAs8aA6nBdVDHDzYTyd64Jed-AgHupkkeYKQa7bNcJWkvN-xoEj-at1XM7dJdYXFpTvouCKiMQmbJtT6fopUJTzy7Emu4mycyuuqqfPkRksTiX54sTfiKlhsQPbUhQx1Ujb71H_m1YETdefvCANADtHbzlH86t6PqcpuDIMxcnQEmMLdMcW_Tywlf8ihNFnx4LKbrxjdMWXtVqTG6aJMvHPdUqTHUL1nUilXM5DKhwTK8Cdty7YPKxOzDglt554oSxaDKLB5sE__u1fG1-jkg0s7B57s_ETCfYH6ESgiBzFRjiPJBgsHlbwYvWTwSrP-fUynxNl-XYUkH_w0hGTbGU5wQVaOIZsQHimmaUgjVq7tNVpmwgr_P2n6iNwWcaN2bxibkKQ9Os3p_57ElhhgYFl5kmBoJm-_c-1HiOXmWh1dix1RjpYG8gMt01Tp5MC8Q7G6giqMcyu2P4kZE1fgHcPsXTWoh0lZWHG0mCxkmlAqsX6zR74m5XjExlk7rdKHtcUCljnMWVvzYLlYDPcpGWQYG-YWnarABqPYdIoa4yc7L4ZS7O9Qnw6dWI5dbYeAMpmUUXdKjYZ0PtFUtmJMaVArSRp1hgxlMYej8y4TZWD3CnngHSR-DPGY8yNSHeJHzeNVobBwHtR8x64PQ-z4XVRpXWik5EObxJeimXXH9E2a8JIgUy5nG96L-3ygpHJ1stWylqSLfhzSJk2C-ipyZjQ9YWsBlg87GzpOSTlP7FbEOxAzFJQawQ5N2edosYT0qMLVs_QWphMBOOQXWZQnBrSz8TgiA_-_65qspFUp707Rz5A2ALWgFTIvyMO4vbhPvyDz4Saor6EAjh3oTmKa7B9Cj-Cikv05U44LmerzAijDJdXplDRMUsHYGgwWOEq8765XZIuAWUl2NEJGEeNlzPhwPQV7HAOOTv7UIvJMf2xuDXuSRlE_WnMI412NjEBtkz0xgd_Yj5yhL5w5NeuIcDKYIPvhrRcuZJdLNxAcqeNZIb15pmbxQvZBPDgJJrJtQLUw3zpfA8DpwS2laOtijmJrWmEaSmOjdPTYBd-03YUR2ITs3C5wwFmgjOEQK365Z-CYnpHEXLvSfliKz_veOfQXuxFf7h2icFSL6qc-YzNGs3RAvx5iUXHi1roU3HA5ldF86g-_pnqWrZ-kU9QPkN8xjEPdwChvkuBiA72x485eMWmZDJtZ4xB0R_YsHiNulm4ec-1A3XnzLhlzKHNrNKLRuAKVfSXuGntYDKk1D3moCqhFgAWB-QzRy-CIzTy_o_haGxpXFzeKW31VHOusmu-Zxx-lzXXpotT_8RqmQIB8Kz6zRP9zoPj_i4AnMG8cYeuPtle48bKg6VDDfMsjKKdgLXvYUYklHG3OvEif5OusdLlf79g5BfxtyzjL_Eks_rElpNV3u0qVlN472yP0YOEMaMythZeA8lgQdFyvr51cwnuIe4wsLQYb3t_qoypDsQcwJRg2nrCqIeOrw2LHRpAaOxwOLN_Oxud9pw8z5tXk3R1pnXeokpwINVMRJ3-WM0c-WiHewaAD7metRFbHlpdu890mrdH5ZUgDx1N52Wu_8HNHPX8WafcTlTASnti47Vfe335McJQkRuzeFNZ6GPmatFTAdlJMrrSUm-_MYe3uIhshi8kgDCSe-YoiDXNk2ynHx_3JTq2b1-bhygnFTTChYLKpK3GZ9LI3RRVL9x0_DGey5_soHw25ZcEgIsd_6kz4vLcXSAt7IXj1YoZWQ8s9AvrCdbHZ6wspWwMt6p393byvTjJPteiEiGkKoByCbhOVVtBsDAMDU46MznY82G5SyP4Fsq_W1uMqcUc8egbH39s3jW-OTZg2g55LnXo2MXjh0sbEnxN6ArLEprPkDDnjd8eiyVUcYRnWdtivPN5-SrenUcnWF6FB6FM4dDvizMubYb0sUC6VDnyMyOwP_Ru4XcNrzhAWf-ZLwBFSZlE3sKt-t2bmtR8_f3PmWKZ1QkGFlihnS4.PrQmA0jqz-slh9rN6QYk3w",
-    "id": 3
-},
-{
-    "domain": ".chatgpt.com",
-    "hostOnly": false,
-    "httpOnly": true,
-    "name": "_cfuvid",
-    "path": "/",
-    "sameSite": "no_restriction",
-    "secure": true,
-    "session": true,
-    "storeId": "0",
-    "value": "g8SW25zD2LLBsJDbX46pIsHu_MAUY9WtZxNwUtyWCVQ-1766164194470-0.0.1.1-604800000",
-    "id": 4
-},
-{
-    "domain": ".chatgpt.com",
-    "expirationDate": 1797228604.893259,
-    "hostOnly": false,
-    "httpOnly": false,
-    "name": "oai-did",
-    "path": "/",
-    "sameSite": "lax",
-    "secure": false,
-    "session": false,
-    "storeId": "0",
-    "value": "8a81ddd6-93a1-4805-8964-ca4cef744da4",
-    "id": 5
-},
-{
-    "domain": ".chatgpt.com",
-    "expirationDate": 1797709009.209455,
-    "hostOnly": false,
-    "httpOnly": false,
-    "name": "oai-sc",
-    "path": "/",
-    "sameSite": "no_restriction",
-    "secure": true,
-    "session": false,
-    "storeId": "0",
-    "value": "0gAAAAABpRalSepd18izKOCkQM084-bzTalMWQdljqihBv0NUTkwsIagyEQ7S12A1jkVlBFcgPsmO8O13Xv-h6bXpO20BvMTCIxbSig2Ez2Q61GcLdAeD2SED2C3mtx-JBSK-jFyQIPglOLiBpndK53qS4AVGNDyIsUrCWdV0nRhuveeVg0zp7-C142vSVl3E5_3U2f7i_TzqseD9UK8T_znuaoNDoNLykhrQ7Bx3jWtngELQWKH79eE",
-    "id": 6
-},
-{
-    "domain": "chatgpt.com",
-    "expirationDate": 1766175082.716069,
-    "hostOnly": true,
-    "httpOnly": true,
-    "name": "__cflb",
-    "path": "/",
-    "sameSite": "no_restriction",
-    "secure": true,
-    "session": false,
-    "storeId": "0",
-    "value": "0H28vzvP5FJafnkHxismpqYcBQvc4Xc7n9Tpvj7p9dV",
-    "id": 7
-},
-{
-    "domain": "chatgpt.com",
-    "hostOnly": true,
-    "httpOnly": true,
-    "name": "__Host-next-auth.csrf-token",
-    "path": "/",
-    "sameSite": "lax",
-    "secure": true,
-    "session": true,
-    "storeId": "0",
-    "value": "b955de2793946f3ab172595341278008a6ad7c60c3a621ab18d598fe46b33510%7C0ff8f1dd1c771e6444d727373f2b0251a5a8d58a40527909972505042669b314",
-    "id": 8
-},
-{
-    "domain": "chatgpt.com",
-    "hostOnly": true,
-    "httpOnly": true,
-    "name": "__Secure-next-auth.callback-url",
-    "path": "/",
-    "sameSite": "lax",
-    "secure": true,
-    "session": true,
-    "storeId": "0",
-    "value": "https%3A%2F%2Fchatgpt.com",
-    "id": 9
-},
-{
-    "domain": "chatgpt.com",
-    "expirationDate": 1797709157,
-    "hostOnly": true,
-    "httpOnly": false,
-    "name": "_dd_s",
-    "path": "/",
-    "sameSite": "strict",
-    "secure": false,
-    "session": false,
-    "storeId": "0",
-    "value": "aid=c886de7b-f090-4db8-8d8d-60828819f5b0&rum=0&expire=1766174057850&logs=1&id=f9bec4b6-c839-4587-a032-3fef1378e574&created=1766161912715",
-    "id": 10
-},
-{
-    "domain": "chatgpt.com",
-    "expirationDate": 1766174809.057694,
-    "hostOnly": true,
-    "httpOnly": true,
-    "name": "_uasid",
-    "path": "/",
-    "sameSite": "no_restriction",
-    "secure": true,
-    "session": false,
-    "storeId": "0",
-    "value": "\"Z0FBQUFBQnBSYWxScFJWZ2xyel9CeGVSTENzYURzMUctRGVVY2ZCSUlaeDV3NC0yTmhkWkZQMF8yQ2dISVBmV3dnTmtIQTVpVlA4TThhNFV3WmoyRzNFaGsxS3RJTldEYUlUNm9SbW1jSXJNMzNvLWVXb2NiRjVtckxBbHFCWHVtV3FlNFl2bzRpckxSYzJWMFFmVmoxUGVHOHhCSUdIYUFHeVdKalRpUGRGaHdjRjhWNWlaQVJjWV9MNE9mSjBqZEVpNEt5bnphcElzZ1BEc25VQ0FEc3dYRTFCY1RNUjZzZWNiOXRybE1lNkJlcDYyVThEUkxUQkNlQnBPc3I0T1E2TFdqMFVtTE5HV0tOQjI3RjEzUHZVbU5kTTljQlJnMVhNYVlELV82VVRsdDg2RGVoRGgzU0hUVG9ja3JqemM2WnQ3dzNmYTdkZEdRUDBZOWlxOU1TNFQ4T2gwZWtUWm5RPT0=\"",
-    "id": 11
-},
-{
-    "domain": "chatgpt.com",
-    "expirationDate": 1766174809.057926,
-    "hostOnly": true,
-    "httpOnly": true,
-    "name": "_umsid",
-    "path": "/",
-    "sameSite": "no_restriction",
-    "secure": true,
-    "session": false,
-    "storeId": "0",
-    "value": "\"Z0FBQUFBQnBSYWxSdVJYOV9MRHJxQXdMZHpmZnB5enRoRjNDVmJsR19IS0FjRlJiR01IUVNMS1RHa1hrUnpreW9zeXdVZm1EZFRwdEo4QTlieGNCcmZjMUdiRTBZRDN2TGZuRWZNUXhrdFlpekozV2l4aEwxc0l5TVBndllZeFlpSGQxZDJsRjA2dVIxcUY2MlkzMGJUWF9JUWNWOHlDZ1dIbW0zTXFIQkduTnI2VFQwdzlZWW1RNXFEek9lc2lLT0s4QnBodmFQemlnNjVrX3lZYTdmUFJDWEdkaEJVcXl5RGx1b19nS2ZsZWhFb3FxOEtGQndiaz0=\"",
-    "id": 12
-},
-{
-    "domain": "chatgpt.com",
-    "expirationDate": 1781676606,
-    "hostOnly": true,
-    "httpOnly": false,
-    "name": "g_state",
-    "path": "/",
-    "sameSite": "unspecified",
-    "secure": false,
-    "session": false,
-    "storeId": "0",
-    "value": "{\"i_l\":0,\"i_ll\":1766124606779,\"i_b\":\"8Q3UvrMNhUMWQK4j9LzPctefxJb5mExHCjJ17phg658\",\"i_e\":{\"enable_itp_optimization\":0}}",
-    "id": 13
-},
-{
-    "domain": "chatgpt.com",
-    "expirationDate": 1768756198.131805,
-    "hostOnly": true,
-    "httpOnly": false,
-    "name": "oai-client-auth-info",
-    "path": "/",
-    "sameSite": "lax",
-    "secure": false,
-    "session": false,
-    "storeId": "0",
-    "value": "%7B%22user%22%3A%7B%22name%22%3A%22Marcos%22%2C%22email%22%3A%22yukisakamaki115%40gmail.com%22%2C%22picture%22%3Anull%2C%22connectionType%22%3A2%2C%22timestamp%22%3A1766164198131%7D%2C%22isOptedOut%22%3Afalse%7D",
-    "id": 14
-},
-{
-    "domain": "chatgpt.com",
-    "hostOnly": true,
-    "httpOnly": false,
-    "name": "oai-gn",
-    "path": "/",
-    "sameSite": "lax",
-    "secure": false,
-    "session": true,
-    "storeId": "0",
-    "value": "Marcos",
-    "id": 15
-},
-{
-    "domain": "chatgpt.com",
-    "expirationDate": 1797228617.423163,
-    "hostOnly": true,
-    "httpOnly": false,
-    "name": "oai-hlib",
-    "path": "/",
-    "sameSite": "lax",
-    "secure": false,
-    "session": false,
-    "storeId": "0",
-    "value": "true",
-    "id": 16
-},
-{
-    "domain": "chatgpt.com",
-    "hostOnly": true,
-    "httpOnly": false,
-    "name": "oai-hm",
-    "path": "/",
-    "sameSite": "lax",
-    "secure": false,
-    "session": true,
-    "storeId": "0",
-    "value": "SHOULD_WE_BEGIN%20%7C%20ON_YOUR_MIND",
-    "id": 17
-}
-]
+# Netscape HTTP Cookie File
+# https://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file! Do not edit.
+
+assets.msn.com	FALSE	/service/segments/recoitems	FALSE	0	_C_Auth	
+.msn.com	TRUE	/service/segments/recoitems	TRUE	0	MUID	
+.msn.com	TRUE	/service/segments/recoitems	TRUE	0	MUIDB	
+assets.msn.com	FALSE	/service/news/feed/pages	FALSE	0	_C_Auth	
+.msn.com	TRUE	/service/news/feed/pages	TRUE	0	MUID	
+.msn.com	TRUE	/service/news/feed/pages	TRUE	0	MUIDB	
+assets.msn.com	FALSE	/service/news/feed	FALSE	0	_C_Auth	
+.msn.com	TRUE	/service/news/feed	TRUE	0	MUID	
+.msn.com	TRUE	/service/news/feed	TRUE	0	MUIDB	
+assets.msn.com	FALSE	/service/msn	FALSE	0	_C_Auth	
+.msn.com	TRUE	/service/msn	TRUE	0	MUID	
+.msn.com	TRUE	/service/msn	TRUE	0	MUIDB	
+www.bing.com	FALSE	/rewardsapp	FALSE	0	_C_Auth	
+www.recaptcha.net	FALSE	/recaptcha	TRUE	1781715702	_GRECAPTCHA	09ABCLyOFFxv9m5UcjmcCeBY-jjcx4Jlx-aMCtcUSeDYO6sqzB7swJkjvrIwt94X6wik02aFIzaPAXcpUH2z-7ePQ
+mail.google.com	FALSE	/mail/u/0	TRUE	1766869342	COMPASS	gmail_ps=CrMBAAlriVdV8RdtXscIYxXYnTGPwWDoRFvhCYP5ptMjWHNx11_wP7dknv5Unb9i-ZKYyNjHQtissca9bU7e1s216h0Z1q9_nDuyHZFbQ0VAB6DXr_YzJ13T0Bb1brfnl3gjZWgxdIWm-DxMIB72dRzZvt1LUTi47iGXNJJkn3ejLMprkWiaTvMSecW_nfKE6Frj5FK2hw9QTCCSaGwAHJOaiNYngrh8qxlzVUR1DvZmCpm4IuQQluCQygYa6gEACWuJV6Urk-uPG57oVvDkchPqouFjGJdqQJV5Hs83euXv_z2L5I-CCLpvx_odPCzVDQQstvx-72KqVsB6mnGaRfLgXYZ6KkPT37mcdTZHQc3UM9YVKu4-PgzVwYsimpQP7mAwpUbz0XsjdedCU2BE8x-R7is5rCkXOjiFhW9RRiMXdb8mIdKyZj993oF3eSqwTQ5BAKTj0BlEFjEBL5ZbBqKdNIraH-tsBv2Q9rJSbQnlnpdP9-PFnTLQzi8eZDxJpymgnIfH6vGdeqLxD7uW8Jg4oz_n4GDhNqF0rbkY93y43mrHCJfpCBgwAQ:gmail=CsIBAAlriVeUopi94Ia4-mCkyiK9dSBb3vFONCxdo2bNiu2gCyU9pdrjE-qF9korvGNgbEVBKHnCWVQLmA0j_nuvCfRSEaikG27w4_UaCwyShmn0syCKPxkzpj3UIGNWNdmSrPqX25cj2bANEF-U9v0VjCpgA2RmM4F70QlzdXjC2oF6Ncc-AefluotA_4jL4rm7qgLqqtjZp3_N_0XCPdQ9i7m-OSjo_ASbWr-BC2mpq5gLRmHTOxnZ0N5FwN7vNhkp_nsQpduRygYa-QEACWuJV4ZzXyD5i3wDcLBOYG8yvAei96kvw5kQPywGCxOxAvYIs8_KjmifsWGDfvxIGCadi_FMOkcjo2Yrn25vUio8Ezuq1Jv6eYDVIKrcUTtanJeaxnlSerUGn251YYW7hWcFyapL7BsfnZ9DoN_QR8MRXnbpRk-qPBOfDEH2ZC632cIQs3AHao9kB9-zzf7tEkoQMkk_AAiOt2y--mYy-UtkgIjxxKuegB7z2SrdB8tGQ7JjAMz-LyfIpYChg500I9hlsPP2GAgWSYhsI2aef2Kp3wosSoHpdm8rDj8lQHGSuVy4QJYHpXLBjsKQ6OnA85Yu4ffB1IAwAQ
+mail.google.com	FALSE	/sync/u/0	TRUE	1766869342	COMPASS	bigtop-sync=CsMBAAlriVcosRptvy12DDGDHQtV7v8dptoYoqRVFLni4nvfdbjo562332-f8_cDMJ_dqpBhS8qVMWaYK6PAAEg5sfX5T_T4fJeRfEqwfDXSLLqH607jeH9F4tLcaMNHnlK752zq4hCvfT94k9voIFwO_J6PeUGDuc6QeVqf6XlLSEskv04AdedltABflmL3EWieWBmBZkWAebk2Dq8gR-fb4gOYz0Q1T1JXEiJzF9BwXyXztltYJfHky_wcTFcBXT9InWYvEMnZkcoGGvoBAAlriVcjoB26aTvhqtjtomDPTqC0TcblyrGQMAKxedZ6hTU22drOW-EqnM5MN_uupbWKi_ezYopbPBMxk_N6eJ4eFfGTUbKQA3XyqkudPhh1MXdywgcdaPhp6SI5-M_8bU1E-jF6PcNlQwiOuskbOcZHTVu4k9fS1wqeOywgYyhnkNmwkZUpPH12tysZSKHNohmkR6erI0p15H-tjvKh6YN64AIIx56vYdzLYamuw6fTr9G34BpbtRrRPMAlwUi4Y175703mMWjYtr_l7OExLQi1Foqme1FdcWGF1tOhgajkXYIgafktNq6Zou51FkC0PUSVI5Mz2Hhi5jAB
+.google.com	TRUE	/verify	TRUE	1781802282	SNID	AHDpxKlGUZIUxco4pWJ-1mGVMIIrMpkMsPPDoqetVYG4OzIb2F3WNjuI77jWHw4oZJy9L3kfFmxk5uLctDr9p_NSCa4VjGUu8OA
+.msn.com	TRUE	/edge	FALSE	1781888980	pglt-edgeChromium-dhp	299
+mail.google.com	FALSE	/mail	TRUE	1766855276	COMPASS	gmail_ps=CrMBAAlriVdV8RdtXscIYxXYnTGPwWDoRFvhCYP5ptMjWHNx11_wP7dknv5Unb9i-ZKYyNjHQtissca9bU7e1s216h0Z1q9_nDuyHZFbQ0VAB6DXr_YzJ13T0Bb1brfnl3gjZWgxdIWm-DxMIB72dRzZvt1LUTi47iGXNJJkn3ejLMprkWiaTvMSecW_nfKE6Frj5FK2hw9QTCCSaGwAHJOaiNYngrh8qxlzVUR1DvZmCpm4IuQQluCQygYa6gEACWuJV6Urk-uPG57oVvDkchPqouFjGJdqQJV5Hs83euXv_z2L5I-CCLpvx_odPCzVDQQstvx-72KqVsB6mnGaRfLgXYZ6KkPT37mcdTZHQc3UM9YVKu4-PgzVwYsimpQP7mAwpUbz0XsjdedCU2BE8x-R7is5rCkXOjiFhW9RRiMXdb8mIdKyZj993oF3eSqwTQ5BAKTj0BlEFjEBL5ZbBqKdNIraH-tsBv2Q9rJSbQnlnpdP9-PFnTLQzi8eZDxJpymgnIfH6vGdeqLxD7uW8Jg4oz_n4GDhNqF0rbkY93y43mrHCJfpCBgwAQ
+.msn.com	TRUE	/edge	FALSE	1781897203	pglt-edgeChromium-ntp	299
+www.yidio.com	FALSE	/show	FALSE	1768631910	yidio_user_country_code	BR
+ntp.msn.com	FALSE	/edge	FALSE	0	_C_Auth	
+discord.com	FALSE	/api	TRUE	0	__Secure-recent_mfa	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NjYxNjgxMjAsIm5iZiI6MTc2NjE2ODEyMCwiZXhwIjoxNzY2MTY4NDIwLCJpc3MiOiJ1cm46ZGlzY29yZC1hcGkiLCJhdWQiOiJ1cm46ZGlzY29yZC1tZmEtcmVwcm9tcHQiLCJ1c2VyIjoxMzk3MzMxNjgyMTgwMjAyNjM5fQ.vv285E354PvUudkJVuh9Eb9DS7oCujV3u_OZV_MbsdFUSoKNxbmqSqUaQL3lApbnnR3iOATux5Jpagx5sA6Ktw
+.metahuman.com	TRUE	/id	TRUE	1781762152	EPIC_SESSION_AP	ByVlmu0qkMRjAmYfQexMPQ.HjIK2gUL_6iI5ulkHgB3Ny3kk6JQrm42PmQqXbPfpTjM0X5h5WRgj_Ix__RzIF8fnGxOdUvURbbHT_GyRj9liTQ1GZGqlxFuQ3MleXWKNQPPy-vDp6w3hWSd0J6Mtl2V8d6AkZtG3vRl51KuKDk_YYyYbgFdsfh2boz28lC1D3AZpssaP0V8gzdiBNpayoapwT0z10IXTiQha-GXijF9uJ1cjNKk79pZLYN7s_grK62hBQLnqU_2RCLD88qygs0VU--LjihXJDPmGUt7qr1f45rjuK-OUsmqHkMdsR6ZA4HPRroAKJvJk61ttyLlfOrdiElOz49IXPVU1YxlRbgkwTfErnXndRZo77DBCEzih7SVAKxHtyAE7gmjlpTn9AY_22WPiGmh0ZYzYHsQYsW6_xje6BPXcKxcoidGvj-3xeKFEaA-8yBNbX8YfNseKikm8_Zziu6q8A7cK-49v6xF8BC11dDIX3PLzJg7utsAU-heY48BZD1U5GmzHjo5d3xVjVZJf_MQrtJSaal1malj6rq8MFsroS6O-3vf3k4wZbP0cGFh2LE6SXiX7weZPPvbo4BZkjHcqjS-dTHaxKjaq6YgvTgH1ouYrmtFq524R-zrjUfwE0-PmN2kJzF7EhIs00_zjyROYPLyA9xPn3eiRYFVoP8Lv_Byjzcug0qylKbZgDvkSQEtsQh5ejHxfHrkVgTMysAfoOM2PXhwbTcSGLYjBdW8roTGM2PoVWeGjbEboCCKC_2giH5Pq8tHpd1JHFoDZ2mU09hSIkaY05TOnylpnvsRQEH94HAiAvhlpSVDxltErTHpDdq6nrhXKmu4-1Bfa5M5QeC0MsdpUh_Hk3Kg2667pl9xXug8OQ6ryGiIY_7XEuLRogyD0vccQBkZEohXF5tWzzKqxA1H24HvFzRHlIsAvoKi4vUkCi6H8pn4KqnJBSP_CCFEvaLJWnLfgMw8sDj5KOe81m9qiE82610T54yYdDUWdqH-E4RsX7bAD5r1jXNyVUK2iTE0GBOc81dXHq2YcUcw-Hs7UWTH2O_d9G220temM1xxQMQ0WwmpXuOfe_4NEm0HdcfUP8mCe0Zi9KdsQtAkB0Ok-i_yzs0jsPIAeqnuOUkQXxoeQwfHLB2jHUI_c199Jr0FCIvd.1765992151820.15770000000.SGUGosTWM6oPL3MA23LPsg
+.unrealengine.com	TRUE	/id	TRUE	1781762152	EPIC_SESSION_AP	vp08TLUzseQUhP6hvmwELw.raGqR9bEJqGkG9fc_Kn2_f44MB3mBVym2ZdxAr9RDOw04el9AMVVCbEkWIYk7qHd1Zjtpu19ob5-30S7XxXBnt-5OoPngjyZ1123kCX8CFmSsVu8AjPsYvNIOo5fero9-kdzDVcUjUgVU94xh_vSl18E_7BeDSRy8bLFO0_jc-hzfNSxnO66fg38lVGVsEqOYAokGwm3xi8GEl6T0zoknYcIGHAd3NZuajy5LDjZSBuy2W-6tFllZkEkw6CIqL1B0Ao7I-VgYy_CGtPosjH4yM0CNudT9UygS8GlcAb4iUZH0mJyC5-h_7Jf3lG4spcHgl9Mk35rKJ1loW5QGk8SU6a7cRqXbvSjQPS2ZZl1-l5V9l47K8WZctEKgoEqINzqVVc6Lu64WTLj19ppr2wxR0-2--TdsUFgWhEoeK12l7LsUNnwYNXt19aEkF1Sbu-gpXVnmEA_T-DMJFtoINgGeRtcf50BdTdg3rvAx0E3_4mXMPdOjtO8KyvvB8OutS0I3Gk2T1zWS7_eB3ZL60bXd6P8Ib8pHwPOiSVk1mWiwitJD30Aw5YWziz5e3ESXavK9UdlbamXQmYVVS8al2b58Xv6GDAAizUkK4LmwiJAypMFZ-25KpPXuw5zIRiQuci5h_RnJ3QG-eQtyDKRI7BlSzw0eFZzHrrV4wS01ISN26HD82rFu83yopB9FcsbacXBKvQrFToNLnNTZTSBN1FhX16watNL92Hr7plZWmpZICb_4jFIOTpIWo9WJSujgCUDmtpmUHi975hkIY9eO99pDsmms7LMFrl81WF1QyxCzIMzJT46bS2BkiikldMnnKfNaxu_uGKXPqQ2yDuBzbZlZB8RRmOLCNTU2mME0n586SzgnijouBLn7JG1tfb1hZHb5IbSY-iVTIzFnaWgyQAOD5qxDNAPqFkLbXCBMF77lg5IKMm_oieYDEBcQGj_QWZA-gu08BNbSEt84Mbk320YbvsevO9FoetQ4wCmNJU3cw0M18iaGggN1xMOo7kA0MSyN6ca3UEqRbkB2bo4pF5vE3VzfRoLFHFt9ZzK4RebylqmB-7t-AFYJuFRTpYOcCsBMfU7ATAx4Mtng8B13iDAG3iLChyWB8CphCk902hvdJWnsf2H_Hl_BRcoCgAWjI5Z.1765992151901.15770000000.QMafbRd1RTvSxM0CPYQkwg
+.fortnite.com	TRUE	/id	TRUE	1781762152	EPIC_SESSION_AP	nM_j1rFp74rViAkVN0b_tg.7tetc_vOtxbbDlR8vt1zX7MVuAQmkr1_gHNWwvDdvFpX7ajwOOZKEP3FGucQkZoizlS5kqTuz3KwYC4cSUbLrKs75OgdY3Yyb3YQ0g1BdDEPOjbSunOG1NTQ5gMK68IEugJnz6qyeUrA9ISZcVgW7F_zRmzuBNoyLfz8gt5RWnnmwlYkz_9bghdtuguCZMcGTyLodLOZ1BBbskVb-rSHVlYV2ZU2fuUMq9MxH6sShiauVB9FYcROu2YpMbTf2dpPmx1cBrFdFZTOrpiS0tK8Zr09U_Y_VQqbsvo_ViQw_Wwswe6qzE4Kh1wPcW82ieIyjodHvWqRApe6kWu-RmYHM8BIwAxUd7TKPyVSLSQpATsmaoZC7hdJVAVZLhkCPu2f5v8KeSsBavp5N4pkWvOXPiTdiSkEOKkff83Dk5Q4zWqPhUzVga6ikCa2LoSv1s57pN7xIQfrlEjY6X_U4AM5RT7b9M8bdj9mnsEFq1Dkv0n95PpZNhgL6SQUsAFwZ7_P3We3FIJY1omsXyaFg_u5d2L1CNDBySXo-dPq0SSqRlx7gXMXzsfTrvu-qBCnExTL3-Lwqr_2iy10FwErFT1XtsaXu_iDTVBbmWhIChUkBtsujzPz7pC33q3snt6JSMyflgCggOaIcymSQVOiLo1iJaGh9TwUuWGJu1weWZX-JjHW-yHsqC8l6R797Yq0KD2htgXNJR3VMOeAuGqXiCa7pOjYH34q82iqnqFNbmt0VxFFAS0SdYFuMSQYv1icEaMpTAgT4ZvguBQVQk_RvxNL-boJCmWxBhk44TFRK9NVA4CtFk8HO9shCQox_NdJXOMcwGAZ5KIgJoexrfA4F69BJ6rXecid4wTx8SO8IO5wt52RaIfazes2kiG1KSgIXQIvtQ_8BzBzsmOL4vCaJ3yov_of-4KcdlzTYtnzZOHvWClHn_l0f9AkTv89elicn_OH-kqea8gOC4UJa6cQ815CwIoJ1-R0rJPSgUZXRHn0Hn4nvTZmsrzXFK8-wuAni4oLWwrMrm71LXlHe4i0j7_gTj75r7lNjCuWRgN3Dl6Hmz-w5QQLfFTM_OlnbIzx3dDDpiZ8Mry2Hj9ACAKZmDGb5YoXmqG79-2L1TyD3E0sXN0tjuGIS_ce_jGtDUddZztk.1765992151884.15770000000.sf705Org9mXeq57GiKKPcQ
+.twinmotion.com	TRUE	/id	TRUE	1781762152	EPIC_SESSION_AP	P4xZX_xoGMb_nfZD-q4ccw.6_M-HqEbpvXB3F8ZPXhR2glu4o7pSXFPCWHE91LQn0zD-6H3HNBtUd_zKi9tmac9tsKA1GWWf4QqnJ-AnfFrmrFIN_xgm-CFFJk0rXBB5jS3HBEd60RvCYCKuI8pgc3pKgoXnnkBMhg-NQii7ZM5mfgfTqkekEDUFZjmCtp2eDEYMLyqiTLtTnV_TLBVub_SWpf5f5RpuTxIItUyh_fVWCZl0G1PKpL6-2hubbnWQSMxk58kxqJWlMR3AU7-dOvm2_RUkWNN4TfnjVtQdz2Z8aOI5j6ahzk_BllK9E42kNfcirCIvWM3SEHKYrkdRY4ydFRSShP-rrBd_zTsF14Jo6zRjeD0JRxElDWo0XLMwJf0-MW6SLdDEWO3Kl0BgSv2jgC5Pjkw21HwVAM4aS4Gn4UeBTblSwN2vt0zp6zz_l5bZhKPRpOgXPM3UvyRC_sjcMomxtxx4oD3N5Bv8-Z_Ds48Dl3UBboPW1K1zPIvgymmszBAw8yelBB9_hcFbE9I8krJRe3zdqTYEHJFgX237AWWA_80Ike8b5SN2o8AYdmvhcYEn8s7_4vDR8LlN7M5W6TVw2JWjfrnMDik8UvMEkuM1bOj3IaPBcTj0XAR0VNBqQQi9qFcmHEoWnbjFEMX5qaKpmUzS9cJn2fxsFgXquI17B2tJbDDZ7NPEu7liFrJYLOCz9NXHICKQUw4eslz-V8Uyq8qIfOwcN_GV9uYPUo6q1Ok1djc7A7gfOSiEwp_puoxQ_q-B-6G0x8iYdZX4YogNh0zE36nBE28NGo1MtdPdJea30iZ6eXvh0Gy1gsEkVMUEOrFIqnnAxNZgvkUQ-D18vxRWS9evtIIoK21O-rO8oM4AXmBTYNelNJT1hypx-ojwzM_i3mreCucAu-5l3ASw8eGApr4zAgz2ZL71DzuIxTWw32Xi2Gy0fULuxC9FYv2B5aRjdFVfvw1rrbcJd2Zo7tYLrw2ALJ8x7HMjNimKgUrUQegQbpODfozFopkx1yayxB2NC5aLljslamxfke3pA0gXzOSDypQ1w1Nzf_qv3AwNB11Au3SIwjVc7v2TFlao4PW1zs4nc2pMSX2G_wlconKG5CPoBpzKSJJb4pSJM-C7hm4tlS9tinKeJohuFJ_7DoxBGRYds6ZDHcv.1765992152163.15770000000.PTMPD8RH3x_Qdfnd5rtCVg
+.epicgames.com	TRUE	/id	TRUE	1781775652	EPIC_SESSION_AP	eCBnhYKDzuiCadaZNXo1Qw.rVr40xX-MPcau5B5Rw1kgufZA5GN1ZMTQ_SdB53Pohfnrhwv8RvnFyCFa0ADPnESE0EQf-b94hJ15bUy2Octak8k8VKOzxhpvYlyUfQ-SAicXYudrea0_2MJAD7mzIpE48JJ20Su-YtFsVYiXVgjuSda8dzBrSs3EwFMgfsPuz5e5rVgqm254cby0UJdVs2U1eR5zvJ-f8ibU-t9GcZex_LuSNuol_ZY2OwJ5MdE0knNE_ot5oCg32l8hQ3Q4vVWRJZd7wFu3fibVFqzAyGEqiSli_GUHiivN9sKD5IQTiGuDUM3B4IqzUnIOr7tOKF9Tg60SmiHR2WonZY9H_67CwetJ4a_PwcRuhyRURfoV4Y5Lh19vwzX5srIC1nmbHbGclCHFJyeip1ZITwohl7xQBkmOFeVCrMrKxObIHxP2Z2DxwLHa3QHfUQevaTRBAVBa4xbkUnGS_Fa5tb_IQS7U7zk_Go-h4yMK_Bx2DI1Ht6HVhd_U6KcRIkHwSqqBEAdWLs6mCvi_3WrMT17JkyJNgFiGhH45U8oRmYxgYXtIKtf1oLZ9Ruh9fFAZpGQYxBNxDnc-iPyUsMXcbIes08bc4GZg0H8O5IhjJ83rEPNjYZ4fKaaM0TZU5Jti6bVDbO_0P7rWr8uULqcYELdA58XzpiVijPKoPrCwJBk6UVXnM_nedKvXv_X4UUrG9-J1v0K4dZ47gHwZC222QmJWWukxk5V7viA1NVIAg25qneQnJ892UarpGwh3qEwzzVZ7y1cJOEZ86ggY7kMCbd7ewAKNEeSyQLftlGEGeVpwa03LcdRxEGkBoq6rvn91UjIvtiV38W6NK4uDFjOHAEAIcK6y7U8u0TCEQg8kvNYNFppqUmYYaXG0xcVQWBPoAlSptOmaG3opNzNS7vJQteIYmBeouQiYzMG35unPT7R_himR-DOcP6L02fmN65heHNkjQQXeb8i1G9beLawkQz_-jwlVxyqDnje-hjfvAx1DqqV7oG7UuZZfDCch-qfpn9--zJTssEMVUsTuc2b1tM0vQ5gsPN2XCY10QUYzw0bXJv-MaoCt4eTlqu9bgMhC-x_FpMMCkzo-iwcyrnLULtM0vzGjZE8833zN-2krWhYy7hW-mV5p1ipVB5QMN25QrzPfolTvllmtthGX_23hAWhUJsmCuI4iRLq7kQneEkOEfDeS7LY-yS8yXKEetA7Pd5r91Bpf1rz35uQP6f-9_EkwOOQKKfeHaOosDCpSDgeaGV6EVNvqw8koER8P9X18KfsyPNWA-uQTqAAwcnd6tVjg4SeAcOjqrPjcuVVUnVb0KE48u0.1766005655067.15770000000._QeVsMaWBTv0pDRD816l4Q
+.bing.com	TRUE	/	FALSE	1797514475	_EDGE_V	1
+.bing.com	TRUE	/	TRUE	1797514475	SRCHD	AF=NOFORM
+.bing.com	TRUE	/	TRUE	1797514475	SRCHUID	V=2&GUID=5CC79558E3EA42F281A3C29CEECE6BE8&dmnchg=1
+.bing.com	TRUE	/	TRUE	1781896177	ANON	A=85940C939E6B7176DAFEE573FFFFFFFF
+.bing.com	TRUE	/	TRUE	1799804163	MUID	3658087F198C648F06B51ED318C66557
+www.bing.com	FALSE	/	FALSE	1799869790	MUIDB	3658087F198C648F06B51ED318C66557
+.bing.com	TRUE	/	TRUE	1797515024	SRCHUSR	DOB=20251122&DS=1
+copilot.microsoft.com	FALSE	/	TRUE	1797515024	MUID	32D36E6BC07F6E95375C78C7C1186F4A
+ntp.msn.com	FALSE	/	FALSE	1800551077	sptmarket	pt-BR||br|pt-br|pt-br|pt||reason=RevIP:br|cf=8|RefA=6942e2a50f504a558925376ec33f2933.RefC=2025-12-17T17:04:37Z
+.msn.com	TRUE	/	TRUE	1800551077	USRLOC	BID=MjUxMjE5MTQwOTQwXzA2ODUyYTM0MGVhMGViYzVlODdlZWUwNGFjMjc2MGZkOGVjZjRiYTgwOTJiODczMGExNWNjMzVmZmNlNGZkODQ=
+ntp.msn.com	FALSE	/	FALSE	1799687077	MUIDB	30A7B31F9266674B262EA5DA938B66F7
+.msn.com	TRUE	/	FALSE	1799687077	_EDGE_V	1
+api.msn.com	FALSE	/	FALSE	1800551077	sptmarket	pt-br||br|pt-br|pt-br|pt||reason=RevIP:br|cf=8|RefA=6942e2a6aad541e5bfb43e7f206501c2.RefC=2025-12-17T17:04:38Z
+.msn.com	TRUE	/	TRUE	1781543078	APP_ANON	A=85940C939E6B7176DAFEE573FFFFFFFF
+.msn.com	TRUE	/	TRUE	1781543078	aace	%7b%22child%22%3a0%2c%22expiredOn%22%3a%222026-06-15T17%3a04%3a38%22%7d
+.msn.com	TRUE	/	TRUE	1781543078	els	%7b%22account_type%22%3a%22MSA%22%7d
+api.msn.com	FALSE	/	FALSE	1799687078	MUIDB	30A7B31F9266674B262EA5DA938B66F7
+ntp.msn.com	FALSE	/	TRUE	1797708405	MicrosoftApplicationsTelemetryDeviceId	1d740c2d-0d28-4ff8-9cce-2651ec1b55af
+.scorecardresearch.com	TRUE	/	TRUE	1799868381	UID	1BDd1a4424f31a18c797ccb1765991079
+.msn.com	TRUE	/	TRUE	1799687078	MUIDB	30A7B31F9266674B262EA5DA938B66F7
+.ntp.msn.com	TRUE	/	FALSE	1797527079	sptmarket_restored	pt-BR||br|pt-br|pt-br|pt||reason=RevIP:br|cf=8|RefA=6942e2a50f504a558925376ec33f2933.RefC=2025-12-17T17:04:37Z
+.msn.com	TRUE	/	TRUE	1773948403	msnup	%7B%22cnex%22%3A%22no%22%7D
+.c.bing.com	TRUE	/	TRUE	1766595879	MR	0
+.c.bing.com	TRUE	/	TRUE	1799804163	SRM_B	3658087F198C648F06B51ED318C66557
+.c.bing.com	TRUE	/	TRUE	1799687079	SRM_M	3658087F198C648F06B51ED318C66557
+.msn.com	TRUE	/	TRUE	1799687079	MUID	3658087F198C648F06B51ED318C66557
+.c.msn.com	TRUE	/	TRUE	1799687079	SRM_M	3658087F198C648F06B51ED318C66557
+.c.msn.com	TRUE	/	TRUE	1766595879	MR	0
+.linkedin.com	TRUE	/	TRUE	1797705033	bcookie	"v=2&9bc58e5b-ee79-43ee-85e9-87dc3e4bcbd2"
+srtb.msn.com	FALSE	/	FALSE	1800551080	sptmarket	pt-br||br|pt-br|pt-br|pt||reason=RevIP:br|cf=8|RefA=C3FE5E79573D4B9B9DA38EF51172CF19.RefC=2025-12-17T17:04:40Z
+accounts.google.com	FALSE	/	TRUE	1768583084	OTZ	8394785_68_64_73560_68_416340
+.google.com	TRUE	/	FALSE	1800551276	HSID	AxJpXNpVmKJGeJiWN
+.google.com	TRUE	/	TRUE	1800551276	SSID	A7Pji5s-DGGe2pHVf
+.google.com	TRUE	/	FALSE	1800551276	APISID	3RFI_XJcp8i8yPH7/AFnr419o23gWWFuHj
+.google.com	TRUE	/	TRUE	1800551276	SAPISID	wR5lYOLJ5X0oYLxi/Anrc_Jhj_AGk-ed2x
+.google.com	TRUE	/	TRUE	1800551276	__Secure-1PAPISID	wR5lYOLJ5X0oYLxi/Anrc_Jhj_AGk-ed2x
+.google.com	TRUE	/	TRUE	1800551276	__Secure-3PAPISID	wR5lYOLJ5X0oYLxi/Anrc_Jhj_AGk-ed2x
+accounts.google.com	FALSE	/	TRUE	1800551245	ACCOUNT_CHOOSER	AFx_qI7bqaee6P3CsI_v9fa48KB62JANJJ7xSEOeEB-Hbfh2_aOCR6dPQUfCia9VzoSLreIhUdqFFr0TayprAs2h_LOeCk_KS447xI_VI1mVeIzWDgRAOWs6ZFpT6SC6FGJmLtFHnYJFxBz26kEfqar5j8_pk-SGJw
+myaccount.google.com	FALSE	/	TRUE	1800551246	OSID	g.a0004ggnCzYAKLkq7kK97pUVSBaEdruWNkQ2Tm9nUhhZzMBDFIBbbNaQCkTR8Y1KLcNcFtygTwACgYKAUASARMSFQHGX2MiKKVn2ShZpxXn65bZiG4BFxoVAUF8yKqvmTwpWjmkdMPQ8RuFbue30076
+myaccount.google.com	FALSE	/	TRUE	1800551246	__Secure-OSID	g.a0004ggnCzYAKLkq7kK97pUVSBaEdruWNkQ2Tm9nUhhZzMBDFIBbfRwnprWP7PYK0m7flqtxUwACgYKAYESARMSFQHGX2Mi-MzXbj4o9bpyqMuyxNnhVhoVAUF8yKo5VfxLULrlnjPxODm1Crld0076
+myaccount.google.com	FALSE	/	TRUE	1768583247	OTZ	8394787_68_64_73560_68_416340
+www.google.com	FALSE	/	TRUE	1768583248	OTZ	8394787_68_64_73560_68_416340
+ogs.google.com	FALSE	/	TRUE	1768583251	OTZ	8394788_68_64_73560_68_416340
+mail.google.com	FALSE	/	TRUE	1800551276	OSID	g.a0004ggnCz2DngHh4Qzd5752VzjyGF9QYmMLo3d_XP7wxzFMdxsH0s5Py1BXyWDC10pl1XbIawACgYKAbgSARMSFQHGX2MicXiw9c1s7RO6GMzEyafSgRoVAUF8yKpkxnuxtQxTN3iRHuFCRVDH0076
+mail.google.com	FALSE	/	TRUE	1800551276	__Secure-OSID	g.a0004ggnCz2DngHh4Qzd5752VzjyGF9QYmMLo3d_XP7wxzFMdxsHT3hnmL_C_Q3DHjc997PWaQACgYKAXASARMSFQHGX2MitcATKkkYTFmSZcakmqEePhoVAUF8yKrff82zVZqk9SYarIKwtFc00076
+.google.com	TRUE	/	FALSE	1800551276	SID	g.a0004ggnC23Hmq989KNckOXjd3aDCq2uPbHaOi7ZCrNb-VdlvmyYECpZY5S1GxorFj2pMHq-LAACgYKAWYSARMSFQHGX2MiqtMMJatgskzHo1flECNnYxoVAUF8yKpsyaQxqALCY5o_I1JYKJbR0076
+.google.com	TRUE	/	TRUE	1800551276	__Secure-1PSID	g.a0004ggnC23Hmq989KNckOXjd3aDCq2uPbHaOi7ZCrNb-VdlvmyYCFVzgJOl6aT8cRdhIt2TwwACgYKAYoSARMSFQHGX2MixZ9H6w0n-qI9Vu1I-bi4ehoVAUF8yKqaLCUQMQ3uSw3ddQ5EmbfL0076
+.google.com	TRUE	/	TRUE	1800551276	__Secure-3PSID	g.a0004ggnC23Hmq989KNckOXjd3aDCq2uPbHaOi7ZCrNb-VdlvmyYtXazPymw14W5pHuRgM_A8AACgYKAeASARMSFQHGX2MiPu_z2frwKp2FXQasqCxB0BoVAUF8yKqvqwnARL4NHS39mafyVhg50076
+mail.google.com	FALSE	/	TRUE	1768583277	__Host-GMAIL_SCH_GMN	1
+mail.google.com	FALSE	/	TRUE	1768583277	__Host-GMAIL_SCH_GMS	1
+mail.google.com	FALSE	/	TRUE	1768583277	__Host-GMAIL_SCH_GML	1
+.google.com	TRUE	/	FALSE	1781543278	SEARCH_SAMESITE	CgQI158B
+.google.com	TRUE	/	TRUE	1781543278	__Secure-BUCKET	CJ4B
+contacts.google.com	FALSE	/	TRUE	1768583282	OTZ	8394788_68_64_73560_68_416340
+.epicgames.com	TRUE	/	TRUE	1773767543	EPIC_DEVICE	4a776d87470d495c9dd3b30dcdf5af27
+.epicgames.com	TRUE	/	TRUE	1800551543	EPIC_LOGIN_ID	%7B%22loginId%22%3A%22aaae00a6-f36c-4fd0-bdcd-37d163619494%22%2C%22created%22%3A1765991544143%7D
+.epicgames.com	TRUE	/	TRUE	1797527907	_tald	582c66e9-6a79-4875-83bc-141d47c2143b
+.twinmotion.com	TRUE	/	TRUE	1773767937	EPIC_DEVICE	714bf11130c3460682e74c94556f7fa5
+.unrealengine.com	TRUE	/	TRUE	1773767937	EPIC_DEVICE	c63536687d1941bcbad7e3226e45eac6
+.metahuman.com	TRUE	/	TRUE	1773767937	EPIC_DEVICE	f7938e2d4ed4414b9ccb7e2b752cb4a3
+.fortnite.com	TRUE	/	TRUE	1773767937	EPIC_DEVICE	fb3d105989e141b3821907798da6e1cb
+.epicgames.com	TRUE	/	TRUE	1781775421	EPIC_SSO_RM	a90a9ea8bcc9471fb9fccdacb3a704ec
+.metahuman.com	TRUE	/	TRUE	1781775421	EPIC_SSO_RM	a90a9ea8bcc9471fb9fccdacb3a704ec
+.unrealengine.com	TRUE	/	TRUE	1781775421	EPIC_SSO_RM	a90a9ea8bcc9471fb9fccdacb3a704ec
+.fortnite.com	TRUE	/	TRUE	1781775421	EPIC_SSO_RM	a90a9ea8bcc9471fb9fccdacb3a704ec
+.twinmotion.com	TRUE	/	TRUE	1781775421	EPIC_SSO_RM	a90a9ea8bcc9471fb9fccdacb3a704ec
+.google.com	TRUE	/	TRUE	1781557107	AEC	AaJma5sBzzZG8XKdzk0GWv2MwLZVXOazQMBPnvKQ9WXBy52BjtCg0mNJMd0
+.web.whatsapp.com	TRUE	/	TRUE	1773781192	wa_ul	d09a7715-fba7-411c-a628-12ab454cc51a
+.web.whatsapp.com	TRUE	/	TRUE	1768584802	wa_web_lang_pref	pt_BR
+mail.google.com	FALSE	/	TRUE	1766869348	COMPASS	appsfrontendserver=CgAQ9tCMygYaewAJa4lXWPjGaoXI0b7dTxozpia-ksf2xMAHcWL1l8waIx-AZsLAfwMiq0n6l5tRatgKLhFMB4RMfHxRQSWriRy25yclITa93TXt8RiNB9QIzacOoCoo2xxxVo50JyMabtm84Us1HuyFZgupQKJgr_njbU49bsdPIEanpSABMAE
+ntp.msn.com	FALSE	/	TRUE	1797541413	MSFPC	GUID=b48f0c5a456a4e2ea97224ad07c5bed7&HASH=b48f&LV=202512&V=4&LU=1766005415724
+.store.epicgames.com	TRUE	/	TRUE	1773781421	bearerTokenHash	01f5fcddf4df6227a041b2384f323596992d6a86ecaba274a5894932ae63bfc9
+.store.epicgames.com	TRUE	/	TRUE	1773781421	REFRESH_EPIC_EG1	eg1~eyJraWQiOiJnX19WS2pTU21xSjB4WmoxUllrTEdLUTdkbkhpTTlNTGhGVndLUHlTREI0IiwiYWxnIjoiUFMyNTYifQ.eyJzdWIiOiIzODAwMDhjZWRhMjU0MDg4ODVlYTRkMzAyMmE3MWRjYyIsImR2aWQiOiI0YTc3NmQ4NzQ3MGQ0OTVjOWRkM2IzMGRjZGY1YWYyNyIsInQiOiJyIiwiY2xpZCI6Ijg3NWEzYjU3ZDNhNjQwYTZiN2Y5YjRlODgzNDYzYWI0IiwiZXhwIjoxNzczNzgxNDIzLCJhbSI6InRva2VuX3RvX3Rva2VuIiwianRpIjoiMmU5NDRiYjVkOGJmNGJhODk3OWJjYmUyOTA5OTg0ZjkifQ.IkagXEiCBbF4tsmw-O8Q8K2hISx0fB1B0sGnZqOeGJmv65ZPGwCZMr9j6un99tpEtt2IA6-P6riZfhutH9VVJAmx4cnVqnAEd2dNuFYoaSGeefGjmhi7-2nEUG5CoE_9i8KsTGnXGH3Kuz3Zh5zRRxK8YB_9tuxcUF5LfkUpaUZgxVCq35Hxgn9xSlgFZPw2VokH5I8Xb4p0T7sy9MsBHdBnVOOmig9cT30HR0oQLYj4TyrB0gtbaNBvk4Szv8lKO-XSlQCP8uYElVaLG2Ss5ZF3wUDwzfwG2J7kbGCiwi-s5Qa4L5FcbOAx1zD66_5zfsVNb0sQP7i68dHrzmzzUXL1nuKRxEP00gjLti7kaMfRbsVb3YCNPCfZyui_ePBY3aV6IGD3qHXYk79T1yzbsliY8_DTedj9QZx9wWMfwR6t2M55Sx5iyb0lLhOWkk7G-ObzxwcXy5yvPoF57WblAZKiwLo5kqAJCW58ht8_EShncCa0mRQJZ7NP2qDuYTmxkhh0dKgqa_UK_PvXM0eI_BXfUFLDSTgHRtiu_L9HD4lw1oB2eZWySq1B0Cnh_gvMYcDaqrhnAwKJNpf_OpZLRRJpiAG6mLcW8c34soGXFEEziQiNTM6vTqAmSBnFjR4w4JWTqAOVK9o6WfGM5mAwuztCNIEe52358CDBARrNMiI
+.store.epicgames.com	TRUE	/	FALSE	1773781421	refreshTokenExpires	2026-03-17T21%3A03%3A43.961Z
+store.epicgames.com	FALSE	/	FALSE	1766610224	EGS_VAULT_UNLOCK	%7B%22e4f007a25ee8426e97c16e994f6127e9%22%3Atrue%7D
+.epicgames.com	TRUE	/	TRUE	1797541436	dfpfpt	98119504c56641f09f73c2a20b23ae6f
+payment-website-pci.ol.epicgames.com	FALSE	/	FALSE	1766610566	AWSALBTG	I20BYMFamayTBwSI8EDRyVy/SZN9KMhWdMrZLGC2nM+4e3TSpdYthlnWUrtJ/x6L0tAMgeJ8C5SfRNqbLi9Q//jlWcCBVEyEX1xit6cbE/wWzvQaVnmTkHxjONsClfvjux1qPKMfEcl2twY0Y1XRkibjejLBBttuPV4vzL9XlTkVUk04x9Q=
+payment-website-pci.ol.epicgames.com	FALSE	/	TRUE	1766610566	AWSALBTGCORS	I20BYMFamayTBwSI8EDRyVy/SZN9KMhWdMrZLGC2nM+4e3TSpdYthlnWUrtJ/x6L0tAMgeJ8C5SfRNqbLi9Q//jlWcCBVEyEX1xit6cbE/wWzvQaVnmTkHxjONsClfvjux1qPKMfEcl2twY0Y1XRkibjejLBBttuPV4vzL9XlTkVUk04x9Q=
+payment-website-pci.ol.epicgames.com	FALSE	/	FALSE	1766610566	AWSALB	QUERguSFbD7iJ1nQcgtl/tIlfRSURWI+iRmsnqVBcH/WBTz54r7t6QxyDFbY8TDLMZgPCY3Guw4C0FG5gFVPoyidm48sx/32WZWYbLI3V9pwWJbC751fHwo+Xfx3
+payment-website-pci.ol.epicgames.com	FALSE	/	TRUE	1766610566	AWSALBCORS	QUERguSFbD7iJ1nQcgtl/tIlfRSURWI+iRmsnqVBcH/WBTz54r7t6QxyDFbY8TDLMZgPCY3Guw4C0FG5gFVPoyidm48sx/32WZWYbLI3V9pwWJbC751fHwo+Xfx3
+.discord.com	TRUE	/	FALSE	1800726587	_ga	GA1.1.1718168108.1766005846
+.bing.com	TRUE	/	TRUE	1797541876	BCP	AD=1&AL=1&SM=1
+discord.com	FALSE	/	TRUE	1800566017	__dcfduid	4201eee0db8d11f0bfd019327cac342f
+discord.com	FALSE	/	TRUE	1800566017	__sdcfduid	4201eee1db8d11f0bfd019327cac342f6d873302c0b179386ed82aab778e7dd06f8adcd05348bddf70bfe52f80a3718a
+.discord.com	TRUE	/	TRUE	1797542527	__stripe_mid	f7aaf953-d11d-4a9c-8e2d-9bdc4d678dcb7cf074
+.allinoneruntimes.org	TRUE	/	FALSE	1800578804	_ga	GA1.1.892625082.1766018804
+.allinoneruntimes.org	TRUE	/	TRUE	1799714807	__gads	ID=34bd58050f1feed2:T=1766018807:RT=1766018807:S=ALNI_MZcdoeT8YlfnoaUN8YDSnOSvg-v-w
+.allinoneruntimes.org	TRUE	/	TRUE	1799714807	__gpi	UID=000012ab368ae4fc:T=1766018807:RT=1766018807:S=ALNI_MbgOOget1Ixi74jVgyN4yOERFzdrg
+.allinoneruntimes.org	TRUE	/	TRUE	1781570807	__eoi	ID=4597a5d783a01cdd:T=1766018807:RT=1766018807:S=AA-AfjaDQ6-gAeLpqFG8nhtj2QYn
+.allinoneruntimes.org	TRUE	/	FALSE	1799714806	FCCDCF	%5Bnull%2Cnull%2Cnull%2Cnull%2Cnull%2Cnull%2C%5B%5B32%2C%22%5B%5C%22cbcc35f3-9072-4d47-a6d9-757eabab2768%5C%22%2C%5B1766018804%2C821000000%5D%5D%22%5D%5D%5D
+.allinoneruntimes.org	TRUE	/	FALSE	1797554806	FCNEC	%5B%5B%22AKsRol-OUyBIZjLbOIcw8rE1Dsrp93Edwhg06esDHRC7UGKNJQbhykG2L8fKVpwz0GVtnfSs96F2Pvyg1maGe68YR9CZszSZ2YhlPtaWSj13FECn9IQkjzlW0ZRlSlvHktLdHGUREyogRK9fKUL9bwpITqHODXLvIA%3D%3D%22%5D%5D
+.admaster.cc	TRUE	/	TRUE	1797554807	__mguid_	800cce957be10cd52jly6j00mjaq02v7
+.advolve.io	TRUE	/	TRUE	1797554807	x	69434efa4b13fab6ed7a9750
+.doubleclick.net	TRUE	/	TRUE	1767225597	DSID	AEhM4MfgXx-xksH73ylAIX_qlgOjja556s4nTDBGydoo2rWfHuBBc1gzMHXQSfcRERgIqbYekh6H-OZEzkbDQqL8-HUojPOXAhnxrgFBpsAqQsV80CYfGevDFsp8PB4KbClx9FGfSxDixJZoJXaMLv1j0ehWfdhKv8CWAmt0W2NRFXppRqJsTlCrnijS5tHU1KfBsURdNnVS67dhe4oMJUmDPbmfTIY16XKAxOTAz2PlDJWzcD33G2SBtfhYorw-NT-AlDoupm_zzM42g2i2OKWQGMKjNz9afPZ6KmOJ4qtzOjRzlkdRO1w
+.moloco.com	TRUE	/	TRUE	1797554807	mlcwc	eyJ2ZXJzaW9uIjoxLCJwYXlsb2FkIjoiMXBkMzZzMUsxOEZMNXMrMDQ2UFpVdFIrOE16R2k1WWNMUWFtb2FNQ2R0czV0a2xxU08zd3dubGtVQlpRS1phREE1R2IrdnVPYXY3b0lNaHZoeXVJeWVPU0luV1JkOXdoNVdzeFIycTVodlVUUkpyWWFaQ3lMTmk2NkdTZmx5QWJKZ1RYaXNPVWVMNXNMWjM5RTZ6QXo5bDdQOE9YWVZpLzBLVS9SeC9YWEk2bWVlZkxObzhURncrRUdaMXJKOFRLTnMrMVo0Qi8rSkI5ajBqMnB2ZHVhdGFQOVNBSTNpSVBSTlBVZkFmYWo4VHVmL3dnYXdlemhuU0VtZXNPN2lzPSIsIm5vbmNlIjoiRkhKcm94MllFTlNnVGVRbiJ9
+.discord.com	TRUE	/	FALSE	1797555005	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Dec+17+2025+21%3A50%3A05+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202501.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=d9ea45d5-82b4-49a8-bdf3-ff044433524c&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A0%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false
+.discord.com	TRUE	/	FALSE	1800579010	_ga_YL03HBJY7E	GS2.1.s1766019005$o2$g0$t1766019009$j56$l0$h0
+.allinoneruntimes.org	TRUE	/	FALSE	1800579024	_ga_PQ5YYQN1HB	GS2.1.s1766018803$o1$g0$t1766019023$j60$l0$h0
+br.pinterest.com	FALSE	/	TRUE	1797559699	csrftoken	8aa3ba3d91f92c9ed7edc11fc0904585
+.pinterest.com	TRUE	/	TRUE	1797127704	_auth	1
+.pinterest.com	TRUE	/	TRUE	1797127704	_pinterest_sess	TWc9PSZSRktpOGZ3eGpMRDkvSmFSQlpLdjdSODJKTUorUVVaWk5nRmhXRkRQYmZLOHJRY2NqTkFYY2tSVndTOUFnNHI1YTF5MkVubXF3c2lwTmRtNktXNEZySDBHSUZsUWpEUWoxUTduRTRCcXYxY1hkRytWczVSOTVLdGpsOGxtdFNjNXNSZ1VXQkFFejlzV2dEYzB0WnVkVVRiR0E4Yno3SEM3SVJBVGorZ1lWeW9ONDR4bTYyZ2NESk0vRjdpTnlWMzdxN25pNCtaVUczbjFEMWNVbmRCY0NvenY2b0k2SElZclBRcGdSVHFZNXlkSm5EMGM1Vld2R2w5VzFtM2ZrOVQram1JbUhrSmdHMUgwU3N6dkpRZ3V2L3I2a0krNXRhNXRUWFBjNGt5VW9zWXY1a3hYTEhJT1ZyaEIyMHBnTzAxbmF0RWtRbUowb2JKd2FOaWthWWxHY3VBcyttRUZ0aDVjWFZwMGs4VGdvRlhGRWhEWGdENUswcm4rRCtVbHVvSU5kSm8vaDU2dUhOaStpbmNybkc4d3ZBPT0mTEZVNGM0WFRHdytNb0pmWFB1TDZaY2pzdjU0PQ==
+.pinterest.com	TRUE	/	TRUE	1797127704	__Secure-s_a	L2o0VjZaMS9yQWF4RGpDMUZLYWtyTGwrRWVXcXJ3MDRnMkpUazNiQTZzcyt4Ukx4d3pnZU5TWFBibE94UXY1cUVuY09RcEJwQ0lHNVZrMkV6cTN6N2I0RWZWRm5MSy9UZjBST0o1MWpPQmZzdEx0cDh0ZHpZZmZqcnhYWHlRV3B0NTF2SUs0YWRNU3ZEd2JUVFh5M1NnWWdaMXBWVjN6NFZUVnRtdWVoOEVuTDNvZmZGaGJhWDFsNDI2MytYb2dmbEFiZFdJZ1lubCtldUIvUHJiV0g3QXo3ajVTVU9xaWNMejNqMW56aDdxWlRQQXF0TFRHY0pvcHVoTmZ5RnpVeVVkRnRHTGxPMmM5R0YvSFdYVnI4aXk1cnBYRDJSWWxMaWJSSXZWNnNZVWM9JjBRMkoydVVraFF5T0pnSXhXY05RdFNLa1RwND0=
+.pinterest.com	TRUE	/	FALSE	1800583705	_b	"AY8e3a4yxlBCbbVsM5IA9lAl/SvkyI1fdjCUqPq+Hwa41AraBaWB17X9MOGKeHKczfQ="
+.youtube.com	TRUE	/	TRUE	1800586381	__Secure-3PAPISID	wR5lYOLJ5X0oYLxi/Anrc_Jhj_AGk-ed2x
+.youtube.com	TRUE	/	TRUE	1800586381	__Secure-3PSID	g.a0004ggnC23Hmq989KNckOXjd3aDCq2uPbHaOi7ZCrNb-VdlvmyYtXazPymw14W5pHuRgM_A8AACgYKAeASARMSFQHGX2MiPu_z2frwKp2FXQasqCxB0BoVAUF8yKqvqwnARL4NHS39mafyVhg50076
+.youtube.com	TRUE	/	TRUE	1800586382	LOGIN_INFO	AFmmF2swRAIgeb1M6VqfJ8vxBN3a6gQKt4uuylZKuWFoK55Sijci3IECIERJyknX_g7wDqGZlqDrUE_we3K4dWgm8sfOXOzSwpsh:QUQ3MjNmd0hIc0ZLRVNhNEd1TTlpN2p5V05XRlJRT1p5WHZMbnBsSzI4dXZSRUVodXVVSnRLUDEzclhpSm9CTFNmS1NqN09UbFAwQnRfN3hucWVSNTFBdTVTaGhYZWxYWkJqVUJFTUZBTVN5SjRGVDV0b0kzbjQxejBySlhRWm9RVUhzMWh1ck1GSDZRQWZma05ZcFZrMkVWeXpidktKVmRB
+.youtube.com	TRUE	/	TRUE	1800733055	PREF	f4=4000000&f6=40000000&tz=America.Sao_Paulo
+.google.com.br	TRUE	/	TRUE	1781837586	NID	527=20vRW2LWOugdCGGDlyHsdenmTguhfO1olsB4GK_AaQ7vC_BjV50cApsz_Q00G7-yZTSwCyYawX-J3XrPV0TToL4tnjOknp9KZlXYycykrdZQU2B3VVe4UAkAzqpispB7kFjQQhmNT_cozxSlFeLZuUnJWTLKctks0Zvrz4SxKwxhoZ69Toi-vV3Enl-kqDLvC6m5Ir8GcV17lD4
+.rifa.digital	TRUE	/	FALSE	1773804919	_gcl_au	1.1.803138313.1766028919
+.rifa.digital	TRUE	/	FALSE	1773804919	_fbp	fb.1.1766028919134.47303421422297149
+.rifa.digital	TRUE	/	FALSE	1800588919	_ga	GA1.1.176512136.1766028919
+.rifa.digital	TRUE	/	FALSE	1800589038	_ga_KHYBPRP9RF	GS2.1.s1766028919$o1$g1$t1766029037$j60$l0$h0
+.doubleclick.net	TRUE	/	TRUE	1768714201	ar_debug	1
+.bilibili.tv	TRUE	/	FALSE	1797575792	buvid3	07cf2085-f11b-4371-a2b7-500939e9262316228infoc
+www.bilibili.tv	FALSE	/	FALSE	1781591794	g_state	{"i_l":0,"i_ll":1766039794445,"i_b":"I4JbA5NzjNbXt5Xjvm2T7j8qWF7Abi2tfyNCwzwuccY","i_e":{"enable_itp_optimization":0}}
+.bilibili.tv	TRUE	/	FALSE	1800599795	_ga	GA1.1.129759430.1766039795
+.bilibili.tv	TRUE	/	FALSE	1800599795	buvid4	3C1F5C92-07EE-97F9-F909-8F3C507E6FFE97164-025121814-OFeAoRY1%2BBIhe%2FXbixe7pg%3D%3D
+.bilibili.tv	TRUE	/	FALSE	1800599807	_ga_RFQM4DCRV2	GS2.1.s1766039794$o1$g0$t1766039806$j48$l0$h0
+www.msn.com	FALSE	/	TRUE	1797575876	MicrosoftApplicationsTelemetryDeviceId	34ef87f5-65e7-4dfb-8710-1104a3c20b59
+.msn.com	TRUE	/	TRUE	1797575876	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Dec+18+2025+03%3A37%3A56+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202501.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&landingPath=https%3A%2F%2Fwww.msn.com%2Fpt-br%2Fnoticias%2Fbrasil%2Fapresentadora-christina-%25C3%25A9-encontrada-morta-ao-lado-do-marido-devastada%2Far-AA1Sxf6u%3Focid%3Dmsedgntp%26pc%3DU531%26cvid%3D6943a0e5d71f4bb587fdedf4f1b24ec9%26ei%3D8&groups=C0001%3A1%2CC0003%3A0%2CC0002%3A0%2CC0004%3A0%2CV2STACK42%3A0
+edgecompanion.msn.com	FALSE	/	TRUE	1797575879	MicrosoftApplicationsTelemetryDeviceId	97433de8-18d3-4455-ad39-ce6cd13c652e
+www.yidio.com	FALSE	/	FALSE	1800599910	yidio_ga_id	868533689012
+www.yidio.com	FALSE	/	FALSE	1768631910	new_ip_cookie_369	eJzLtDK0BgAC8wEQ
+www.yidio.com	FALSE	/	FALSE	1768631910	all_utm_params	DIRMKT_Bing_Organic_yidiobr_
+www.yidio.com	FALSE	/	FALSE	1768631910	yidio_utm_source	Bing
+www.yidio.com	FALSE	/	FALSE	1768631910	yidio_utm_medium	Organic
+www.yidio.com	FALSE	/	FALSE	1768631910	yidio_utm_campaign	yidiobr
+.yidio.com	TRUE	/	TRUE	1773815910	_rdt_uuid	1766039910186.53c5f43e-59e4-4659-9d49-1abe8f9e57e9
+www.yidio.com	FALSE	/	FALSE	1768631910	yidio_user_country_code	BR
+.yidio.com	TRUE	/	FALSE	1800599910	_ga	GA1.1.217892570.1766039910
+.yidio.com	TRUE	/	FALSE	1773815910	_fbp	fb.1.1766039910490.816266513481194133
+.yidio.com	TRUE	/	FALSE	1800599920	_ga_6PLMJX58PB	GS2.1.s1766039910$o1$g0$t1766039920$j50$l0$h0
+www.nexusmods.com	FALSE	/	TRUE	1766215687	fwroute	1766042890.503.61609.697121|e8cf353e01a4dded0b238db3d1674aad
+.nexusmods.com	TRUE	/	TRUE	1767252543	nexusmods_session	5a597cd2a75d600366c37c10bc1646e5
+.nexusmods.com	TRUE	/	TRUE	1797578943	_hjSessionUser_1264276	eyJpZCI6IjVmMzRlMWMzLTY5MzctNTJkNS1hYjAyLWY0MjdmM2NhZmY0MCIsImNyZWF0ZWQiOjE3NjYwNDI4ODg0MTYsImV4aXN0aW5nIjp0cnVlfQ==
+.nexusmods.com	TRUE	/	FALSE	1797578943	mp_3f01fd6fe87f03fe7a053413929d76b7_mixpanel	%7B%22distinct_id%22%3A%22%24device%3A0f112ba1-b930-43ba-b379-ecb1cdd59883%22%2C%22%24device_id%22%3A%220f112ba1-b930-43ba-b379-ecb1cdd59883%22%2C%22%24initial_referrer%22%3A%22%24direct%22%2C%22%24initial_referring_domain%22%3A%22%24direct%22%2C%22__mps%22%3A%7B%7D%2C%22__mpso%22%3A%7B%22%24initial_referrer%22%3A%22%24direct%22%2C%22%24initial_referring_domain%22%3A%22%24direct%22%7D%2C%22__mpus%22%3A%7B%7D%2C%22__mpa%22%3A%7B%7D%2C%22__mpu%22%3A%7B%7D%2C%22__mpr%22%3A%5B%5D%2C%22__mpap%22%3A%5B%5D%2C%22user_type%22%3A%22anonymous%22%2C%22is_verified_mod_author%22%3Afalse%2C%22is_staff%22%3Afalse%2C%22platform_type%22%3A%22web%22%7D
+.nexusmods.com	TRUE	/	TRUE	1773818943	_rdt_uuid	1766042888366.b04d91c4-4adf-4e8d-88cf-af627df4c4e0
+steamkeysglobais.com.br	FALSE	/	TRUE	1768638227	affiliateRef	T03XcmLdTfc7sFALrpETUU
+.steamkeysglobais.com.br	TRUE	/	FALSE	1773822266	_fbp	fb.2.1766046230326.683717614870256803
+.steamkeysglobais.com.br	TRUE	/	FALSE	1800606231	_ga	GA1.1.575990674.1766046230
+.steamkeysglobais.com.br	TRUE	/	FALSE	1773822230	_gcl_au	1.1.1869276660.1766046231
+.steamkeysglobais.com.br	TRUE	/	FALSE	1781814265	crisp-client%2Fsession%2F1d1d9580-f576-4af9-b976-ada03dd30c38	session_c233dc43-5bc9-4626-a49c-d0231c9d2b35
+.steamkeysglobais.com.br	TRUE	/	FALSE	1800606563	_ga_MSQETLY5RW	GS2.1.s1766046230$o1$g1$t1766046562$j60$l0$h689316504
+.msn.com	TRUE	/	TRUE	1766776177	elt	%7B%22access_token%22%3A%22eyJhbGciOiJSU0EtT0FFUCIsImVuYyI6IkExMjhDQkMtSFMyNTYiLCJ4NXQiOiJDa1hZM0trQmtwVjJSMGxiN2tMQldER3pJdzAiLCJ6aXAiOiJERUYifQ.vvQ8mJiB7W-Lw7tuTSa6l3BjCLUSI5ernPa6o6zS68usOCwPNPJZ2RFKotvXcb-rVIfqKSZvOGyVUG5UfSXZ3DeJOzUEkUqR7vOii_bA08NA9jeSzl6Jcdd318UKxuo2cdcur7rkpwUo-mjf_Y9Rkwlq3xj5D3q0xPtaZdNjXtC4YrOOiYAxSD5iS0LUt4csRPKiIZNcf6Y5nbWlPfaJpNL_YtY2bHzA5RTxiLLC_l7k3oQfGf66o02Q1qAnGAjMSl742kJDdFMGOsM3DuWKtrpU3hW5TNHZWD9nOfKJcpvp8g7TPvWz0KKAKAe9jFC_jHnXB4s9G-AvpAs01XJ2zA.6ngxTPORMna1I6fRZf6caw.EFgub6UfUTtSOw0imC_VBsDxI7rEU-5aLgO70qpEb8shXXWBxmvwEV9nAAFt4K8VBVONuCMWtHNXNLOehWHL7HcEy-pRHmG5Jl2oiE1TY9oz5p1HkaVwCGLu7habFjA1EgXWq1cB5OtURpOVpZq2rkZlRaGkKmR_reaxgzXe4_8nvhbvMS_5XUTR9qwSbjItRfQRUOGPb0mvVb-WI4bz6EUR7FQNtFMKhHNgUeWCPiyu-jGQSZvxJpdP7Ho5TdYC4kVBjjS9K7uY8GnvBPmK3LY-7gQi31ZSN1j2BibgfBH-ULDxbFg7Cd0AbrBbtDf5oQJKoj8TJ33BUfpNRH_EPXEoSSs3ktOfeANRSM2GlzMWpl39Nijya1hJoRFjdtmTLRCx3Qfk7-FEWBzQ7jAJDBAq0VJDkzLl_cw6xYp_6l16pMArcLXYqXTCgWlDYoXmXtJ8DpPeITdr6fpCy0ymS-q83uGJzx02ZDTCuylrritDWVOrcO3jvi64eoJ8P2WF94ZR464KWX2dVqZwP6vaiodbxYxVflTnV0lAu8CGFei6C7w-rSi8x_lg2Jteso_ly2UijK4DQqKgMU6BTTmXK_lXttejF5i5T96IYRrE3fEPNwgafCnh6xexEemjzPDJtF8tI_Gcd1P1LclIrK-8Num5BrMwMuLX05nonAU86-mwTKnt40AVZSLJFIepse3y9pm32NW2YEiwgh0S8_RoEdChV9168pM7Khrxut23lU2Xv048I3VEFCqLUCBZta9gfluiCadz8heY3xXjia89DlTZQlPdPLixHNqYzOr51zgXVK4PiNuoCZtvZctMWr7hdd2IDmTeFhTUHdQdd603L25jKntTYpCpQr-VEW5iddg0eumWMK1uhKM-JPGV5XtVtqjshcPztCiZwGzdgnGcoXXi-iXfCerYRlqj3NpGhww_q0qRqvLJ3JFsRw3BMn97a55AEDSA_A5tpSDdYunDNRVj1Isie4ZJArSSk8slAkIqd3avnqZ3NI6TKUcRyBAVuISMegmlU2hGabHsNipjQxGy2r7EPOt1PPCnBaUaQ5P99tho4Oqd7M-mfQBLC6fByBVbeHHU9mqr0sq7fPvrMKbuwujSi1eq6te2r7dKYIC1ZY9ZLZFm8vmFE9sInMR3YWkxO1QtH1h3eK75F68pdhvsNigXFfvSlQbQozFxt8-LSK196i0M5_dTMIlHRkSxMuenfz2dhYcoxaRyelKMGqxWQm6bApbZ4SqE2O7YqS_pP5poeXBpgb1jKvoINfMYozOsBsvxCBet_HZ0t3y_CYglcCzqlyOFK4Ll_sBdFl4IXE7hHZMD6vpHTf72aZ-D0ytkKQkJ5kQGqPeyKvtNHk49wP-UFT1lwH3s6xzpz1FLgFXof2YUMGzcctWdJG-KwTquG5LEiksFgcMWUSTsfwnS4IQKGqOSRyNKjB56pAo.pP5cERUqfRyDK3Pqor_vbQ%22%2C%22account_type%22%3A%22MSA%22%2C%22login_hint%22%3A%22M$EjR4nONYcW_mot1_z_9jFpKsLM3OLE7MTsxNzM40NDR1SM9NzMzRS87PlWhZcmcVGwC2UxKb%22%2C%22e%22%3A%22850f0199%22%7D
+.msn.com	TRUE	/	TRUE	1768763377	lt	EwBYBKAEAAAU+FEkrYVKODxcga16pzW/y5vRf68AAScJLbiIMr3FH3J6y77DChDbEipxUTSpDK3AhBhwz5xC8Uau3D4/dA5umuxzP5156D/r7i6gv2DjQKbDZHF5+U/EmG4u+jK2bet/4j+45sNrZdPPvIk91K1m2FBu7mMlf73OdaWZNt/ox6CJMF1jTptOX6hBPW/xLz92Qy6/P4NF86HMr+4xtHvlNV1pHpD1+s++DhC2dzwCEXRlx+soBvE9plwQ/Tg1Qu3ALJqmsfNgDQjb61bwowC9fNEzT8KDkpimalkehQiwp/mEarlB5MAw+HMmomgz1aPr0dI3A16LXWGVIYWRTA+17W49IU1sgX93C1XuhzaZSxdzJiM+TicQZgAAENHNdZ2Xd24q8oP5roLrjTEgAy6uNVwHG6q5oW0EyH6IiNUgJrzU9XNhAGYUs+vossHbtcrJBiiNnV4JbDKWDOKoleFFcDVniaQTQveGSKxa02EJaOjsAJ1xOMgLhRw+NBICIgh1mVqWBnpZnXPzvNZic8RDxPgjwFxJjbcRW5VOx6PzWtCna6uz9VSQI65F/rGF9UQWhIFMz7RHf3zNc3TglMhJISm7/Tepz5IcUYQY6DmzQn2ThsFTM6j0sdeezkQlal1YKawD83HtAFkPS/nG5WPAQyTfSHMmmlz1z7z7HR7D0PrkccRjjRGCjZDNRrs0M8RHvRLd/GgVWx8Fq98wELSoQatp54g8teDYT2RZrLYyGYZmwot8xUi4BhDy9gUytAm9mzuBW8ZuvQOsrih29xImPFIaaSrUt6o6hLnPGzJHum4FqOE8fyb9J5zIYQHPPgZJq2WD1PjD6xUL3SA9kT2qanZl+7zC4IfIC6+d6ydOkD3gulkca66ydk9JrKx7W1x3dEHouAfIuoszPZM9V63pUWGkyXFyvuae3YscD4Il+z1CNUKJsYpGSJUtyXJ4WbEUYfMrJjc7YI208XGq4LYEHRWZ+YOR0BKXBKxfi1l9cVA1oSRGxL47YfB3TU+ts+ZNUIiUBBlATO4mqePYQPi9nNm20u9XyfFbsbd/s/J3Sc9mhRZEArdztSzux2jeb/9kKeRbh23AeekhMtOlnvZ6R5tw6osj05HlaMcAdG6qVR89jl26YfT0cDRW4Vs+a/m/IlZfNF056sUdCK/sbdOfHuhUHpl/dXlT1882MYlPE3QNvdXm9fYqu8zC5FsbsCwDXae5M007W+CHv/E6q8GvCaCf4H77dyoX9BGCnWNEcxcjpw9sAetHtizxYvA/WmVghvrxAo/Jm6Fi10aV4UtL2wDw8hpnZIPFX7UwAwpxBbJSMvpDHrWs3hAwObox8hZ3Dsb7+4xTaAnynjUsliqN6yggfFexh/Iu8sCXdm2VjdSGp8RGlur+gfREwNxDcRhTcXngNmzDTYUEV0yHZOuqKPUNX531eMFrYmqT1+0Wvkk/JbHLbfdnQX9zdpZWUgM=
+.bing.com	TRUE	/	TRUE	1799783299	MMCASM	ID=27B469D936CF4337860BEC83BBF22A46
+testfamilysafety.bing.com	FALSE	/	FALSE	1799783300	MUIDB	3658087F198C648F06B51ED318C66557
+.youtube.com	TRUE	/	TRUE	1781723117	VISITOR_INFO1_LIVE	qWco-ksjQI8
+.youtube.com	TRUE	/	TRUE	1781723117	VISITOR_PRIVACY_METADATA	CgJCUhIEGgAgPg%3D%3D
+.duobot.com	TRUE	/	FALSE	1773864298	_gcl_au	1.1.1027415582.1766088299
+duobot.com	FALSE	/	TRUE	1766693101	AWSALBAPP-0	_remove_
+duobot.com	FALSE	/	TRUE	1766693101	AWSALBAPP-1	_remove_
+duobot.com	FALSE	/	TRUE	1766693101	AWSALBAPP-2	_remove_
+duobot.com	FALSE	/	TRUE	1766693101	AWSALBAPP-3	_remove_
+.duobot.com	TRUE	/	FALSE	1789418300	intercom-id-ezwotcor	2e594407-7588-4013-9f96-55a4806d4e47
+.duobot.com	TRUE	/	FALSE	1766693100	intercom-session-ezwotcor	
+.duobot.com	TRUE	/	FALSE	1789418300	intercom-device-id-ezwotcor	d3b1ed67-4e06-47d8-b14d-bb8ce1cf2e91
+steamcommunity.com	FALSE	/	FALSE	1797624302	timezoneOffset	-10800,0
+yearin.lol	FALSE	/	FALSE	1768696172	locale	InB0LUJSIg%3D%3D
+.ko-fi.com	TRUE	/	FALSE	1773880755	_gcl_au	1.1.1807043539.1766104755
+.ko-fi.com	TRUE	/	TRUE	1797640755	cookieyes-consent	consentid:ZGh0ZUlCelZnWG5YSXYwdWhhcnRuMXZRRFBHMG1hNzg,consent:yes,action:no,necessary:yes,functional:yes,analytics:yes,performance:yes,advertisement:yes,lastRenewedDate:1706776041000
+ko-fi.com	FALSE	/	TRUE	1797640755	ai_user	9VUP2|2025-12-19T00:39:15.892Z
+.ko-fi.com	TRUE	/	FALSE	1800664756	_ga	GA1.1.714130644.1766104756
+.ko-fi.com	TRUE	/	FALSE	1800664760	_ga_M13FZ7VQ2C	GS2.1.s1766104756$o1$g0$t1766104760$j56$l0$h0
+.adnxs.com	TRUE	/	TRUE	1773940405	uuid2	6043588407900116900
+.bing.com	TRUE	/	FALSE	1799804138	MUIDB	3658087F198C648F06B51ED318C66557
+rewards.bing.com	FALSE	/	FALSE	1797644161	MicrosoftApplicationsTelemetryDeviceId	b86ab609-981a-43e9-9326-09e9c503663b
+rewards.bing.com	FALSE	/	FALSE	1797644161	MicrosoftApplicationsTelemetryFirstLaunchTime	2025-12-19T01:35:37.604Z
+login.microsoftonline.com	FALSE	/	TRUE	1768700142	fpc	ApOqkg3mxaxHvmi_nDrT_MM
+.bing.com	TRUE	/	TRUE	1781832940	MSCC	cid=ke1bi8za3rorl7gj7osgfjyu-c1=2-c2=2-c3=2
+.live.com	TRUE	/	TRUE	1797638397	mkt	pt-BR
+login.microsoft.com	FALSE	/	TRUE	1768700154	fpc	AtYzHDlTl5BIhur1jQQ0SVI
+.microsoft.com	TRUE	/	TRUE	1797644152	MC1	GUID=12f772be72b8414390cd6b0484ad09b8&HASH=12f7&LV=202512&V=4&LU=1766108155086
+.login.live.com	TRUE	/	TRUE	1799804160	SDIDC	ChaWeQn7ldiwiyrS2hBzTuGCcRTcvJ*LI2m4IXzvb70s*HrO0AcJs0jAVbXQbtN87xEmGRAPfRzlPtJbvMg5OFUi0hcc4j4BllY5JUDNXLnO*imdEkwldQapgL1gj77v2nBHwrU1jLH*XSAzzcKgMsM$
+rewards.bing.com	FALSE	/	TRUE	1767317761	tifacfaatcs	CfDJ8LfTkwiAHdVDsG3ePT4u9-pAfAVkSl4oqLRyqqtaFmeK9yRJdZe8i14Wu4YW0cNxP0XdKjl6LH4_53ClUDl-oGYvCKxEB0vGNiWW2ZGzBU3tVO70TD_sgQ8I7Ic2YGy6NVC3wu0zmSH3Mfrt2AmqNPJlYNZ5jpovnVClbwhG_5AepqWv0SS5tqnar7msFxlFNXTsJdzXjrc65336d9xjP3KdT25cIShbptxMDcM26QUlsm2ofJTP1aAaNMQgF3sQAYD5CHTw05Y7edSIN82XSPKxw3DVPv-JA-UzWRx-5BpFC0ku8U7YWGapA0Q4RyzguloGbAz1NXuySrFO71AOihPgAkiT2XAI6RueGxAxo_hEX_mihxCQH7o_DqIIelBxtGnnxGMcvf4jGZ-6OBifEzgejuAVCmQjfGuGl8WICQwWVK57VEbtxIroprwUT_qtbdCutwzOGPP48PUYAy4Q6eh-WnkrJVQCMMVH-CXrzmDB43EKdF-V5qiaKqZuA4zQEhvtx1M4Lklzq4gnKoaAKd4Baej3tVBGk1oO6SYTUS_23puqx5khNcLjHENq_-iC4MLJlHv-vyIoGEyBSbFwhte7T6NIMMRG1FN4j3dQDdDBThq3iP7ve9qrAO_odYj37UHEzH8k7IElfYCmCKpEohkmELi6npaxezIp4Hemdvmz50Y2oZPEqd-aw0R1uGOpt8dcVC5Kr9JpndedzXHTi08gpBUbDU2-h195dR_bN1sOHS29JWPdGYTgOqBcV7Wx7u2ghEt3k6JmdUy1txSP6YaJi_6OmlzCNr1LeNxs6dbRzL88qKiA82thFhTIkhssSUsRTR8sd6wk7VbSvlaXN-0VXJZp8DIZdBEteYQ17v1C1muQNvtFGBK-2g3GUoAg7xzc_dM9cFk0-zQ1MFdJg-SP1_07cveD6fiTIst0zT1iqf6vZWyzwVmy-sbmz90RZy_7XPxpynUEq20IvEliyribWRUguGu50XglUBsAs7sswtnMXSOv8xWmsH_pA6QCpv6vuhFJkZTZOAJLMsJiJsH-6qK3poBudmIn6mf36LdBIxGGPXCbkrkarGG4NXrmAjNvC724_8AEK3KtU5PuAtYnj8nijhaYcFJgzgqiyPv5S2g58LPI_P_BtgRjxVKAAJ-37B0fAc0XxEEk3zsm9nDhbiZFO19cDn21m2uFEG31KABS2qfhdyqsHh3dwDx9w1EX6Q-ac_FC2PWJSlbE5c19fNRGgfQgw4LBsqh_TGBVZt29ltjBHJJ5rdNPdxTcJZj6gz1pi22NpmZJ4uc0XNVttRKuRYrRPEJ9dEe48EdLmwjoRBpPExzHRZWktbelXq65HRNb9beUR26h6-T7bSY7Jto9NW3VAT6QMNdwQcCSPqQ2b3LSe4yyXklEUNBl1czPf8AkP9chfZX8lVTmlV6s6NFtfB7_Xsk9PA9eC8IOkRmGCnVCmPL3c63TaYz6vhO2JJZvgNUt3F_S1zfH9-cw1OKuxlCq6c2EOjZZgZhqHxx_1pkiFWSo8-lTY0v-gg-ko8kkJq-Po2xpncPc06v20D4gw96JaHA3ytAiEo7TFibS56w3RdkpW6DJPOV6tNBzRpMizFyUWBTGZybWZudfqCQGE-tnKkBmRgPhOoTg1sZWnjut1fldhMG0tINuf8fU_ZCH50rc2Td4g1_eG9y3vFgJ_oWxswttBdMcMPr4pGiOK7l9sRby6oO1LQGlENzkI3yvmATw4s-XLPz6s7NVGQER10xdij86T8cmmKmQ7esPY1ElReNZiztSgZl-8QW6_1mufvgJ76ZJ5P9QKHYQ-8dm4QYD9kzDCxNYh2TUvxkureM97o5WrM3MjguFR_0ZHfue_o8c4bdsMFrZNLUgguco0gd6hsgWccFtCLefjjaJaiZj-KQ5E32IL4YCyj3_2HP247HI_0_rIuHF4Z0AARxKPkn5hXAcaHzZHRLVgYZpDrwwWRqEN4Kse35L8QzktUOhmSXmg_NDft5TVEPfnaq3QKFfFYVW0hq_35innhr33Ol1JhmtYwOteYWQi9SU1i68lr-xGuX26hf2wowU5B3KhEI8VUHZdmGSa8HFH4sHcft4rs1w0koa1NCOM8V0vfVt6rckVJZVYNv4wwzHeYrZS2r22rH3TtweOUrb5Pgtlv9nr3zNvWHC4Ib1dC-hL_NybPRlcU4KGzyNT0Bqsk4Iga64OIFWLCCdSS49KDMU_YNRP0emJ4H35cJXtc5Sg74UEBa6yzyWd8cdoKK3o-cXrj-ZE0bJQZt4pqtJEstNrKxW2TT8xRdG8SnO_OkjxYLO8h-CMTRX1UG8ajF7oqa7oFCvFRY8WyR19nV66w5JEcGH_neLOmrU3SplFOYLYohCwpSMac6pFW-rUPdFMF1y1yw8TcY9XCL8mgdLR-Gzj_YcR4deZqazHS-OFyy6ZMLIc8ku7SANR8dqy373bvEiPoc-PRcN4wzqk9ftdXcQpup3NEkkj5ko7yMyPXZZmtr8A1k8IlxPh7PfooNxNLHWk3CbbUcAT5fOUJFgKVZKRqeBGaYLpIIj6wr3gl0atYhf8PCuGZFBNuLzZFFa1Knyq5OICPPQvmABPGjRBj_MeOtuc_kpmktGz8InLY2d2QJXyDOgoAPfjnAtLrct9zsa9GoGgIck_wY8Yu-4Hbc2dCQywsu8hALxZgRSaxdfW6jN0NFqFHOz-3jlrhd8yGiM8RtU90VexXG4xC9h_rtCpf5CHRJ8HNSUC_G2WnKWWw-uqbb-cOftTewUBkLwuP7NhcZqHElh4osrPOXkjtJmTXrHBTsPZXtajqF6n26S5kY__c50AsY0BwxZ3A4ZIXY0ia1bKDvwYwtt9tVV6SnMO1CVfA78R5_M8OFR8FI2uyDYz2pu17cun8y8zGUnvVKSuuiBxe0IO_jtYdxfZAjHU4BiugX5o-jU2uajg_sydbR-yE5RMD44UG3e3OB1YYM2n1TUlFACzhx4x-B2fbmtnyf4jyzSu2749MGmYt2wiuuvQv7D-JvSiaTfySB9UFZCjcQeqyG3L86V_KpxsHwNeyU1DDDsEeKBY4bt3Xi7X6AoYsaQp-qHLvyuauigKZJ6njNEOw5Kpee4bf1INpZg-cSZQNPCuhldNGBQGVDeaTZEYOuGXal5o5KeIkJTgGnzIM_jc33BiqG5JK1mrQx29QRZvQY4rZti6rIpS1EhZ5cb_Nu0LVYvoYNuCd6JSQsKen4zMVGwjdvF-BvGR6KR1EBlmwcwE5JxGyvKv2-zPvf9ipcMMjOI1KgSPV-lMcLDTJT6OMNDd7ISkA6q14IYyMP3L_F2PKIjBG3zSztMzygN5H4KVNUxaWfkZLzt8gW0SCujD4CK4eiH9gJwa3Mte8fmmNVC5NYxMcVfyxxuB9AgtivaMxUkQrYMCEVAnOtiHxCwLPIxjy4pWn7apnaMvgP9oVxw9d7b-wGv1U5xLQ0nDyH-qTDXsKDE3U57XxdR_3Qwol4MX8YPl7zAEts-RpRV_1s2UCqCMFkco-pc1Txvuw7_Btm2XYz9h59kCqBeRTC179SUC2uU7s0v5KeyEn3NWhvUEkyje91aYbFO6UjmRkkMzbemSuCOGYA5WgPUKdGQqObbrMrqwMhTX-LsjBf_UOABbMK2FqjiNdlTw0zZvPas02oqGXv63U-qcM4SQiZja1oFlj1FRG--nH5RJg4G_lVzKzux5PDlqBz_UowGVcIyriZlYU1UaDNADi3lSw_2QeTlTxuHtmZdkDVR55xgAVtMT2MlGL666ityZPSLHtf7ddFOB0UYyXeSPJ6YW-Z1hESIjJOn9VrOQwskkv1--wlsQJrGfEezsUrKv3ppH806sE-o3rQaMWFGJLS34QlqGDG8Vifb4mrcxrWDfUdRAMGqGTASY-bl1g
+rewards.bing.com	FALSE	/	TRUE	1797644161	vdp	0
+.bing.com	TRUE	/	FALSE	1797644162	_clck	fk6wku%5E2%5Eg1z%5E0%5E2179
+.bing.com	TRUE	/	FALSE	1766194562	_uetsid	14520940dc7b11f082b2b30c4fd73779
+.bing.com	TRUE	/	FALSE	1799804162	_uetvid	14526b60dc7b11f09bde9b0d4d9c921d
+www.clarity.ms	FALSE	/	TRUE	1797644163	CLID	33fc920dd77041a99431817f213be37c.20251219.20261219
+.bat.bing.com	TRUE	/	TRUE	1766712963	MR	0
+.clarity.ms	TRUE	/	TRUE	1799804164	MUID	3658087F198C648F06B51ED318C66557
+.c.clarity.ms	TRUE	/	TRUE	1766712964	MR	0
+.bing.com	TRUE	/	FALSE	1766194567	_clsk	1wlggyv%5E1766108167515%5E2%5E0%5Ea.clarity.ms%2Fcollect
+.tecmundo.com.br	TRUE	/	TRUE	1781845989	permutive-id	fbc3725b-5c64-486d-8413-44407215a1d4
+.tecmundo.com.br	TRUE	/	FALSE	1800679567	_ga	GA1.1.672291907.1766119567
+.tecmundo.com.br	TRUE	/	TRUE	1799817186	_scor_uid	19a5d5b8a2e0431c9d829e2f1a70c350
+.tecmundo.com.br	TRUE	/	TRUE	1800249187	_cb	ByE9X5DozpTJD_9GlO
+www.tecmundo.com.br	FALSE	/	FALSE	1766275199	nadz_dailyVisits	1
+www.tecmundo.com.br	FALSE	/	FALSE	1766205968	SA	1
+.tecmundo.com.br	TRUE	/	FALSE	1799804767	cto_bidid	RhWK4l9kMTBwa0o2WmhISUJUd0VQU2I4eDlVOSUyRnFSU2lYZktGQnlEYVp5b1E5RUNCUzhXS0Q4WnNKNUxmSVp1T1l2b1RtaE1WWnlxT1ZIS0ljNG94N1RaUXJ3JTNEJTNE
+.tecmundo.com.br	TRUE	/	FALSE	1799988369	__qca	P1-14ae3897-3760-4281-97d9-d8864a72b3f6
+.crwdcntrl.net	TRUE	/	TRUE	1789445341	_cc_dc	5
+.crwdcntrl.net	TRUE	/	TRUE	1789448941	_cc_id	eb24a28e44aa84d5bf0c53445b521686
+.tecmundo.com.br	TRUE	/	FALSE	1789447571	_cc_id	eb24a28e44aa84d5bf0c53445b521686
+.tecmundo.com.br	TRUE	/	FALSE	1766205971	panoramaId_expiry	1766205970823
+.mygaru.com	TRUE	/	TRUE	1774154771	iuid	sZjM8AyCKTl6cZbxx7RYMcSBMV6oVvgK+v3FsYph8sdcaeB3VS8DDhAO85VoSt2vjtlwwGozXAmtfE3EQzu87dfBMjv+g/mCJg==
+.tecmundo.com.br	TRUE	/	FALSE	1766195173	truvid_s	{"timesSoundOnHourly":1,"soundOnHourlyTimestamp":1766119573201,"timesSoundOnDaily":1,"soundOnDailyTimestamp":1766119573201}
+.wp.pl	TRUE	/	TRUE	1800679573	statid	465e43ba42e5980c9499256c1ca13cad:2b7043:1766119572:v3
+.tecmundo.com.br	TRUE	/	FALSE	1799815577	cto_bundle	dHxLcV95JTJCdU1LWXA3YlBhRmFJTzlyQXdrOUQ5dmliS0NveVBzNVpoV29ZVXI5MlA2RDlCJTJGelMxTm5uYTQlMkJmZzk2JTJGNTZ2cVdKQXRSdHpxaCUyQiUyQnhTdFhEdk95NEpQNW9Ta0lwMXFIWGhHeURFd1ZCQzJWTzh6andvQWxreUd2ZzRjS2JXemJsOEhkY0hQdzQxSW5UQzV3S3RCRmclM0QlM0Q
+.linkedin.com	TRUE	/	TRUE	1766205979	lidc	"b=OGST07:s=O:r=O:a=O:p=O:g=3343:u=1:x=1:i=1766119577:t=1766205977:v=2:sig=AQFBg3YvFA5MNhCAVwDUX6siiu3kl9z8"
+www.tecmundo.com.br	FALSE	/	FALSE	1797657290	tt.u	0100007F9AD8446988066B3102A09F28
+.tecmundo.com.br	TRUE	/	TRUE	1771305291	AdoptVisitorId	MYJgbAJgrAZghiAtAUwOypogLABihRADhjAE4jUdkAjAZlLHHSA=
+www.tecmundo.com.br	FALSE	/	FALSE	1766205979	tt.nprf	disabled
+.tecmundo.com.br	TRUE	/	FALSE	1797657290	nav13767	16e6e6f10e8a4fa19608ecf25110|2_354
+www.tecmundo.com.br	FALSE	/	FALSE	1797655581	flipp-uid	bb8f8a41-54cc-47b6-bf01-7470920b2d93
+.idealmedia.io	TRUE	/	TRUE	1797657686	muidn	pbijlrlCOuKk
+cm.idealmedia.io	FALSE	/	TRUE	1768713686	mg_sync	{}
+.eyeota.net	TRUE	/	TRUE	1797655581	mako_uid	19b34ee2521-463b0000010a5d6f
+measureadv.com	FALSE	/	TRUE	1768713663	uid	e6cc5fde-df2a-5109-ab8c-b92e8bcf32bd
+.bidmatic.io	TRUE	/	TRUE	1774156543	vmuid	efe8df137cc61b5f
+.bidmatic.io	TRUE	/	TRUE	1774154791	g410	b0878addb7d94eed
+server.smartytech.io	FALSE	/	TRUE	1797655590	uid	0de0afca-0ac1-46a7-b1ec-17675ae08eee
+.suntcontent.se	TRUE	/	TRUE	1773895592	5975ae13617f1_uuid	3fa67f57-5fdd-4462-8b18-15f660c544a3
+.tecmundo.com.br	TRUE	/	TRUE	1771303621	AdoptConsent	N4Ig7gpgRgzglgFwgSQCIgFwgBwDYDGALACYCsxAhgLQBM2NAjFYdoUwJwMSlX7YAMuYjXL5+AMwggANCABuceAgD2AJ2TFMIfDSGlxFGlQgB2E+Ob9yVbONzsbJ/tADM7XLrMyQCfOIDKCKpwAHYA5pghAK4ANjGyygAOCMghACoUYTCYANogAFIAngCKCACCABoAagBKAI7+3oS4iVEA6gBi/lUACgBy3n3iMcqkADJVAF6kHd5VANYAmpM1APKrMC4A+t7uxOICENhUwibEzIQmUFQULvznFOxH/HcU2KwM3gAScKrFNYUwDQvjVvPMam0vgAhAAWZTGAC1NLIEHVCPw0sg4FD8gBxbwGdikOi4CxCczMdj8fhUdxQFxUXCkXD8dhsbDscTCbzEKI0eZ9LYADyqAFlkN58Ox8LcCBZiNgGExCE8aYY6LSuaQKOZCFAoJJvKLGWFbqhimNEt4trjcItFgBRIUuGGTbwhADSCKlcg97HBgxMUOICBqAGEqKL8u62oUylA+lB8hQhd4oYtCFUochErmKt5/GHFj1RYkyqgovhdn0oXUEUKqLiqBFZMUoWUOqKEfMPdgw944B0YcpUDFVGEGIRduJ8LGorjSGkYrsGOwKBRSG4bqQ9cxTPgbOwXMcaOITBBTCYKMRcAxkSBOW58HejER2OdCDR+EZ2FBz1QGBcBgoAgYh2CJQDsG8HovlQPp5mKYgwlKbwPQxKEajAEIACsvirWQ+hgCEoC2Gg5GKB1vGUCB5jDL8KHyfx70SNpUCQRJCDgGo0m8ExtWIKBSHwCBjC4A8VWwHgQMIESzCIfAb3fbATCnWQvkWbCw3yOQEDCBBl1kQoYDDMYwn8XB/BhNo5imQhxEKBgKiifhvA6cRxDaMAagAVTaBAaG8GgaAvcCKAPXAIGaZg7iMKBV0ISxoF/Y9FXebxCjDMNcVWOBsDCezvDSEJvJoQo1hE0hBiqXE+nYGEwxca9vAkdgTBZYLaBoT9mFwFkbC684jwgIDzwMcQGFwbxVkWOoYFwGAoQ6XB81kKowHYMB+CgBB+G8+ZvDKHpsDKGB5jqcQ4G81z/FxGhRVWOFcAobwoGpEQVIsbBr2odEIB/JwGQvFgxANd8Iu8KgagQCyRihNIoNkZgKjKMIwFWSY4C+bwdRcXBsCgPgqBcOyaRkwgeEMR4qFIEwGFIVrSAgYTcBMbxVAoDoeg9UhUA9ZhvEmCMHTDVQoTAL4oG8ZAqFwwgHPHUVscWMrSDAbmYCkWRJiFLYOiIIiojkMFCjMsptLgBgJVkVYOmQABbNo7ZofwGARbw2kWKFijSMY5FFU1vA0mAQi6BAwBiKFvHx8RCBgPgYQdRY2dQRZEhhEwqnc1TtBVAmGH4BL8GJa4SDp2liHuC4BPclwoH2I8C2xIY4HwVA4CibwXCzZRCHCL5sOe2QHTSOo0kFoFsCqEAAF0EmSVYogQDIslyWftGUEINZCFJNCwP9lGKOoDPXzeIG3qoIFUeAN8wOhZCiRJKCQYgygQLQvxEACjFXNIC4wS4MD8AYAAOmJNgN2ABfIAA==
+.tecmundo.com.br	TRUE	/	FALSE	1797655851	_sharedid	96be62dc-3ae9-4cf3-9cae-ff04f14fcc2a
+.tecmundo.com.br	TRUE	/	FALSE	1797655851	_sharedid_cst	SCwaLHgsZg%3D%3D
+.dnacdn.net	TRUE	/	TRUE	1799815853	browser_data	yE1MsV90ekd4U2lCM2hSS2t1OGdRMldzN2pZTjFQZCUyQnU4UzFrbXlUOVA4cUpwZnN6QkttclZmQlpaT2hHY0hkMlpqSFF1bERiakJxYVJVS3c3TCUyRlBPSG9BNmclM0QlM0Q
+.www.tecmundo.com.br	TRUE	/	TRUE	1766207585	az_botm	6da5238858185ddb0e01b11334d21852
+.www.tecmundo.com.br	TRUE	/	TRUE	1766207585	az_asm	D6y/fmg8jbVXWJfuRVhUtLseQ+YPiCR8ltBAbEp0eidH91QOQxGYlDkRoGXHPbGJ3wGx83zyth8AhqFT
+.tecmundo.com.br	TRUE	/	TRUE	1800249187	_chartbeat2	.1766119567801.1766121187804.1.DyUC4iCNRKsMDZfv1_B-XSpddZ3Iv.2
+.tecmundo.com.br	TRUE	/	FALSE	1799817195	FCCDCF	%5Bnull%2Cnull%2Cnull%2Cnull%2Cnull%2Cnull%2C%5B%5B32%2C%22%5B%5C%22bde4ceba-3ec1-4072-927a-92d14d43821f%5C%22%2C%5B1766119568%2C409000000%5D%5D%22%5D%5D%5D
+.tecmundo.com.br	TRUE	/	FALSE	1797657210	FCNEC	%5B%5B%22AKsRol9dhMEOyjIIHGE5ZgWwcTzwJs0-siccu6DmKG66OmILTQNkw2xzOPMGaHlW77vBixfGUw68XYMNf7KdHtf61V1imrh9bEiA5nE0_ylNJLySWymxN2_LVUZj0K3fedWpW46C8kPz95evsynkSbToLHF_KhZk8A%3D%3D%22%5D%5D
+.adnxs.com	TRUE	/	TRUE	1773897290	usersync	eNqdlM0KwjAMx9-l5x2aNm3TvoqIyOxhMLfhhihj766gzMuKS66lP_4fJJnVPd_Gpu9UgkoNzSO3o0qHWTUXlahS47OrT-N0vk3vD8F7gOgIvu91fx3aPGWV9FJ9EON2M7AyYZsJocxYK2Ain0Hk53Gaz9AWY8AQlbuOUMjjyzrR872BdruLW80B4O5EPyXwAiVjBZmQBPZcEGyEAb6S2cz0Zx5MECyflRRhA0ogkVLkF4HaSCAUnAdNkpui-VOOKLGHxJ8IxMiAjssLywfxGQ..
+www.tecmundo.com.br	FALSE	/	FALSE	1800681291	_ttuu.s	1766121290794
+.missena.io	TRUE	/	TRUE	1800681297	msna	d52duk4djphc73919evg
+.missena.io	TRUE	/	TRUE	1800681310	msnaxndrnw	1
+.missena.io	TRUE	/	TRUE	1800681310	msnaxndr	6043588407900116900
+.copper6.com	TRUE	/	TRUE	1767330921	co_key	67a9f574-2ae6-4656-afbe-86b0e7791415
+.copper6.com	TRUE	/	TRUE	1767330921	co_red	undefined|8|r1
+.ymmobi.com	TRUE	/	TRUE	1797225320	ym_user_cookie	ym_user_ff1b5c3f-ed75-4ab6-9227-96e7e9da8d52
+.missena.io	TRUE	/	TRUE	1800681339	msnadptmnw	1
+.missena.io	TRUE	/	TRUE	1800681339	msnadptm	62cb63a0-d156-4203-a60f-5a85e0821ebf
+.bidmatic.io	TRUE	/	TRUE	1774156543	a778669	67a9f574-2ae6-4656-afbe-86b0e7791415
+ucs01.condorx.io	FALSE	/	TRUE	1766726142	AWSALBCORS	ntzgoc4TNFXSYzPKSnXzpbqXJAZ8xaW1PKaWSdqkZK1n0BcUzIm59QUw5y3KAutOYzzUzfpiD/c0DIwAhfPfPvoTetwRoTTjRMC5SrbrDp5KoqAFcf0y1JXqZ3Vu
+.condorx.io	TRUE	/	TRUE	1797657342	cxuid	"ed7370fc-09c4-499f-8db0-640006997527"
+.amx1.net	TRUE	/	TRUE	1766207956	_sv3_0	1
+.amx1.net	TRUE	/	TRUE	1766207951	_sv3_14	1
+.amx1.net	TRUE	/	TRUE	1797657556	amuid2	0bdb722b-7744-40f5-93c7-108b8746f5ce
+.usw1-cs.amx1.net	TRUE	/	TRUE	1797657556	sd_amuid2	0bdb722b-7744-40f5-93c7-108b8746f5ce
+.crwdcntrl.net	TRUE	/	TRUE	1789449353	_cc_cc	"ACZ4nGNQSE0yMkk0skg1MUlMtDBJMU1KM0g2NTYxMU0yNTI0szBjAIJMl%2FsdXZ%2F%2B%2F%2BdngAGemT8XsDBKHv0LFPzPyMhw%2FsVHXcY9Wgwg9qQT6jDmuaOHmGHs3fsuC8DYM7a8gCs%2FvHgOC4z9Hkn9pVOP2GDsd0sQauYfvmQOY%2F%2FeOAUuDgAUz0O7"
+.crwdcntrl.net	TRUE	/	TRUE	1789449353	_cc_aud	"ABR4nGNgYGDIdLnfwQADLAwMXDNADEat2RBqFojic3cAkgB9ngTb"
+.admatic.de	TRUE	/	TRUE	1800681369	uid	22da8792-e791-4e58-8a6d-b9507436da5a
+.disqus.com	TRUE	/	TRUE	1797657762	zeta-ssp-user-id	ua-fd19a931-7c8f-3f6c-abb0-4c4cb79d2a7b
+.modoro360.com	TRUE	/	TRUE	1768713439	aniC	038b8470-e1e0-481a-8c11-d7dd89dca51f
+servs.modoro360.com	FALSE	/	TRUE	1768713439	aniC	038b8470-e1e0-481a-8c11-d7dd89dca51f
+.modoro360.com	TRUE	/	TRUE	1766985462	1_C_56	637f9efe-97fe-449c-9031-87f1d536bbff
+servs.modoro360.com	FALSE	/	TRUE	1766985462	1_C_56	637f9efe-97fe-449c-9031-87f1d536bbff
+.admatic.de	TRUE	/	TRUE	1773897470	uids	eyJ0ZW1wVUlEcyI6eyJtZW1icmFuYSI6eyJleHBpcmVzIjoiMjAyNi0wMS0xOFQwNToxNzo1MC40OTJaIiwidWlkIjoiMGRlMGFmY2EtMGFjMS00NmE3LWIxZWMtMTc2NzVhZTA4ZWVlIn19fQ==
+.modoro360.com	TRUE	/	TRUE	1766985488	1_C_55	6043588407900116900
+servs.modoro360.com	FALSE	/	TRUE	1766985488	1_C_55	6043588407900116900
+.modoro360.com	TRUE	/	TRUE	1766985502	1_C_18	
+servs.modoro360.com	FALSE	/	TRUE	1766985502	1_C_18	
+.dxtech.ai	TRUE	/	TRUE	1781673663	mtuid	df50e03d-ef8c-4a9a-93ae-6123895c30ef
+measureadv.com	FALSE	/	TRUE	1767849663	new	-1
+measureadv.com	FALSE	/	TRUE	1767849663	did	1
+.ingage.tech	TRUE	/	TRUE	1773897687	instUid	84c636d2-019f-40c2-989b-1bd7a1609475
+usync.ingage.tech	FALSE	/	TRUE	1773897687	instUid	84c636d2-019f-40c2-989b-1bd7a1609475
+.ingage.tech	TRUE	/	TRUE	1766294488	instPixels	%7B%22sovrn%22%3A1766121688118%2C%22rubicon%22%3A1766121688118%2C%22pubmatic%22%3A1766121688118%2C%22unruly%22%3A1766121688118%2C%22sharethrough%22%3A1766121688118%2C%22id5%22%3A1766121688118%2C%22openx%22%3A1766121688118%2C%22risecodes%22%3A1766121688118%7D
+usync.ingage.tech	FALSE	/	TRUE	1766294488	instPixels	%7B%22sovrn%22%3A1766121688118%2C%22rubicon%22%3A1766121688118%2C%22pubmatic%22%3A1766121688118%2C%22unruly%22%3A1766121688118%2C%22sharethrough%22%3A1766121688118%2C%22id5%22%3A1766121688118%2C%22openx%22%3A1766121688118%2C%22risecodes%22%3A1766121688118%7D
+.trustedstack.com	TRUE	/	TRUE	1800422518	visitor-id	4091233175361236000V10
+cittamatra.com	FALSE	/	TRUE	1797225729	avxUId	avxu:22e4f472-cb31-4755-8df1-5138a3c5e5f8
+.ex.co	TRUE	/	TRUE	1768713734	exco-uid	838845a0-cca6-3f7b-38ff-0ab5dbef76b6
+sonic.impactify.media	FALSE	/	TRUE	1768713737	SSCookie	1
+sonic.impactify.media	FALSE	/	TRUE	1768713737	uids	eyJ0ZW1wVUlEcyI6eyJhZG54cyI6eyJ1aWQiOiI2MDQzNTg4NDA3OTAwMTE2OTAwIiwiZXhwaXJlcyI6IjIwMjYtMDEtMDJUMDU6MjI6MTYuODQ1ODk5ODIzWiJ9LCJydWJpY29uIjp7InVpZCI6Ik1KQ0RaU1pPLTEwLURQQ0YiLCJleHBpcmVzIjoiMjAyNi0wMS0wMlQwNToyMjoxNi4wODA5NDcxNDFaIn0sInNtYXJ0YWRzZXJ2ZXIiOnsidWlkIjoiODgzODM5NzQ3MDI2NDYxMzc3IiwiZXhwaXJlcyI6IjIwMjYtMDEtMDJUMDU6MjI6MTUuMzE0MzAzMjM1WiJ9fSwiYmRheSI6IjIwMjUtMTItMTlUMDU6MjI6MTUuMzE0Mjk0ODQyWiJ9
+.rtb-oveeo.com	TRUE	/	TRUE	1768713762	lluid	5f184f06-2330-5952-5630-e756decf119d
+.s3xified.com	TRUE	/	TRUE	1800681762	admRtbUidCkey34334Ssp245	fee21b42ddcad7f17eda4e8a7ffddfc9
+.rtb-oveeo.com	TRUE	/	TRUE	1797657762	llum	eyJvdm8iOnsiNSI6MTc2NjEyMTc2MTI5OSwiNyI6MTc2NjEyMTc2MTYzMCwiMTAiOjE3NjYxMjE3NjE5NTR9fQ
+.adtonos.com	TRUE	/	TRUE	1797657766	ulid	01KCTGYYESY3FC0R109EAAQNZR
+.nativendo.de	TRUE	/	TRUE	1773897766	588f272a3e49c_uuid	8b2b0002-9c57-48f7-91cc-fc116b66f38b
+.adnxs.com	TRUE	/	TRUE	1773897772	uids	eyJ0ZW1wVUlEcyI6eyJhZG54cyI6eyJ1aWQiOiI2MDQzNTg4NDA3OTAwMTE2OTAwIiwiZXhwaXJlcyI6IjIwMjYtMDEtMDJUMDU6MTU6NDkuODE2OTgyMDVaIn0sImFkdGVsbGlnZW50Ijp7InVpZCI6IjEiLCJleHBpcmVzIjoiMjAyNi0wMy0xOVQwNDo0NjoyOVoifSwiYW14Ijp7InVpZCI6IjYyY2I2M2EwLWQxNTYtNDIwMy1hNjBmLTVhODVlMDgyMWViZiIsImV4cGlyZXMiOiIyMDI2LTAxLTAyVDA1OjE5OjE1LjYwNzU1Mzc5MVoifSwiY29ubmF0aXgiOnsidWlkIjoiMSIsImV4cGlyZXMiOiIyMDI2LTAzLTE5VDA1OjE1OjE0WiJ9LCJjb3BwZXI2c3NwIjp7InVpZCI6IjEiLCJleHBpcmVzIjoiMjAyNi0wMy0xOVQwNToxNTo1MloifSwiaXgiOnsidWlkIjoiMSIsImV4cGlyZXMiOiIyMDI2LTAzLTE5VDA1OjE1OjU2WiJ9LCJzdW50Q29udGVudCI6eyJ1aWQiOiIxIiwiZXhwaXJlcyI6IjIwMjYtMDMtMTlUMDQ6NDY6MzFaIn0sInlpZWxkbGFiIjp7InVpZCI6IjEiLCJleHBpcmVzIjoiMjAyNi0wMy0xOVQwNDo0NjoyM1oifSwia3VlZXpydGIiOnsidWlkIjoiMSIsImV4cGlyZXMiOiIyMDI2LTAzLTE5VDA1OjIxOjU2WiJ9LCJ1Y2Z1bm5lbCI6eyJ1aWQiOiIxIiwiZXhwaXJlcyI6IjIwMjYtMDMtMTlUMDU6MjI6MDBaIn0sImFkcG9ydCI6eyJ1aWQiOiIxIiwiZXhwaXJlcyI6IjIwMjYtMDMtMTlUMDU6MjI6MDhaIn0sImd1bWd1bSI6eyJ1aWQiOiIxIiwiZXhwaXJlcyI6IjIwMjYtMDMtMTlUMDU6MjI6MTBaIn0sImV4Y28iOnsidWlkIjoiMSIsImV4cGlyZXMiOiIyMDI2LTAzLTE5VDA1OjIyOjEzWiJ9LCJjb25zdW1hYmxlIjp7InVpZCI6IjEiLCJleHBpcmVzIjoiMjAyNi0wMy0xOVQwNToyMjozNloifSwicmlzZSI6eyJ1aWQiOiIxIiwiZXhwaXJlcyI6IjIwMjYtMDMtMTlUMDU6MjI6MzdaIn0sImlxem9uZSI6eyJ1aWQiOiIxIiwiZXhwaXJlcyI6IjIwMjYtMDMtMTlUMDU6MjI6NDFaIn0sImFkdG9ub3MiOnsidWlkIjoiMSIsImV4cGlyZXMiOiIyMDI2LTAzLTE5VDA1OjIyOjQ1WiJ9LCJzZWVkaW5nQWxsaWFuY2UiOnsidWlkIjoiMSIsImV4cGlyZXMiOiIyMDI2LTAzLTE5VDA1OjIyOjQ2WiJ9LCJ1bnJ1bHkiOnsidWlkIjoiMSIsImV4cGlyZXMiOiIyMDI2LTAzLTE5VDA1OjIyOjUxWiJ9fX0=
+.adnxs.com	TRUE	/	TRUE	1773897801	icu	ChkIyrKdARAKGAEgASgBMMjCk8oGOAFAAUgBEMjCk8oGGAA.
+br.pinterest.com	FALSE	/	FALSE	1766208231	_routing_id	"346332b1-f878-4689-b303-39dbaddc7545"
+.tecmundo.com.br	TRUE	/	TRUE	1799815568	__gads	ID=8a3afa3bfc674f78:T=1766119568:RT=1766122198:S=ALNI_MZ6C8mksVVJ1qxXoojnv-C6xlt38A
+.tecmundo.com.br	TRUE	/	TRUE	1799815568	__gpi	UID=000012ab59ba0342:T=1766119568:RT=1766122198:S=ALNI_MY7lIDm3T_yRTQqQMcgIvmRTnQ93A
+.tecmundo.com.br	TRUE	/	TRUE	1781671568	__eoi	ID=0664ffa1d237998c:T=1766119568:RT=1766122198:S=AA-AfjarMpH1JUMfyaVWsRdNOyY0
+.adnxs.com	TRUE	/	TRUE	1773898202	anj	dTM7k!M4/S?iJ([:57Y-HbD?kd?WUlbR*+[1cn-Fx1Cvu<8g0[+v/OvCLYP^=a[^vkLeqX.h.-D:BdT6VX>`-$9`N!G.^XZXf9+6O1n+rD^yBSl)@-t1+ILDHfK5-P$v(Jmks7Ut>=.ST/.:KFS.yC^<tZeikw!@6Et>>IYQ-$4Qyx2Z7]Up2dTfe.r9R$e$6Iku_+OowCy#^S4T<RfXQJYsPtt1G%E4#a#r*y`I`GImSfcTwZdCRYFAzoaY=4h4Z'dQYi#W'I9lnBdwaspcD_$DLXb5>$<Y109^Ul`=U4CL3gY75]qnEyG)^kSI<vi7hXZ!`:%7Yrl#mxhF[:lRAgKr4a('MwiMosfV9t<4ONbE><p)b_7u6=WHc!/]BJtZ.Wf.zujvu9n/1'd1lpC]E>XBEv9QtS8$8pSeClx[DY)(RHQ)dG>j_TzT(EoRp$Z(5=258^T7k9W(/j1pt.yYR#RAS^MibQ()#y[^QV9:w9kCJ.6W<C5_LK6[$Z<6IXa>hzdjmNO[@$1!CKs>%?hFy@eJLdG/km4vgGdQ^9^+T.qu[TGN`G5QWVZWfCPR.LupT@]of#$)nZ=v#/OBe#6X<sJOA>ca%fDnOjdb3^(FXZ][FxkkO.s7*#[qjWCNqNx#`kOwJ^Ja9!8r?zvhac(qOkF+'f$G(uOn46tt949H[6SD*1fSgF2n$p)^u^+R0gw[HjAH'l[Yfq.VDOdz=VD)<253^l_T8gV6NX)u*nnA4)LLo30su*Od1Hp')pMsQqzG9?K=DHNXgbH>4#:wt].Ud_+Grvud8nt)^Fi:O=n:e*5`HL[#NjC?Km9YcEB9=2'tUP4'U0lepvlq#>rfjY1*>-7gcv%c'F816#40<H-Y/9Aq=6lpvp-6vKGyAL*ICiX8D(FUL-#b=c!t'+SIrS2UTBK!eh]](R4G2t>!y=RLc2B^@cZ.^s)Hehdz:6'q-fsX*rmNEZx!@F:P%bR5BvXQiCKur.`mzLi??V56)_fP'.0e84*lMon+KtM.`(]-Ao/-EXv2kRct-4/3D$kkc?J$ZpEX8Qo:fPwWsZSv`2<o)HBIuUpKW)kJwgx]K/An`Di4EDbyb$DbrSK`n_3ScHhGA%hbxSnvA).#a)xj3BCo/!s>'v'MiBkOrVwblrVG-*)/@m5jJ-E8thx1Jig-Kj:?2a!t<^%nonM+<ZDG_M7F)CiA8Vkv
+.tecmundo.com.br	TRUE	/	FALSE	1800682204	_ga_NLKGGWEN9F	GS2.1.s1766119567$o1$g1$t1766122203$j60$l0$h0
+.tecmundo.com.br	TRUE	/	FALSE	1800682204	_ga_QW898WBY1E	GS2.1.s1766119567$o1$g1$t1766122203$j60$l0$h0
+.chatgpt.com	TRUE	/	FALSE	1797228605	oai-did	8a81ddd6-93a1-4805-8964-ca4cef744da4
+chatgpt.com	FALSE	/	FALSE	1781676606	g_state	{"i_l":0,"i_ll":1766124606779,"i_b":"8Q3UvrMNhUMWQK4j9LzPctefxJb5mExHCjJ17phg658","i_e":{"enable_itp_optimization":0}}
+.openai.com	TRUE	/	FALSE	1797660611	oai-did	8a81ddd6-93a1-4805-8964-ca4cef744da4
+accounts.google.com	FALSE	/	TRUE	1800684611	__Host-GAPS	1:GudYtZleuCMQD3dYwndJVq5lZTYbOlxsUpLFcexctZy6XuNOvHWpBXEcZ9Wz5lXAgfL6khHKwLHoYJiiaVpiJeXMHQ6e_A:eGw0SYoYks9TSSbv
+.auth.openai.com	TRUE	/	TRUE	1768716613	oai-client-auth-info	eyJsYXN0X2xvZ2luX2lkZW50aWZpZXIiOnsidHlwZSI6ImVtYWlsIiwidmFsdWUiOiJ5dWtpc2FrYW1ha2kxMTVAZ21haWwuY29tIn0sImxhc3RfbG9naW5fc3RyYXRlZ3kiOiJnb29nbGUtb2F1dGgyIn0=.aUTsRA.QYIpsAbOw7GqnEqM8sXKqaFGFsA
+chatgpt.com	FALSE	/	FALSE	1797228617	oai-hlib	true
+.youtube.com	TRUE	/	TRUE	1781682582	__Secure-YNID	14.YT=TC45j4DSdinjD6U0A4IrBUq5urULXTpDadsUxWC1V-SCPxG03vDp28BjX4Uo34nejvy-QG8tDS6pgbNp1F4L_eedUHDjKe222hosI7lLIdGwJ45dKYt23USwUy9bpaEA4wAIgAw06jb1FdkPN4USZH2Fx1BpBe4Yi4mFkebmeR5xAYe9n9ub0t6oYlfQbFkZ06a44977xnOlGurQG4T50oOiQtZiZCHAKiRwZiuVj4gISW7AWsvNdE6arei8zAz-CzcTaav5LwLKsVUIAq5RIePaWTLyAaIJMsBPdJ750iUSPfIp2MC7hC7nEPIDmL6LX0M0vMLhv0vss7llcHy2CQ
+.bing.com	TRUE	/	TRUE	1799858467	USRLOC	HS=1&ELOC=LAT=-22.850351333618164|LON=-43.246726989746094|N=Rio%20de%20Janeiro%2C%20Rio%20de%20Janeiro|ELT=4|&BID=MjUxMjE5MTQwOTQwXzA2ODUyYTM0MGVhMGViYzVlODdlZWUwNGFjMjc2MGZkOGVjZjRiYTgwOTJiODczMGExNWNjMzVmZmNlNGZkODQ=
+.login.live.com	TRUE	/	TRUE	1799858470	MSCC	177.23.181.142-BR
+br.pinterest.com	FALSE	/	FALSE	1781714480	g_state	{"i_l":0,"i_ll":1766162480386,"i_b":"X/fbDQ4za9aqlX2c03+HsWUmwkn+AF8N5YfHNdutcVg","i_e":{"enable_itp_optimization":0}}
+.railway.com	TRUE	/	FALSE	1773938766	_gcl_au	1.1.861670912.1766162766
+.railway.com	TRUE	/	FALSE	1797704343	IndrX0xRN0EzRW5rX0RpMmQ2MUM3N3dNR0x5ZzhzMTQ2aEM3WFpxUWVVNDZtX2Fub255bW91c1VzZXJJZCI%3D	IjJmMTY1OTgxLTc5Y2QtNDMzYy05NDUzLTg0ZjM2MzI0NWRiNSI=
+.railway.com	TRUE	/	TRUE	1797704344	osano_consentmanager_uuid	32c0f7b4-357b-49a6-b286-9bd910061023
+.railway.com	TRUE	/	TRUE	1797704344	osano_consentmanager	OkMioVDPFIzh7-n9_e24pGYmtamv2fD-giQ1VjvcUdRMo-RUP4jby9P0-6waeB8tnX7lT1UVNkxLyXa3EkDOQRuD_CO0VEIlpEANaCpGirxYaOoBD8EyPYNiZADWW8Izk08cKihjHAH4HBqPmtqVO_eO3qRbFOYEF_jF8ULmx-sET7F1-NyrVtl_7DZgIhyXft4TfXWZAwpVw3t5oZxO7_dhMf7HeDin7QdGN1RYD2HXoiDW5zajGrdfIiuQ8cp4stD6Fh6lWyfpV4m7kqrdHQ81TnC4LOHdDnMsjN6qQ4H-4xZ4BwtcM7SAXuHTq2vlTwF7CWeuUVI=
+.github.com	TRUE	/	TRUE	1797698794	_octo	GH1.1.1835339859.1766162794
+github.com	FALSE	/	TRUE	1797698795	_device_id	71d0f1dfd298bbfb8758ebb73897e6c1
+.github.com	TRUE	/	TRUE	1781714813	GHCC	Required:1-Analytics:1-SocialMedia:1-Advertising:1
+github.com	FALSE	/	TRUE	1797698818	MicrosoftApplicationsTelemetryDeviceId	18bb1136-3a60-4b24-8ab9-c6071f595dcf
+github.com	FALSE	/	TRUE	1797698821	MSFPC	GUID=12f772be72b8414390cd6b0484ad09b8&HASH=12f7&LV=202512&V=4&LU=1766108155086
+github.com	FALSE	/	TRUE	1773938831	saved_user_sessions	250576174%3AkjQaXaMCKi04x1_rTp6pdriDZswzgg42Dqv0-lWt9HjzxdZJ
+github.com	FALSE	/	TRUE	1767372431	user_session	kjQaXaMCKi04x1_rTp6pdriDZswzgg42Dqv0-lWt9HjzxdZJ
+github.com	FALSE	/	TRUE	1767372431	__Host-user_session_same_site	kjQaXaMCKi04x1_rTp6pdriDZswzgg42Dqv0-lWt9HjzxdZJ
+.github.com	TRUE	/	TRUE	1797698831	logged_in	yes
+.github.com	TRUE	/	TRUE	1797698831	dotcom_user	yukisakamaki115-bit
+backboard.railway.com	FALSE	/	TRUE	1768754851	rw.session	rw_Fe26.2**fa30b7bdc3f9250a0653aeb7499d942b5f082fbb2f852fbe2b519f7518c29914*4YjiOoAoCfa98WBNgGtL_g*k0ug6J1YhNZFbQf4riqa-rWRLzcHc8b_p9RaQLnigC6kqH2i7Y1zNSFAGegi-joPPySgz5KJVZPcmfo46ekxfQ*1768754852127*e53301030ce61da1cad69ad4d6dee056051bb50ab9a1d587e47a3392c6598531*bthlxglpzcQKSukl06_UPGxKrgeL4foxUUm_R7uHsd0
+backboard.railway.com	FALSE	/	TRUE	1768754851	rw.session.sig	A90wCFEqAgkwoyut8XMLdgXEj-s
+.railway.com	TRUE	/	TRUE	1768754851	rw.authenticated	true
+.railway.com	TRUE	/	TRUE	1768754851	rw.authenticated.sig	eMmi--ySRFSmthC5IH0IvFdhhcE
+.railway.com	TRUE	/	TRUE	1797704895	__stripe_mid	1bdff885-b42f-4a68-8736-17e0b0346d7412faba
+.msn.com	TRUE	/	TRUE	0	_EDGE_S	SID=36AF21B5F090699714163772F1EB68E7
+srtb.msn.com	FALSE	/	FALSE	0	_C_Auth	
+ntp.msn.com	FALSE	/	FALSE	1766250589	msaoptout	0
+chatgpt.com	FALSE	/	TRUE	0	__Host-next-auth.csrf-token	b955de2793946f3ab172595341278008a6ad7c60c3a621ab18d598fe46b33510%7C0ff8f1dd1c771e6444d727373f2b0251a5a8d58a40527909972505042669b314
+chatgpt.com	FALSE	/	TRUE	0	__Secure-next-auth.callback-url	https%3A%2F%2Fchatgpt.com
+.chatgpt.com	TRUE	/	TRUE	1773940193	__Secure-next-auth.session-token	eyJhbGciOiJkaXIiLCJlbmMiOiJBMjU2R0NNIn0..zAbEsP_DVa3Oy4Z3.NxgF5H1IQYB7sONNzlk1RJFOGJT-euBD6VOqaN8XcuE7v1A2NbCNMQAG0OQHGVOku4zIDK5BFQbjNGXEiQBi8cRsZJnYDAFexFNIMEXXX6-4qY4_Lsa60PMtAq8-oOSTKGswZbAIQQPn2RQIsxlzAXBxqtqgkyTivcHJ6NXHq1vrCMLhpzIaqp08BC7mnPX_8JTf6cQ037fxPcREe_2Jr9CllCmH5BTLUL6vyiPeA4X1kCqyPc3ovKznb-rNqbVfkQXF79-sisx32kUmMep4VCSCfZ1bnAXy4zqmUAhe12mTZRH3tlEM5daBA6F-lmDWyqdnuZEaHq-rgi70KNZBmcU_kcgUNmPpD94d7q59tOSf_i9eaC04U9YjTS-u-3tP7HCO_Zv7PZxd6EQCPRJBsieTy5fnhexSYHplILhbtxHOUsFr7HD-5Ypm8GnZXJkvFwl1sLlz2lHw8M8_cz67mjKLMrDBFVsPY3FAMH0b6sNuHDa08wma8kpkA_ljNSg-5zpAdzwd1yQ56Bs8aEYOvHh9XrxusrH2hiDtAkHUQXSU3z6OfeecBmOm8UrXE9b9dyMGejij2hjyoeHLfHzkGcRxmxPypGAj8gcbpor5dte8ZJQEhTMeDZ0YrlleOxcqAeaZSsXLyPgtJmW4qnstPasjmtau92-jcyMHmDXRkFfRV_tdHC7IRqH-Kq5_2fnhMzJFFk7zKo5SvVyCHc50NHWiLERtkmE45AARRKjhDxCp0OvMPNDCoUi2nb-nXRaN5FUdWgNZ6CzDAjU19QjZVof-Z7-VBaSQXfBfz0sOxuwj-wwXq-l_-BncsqLrtAZsK11qtAXwszs-Krnk-0esB9R-K88AKsNM_qjA0rqvU9oCjxAXz2NKjUqAa2g3lmwcPRfQDMuKkh5Wpuu0jGayW2k0lI4gnNqsoLmOjjfWPY2GxYBTmu6SsmJc9uprs8hfJXgHO1VmtUXNrxkD5v3iGMkKOsuhlpa6yvetTBN0POxsWmAnP3CNMMTowz9RUKFEXCF7FnH-aKuzr6-l3QTsrWA6ybz70ln1V35W8GybgYGhjIXexjsJGVTQPP-FUxkxXZzhihEhgUFtErAxl0xSPyE6H8Q-dPz2cb6-c7UzPxMUB5j-o6aDFujsPVhoSripZmDwyj1nLMdfTNkg5BpFCV3jA0VV8_2P48ENezN6QJhdTZE3wvlxbFWQR-Ojau-1EHU1_F32WO_NYmroJBHN8o3f74rKDv5Thlu_uH1ERVRwdC8Y-fnz_DMJc4FDgF2z-Cmgv9cAEBlZ0mneQX5tJ7DJso53nGgPWr3dRmJ5KlGMnNb1p8rHDY8GR--MEnsqs3o9Iz02ijT0TZQl03XdRsy0Hp6NmVbVLxv0Z0ZnuPCOvH2uUN0UZd058JTvuBBd0uPwWbWq81yDx2w9aq5iHpK4XIS0qemXq2z_MWREm69lReT-nbqFqFaknavBKZeLG2VjkBid066RndLyH3NzXkV2B9tL4Sm5SCR2yrfWF6cE_NQ_OpRLihnzvQAmU1j02x3lx8DahK9KsoO5nq9yw-m0qoxR6M0nDBdwIYP0LuIeHpmxamzvweas2n4xejZnmIVDbVubwjJOLnevj3BomIaQj2IfCl_SCcmitgWG5Cp4upB9bG5jzKG8J5dwbWuw_5q7ofAs8aA6nBdVDHDzYTyd64Jed-AgHupkkeYKQa7bNcJWkvN-xoEj-at1XM7dJdYXFpTvouCKiMQmbJtT6fopUJTzy7Emu4mycyuuqqfPkRksTiX54sTfiKlhsQPbUhQx1Ujb71H_m1YETdefvCANADtHbzlH86t6PqcpuDIMxcnQEmMLdMcW_Tywlf8ihNFnx4LKbrxjdMWXtVqTG6aJMvHPdUqTHUL1nUilXM5DKhwTK8Cdty7YPKxOzDglt554oSxaDKLB5sE__u1fG1-jkg0s7B57s_ETCfYH6ESgiBzFRjiPJBgsHlbwYvWTwSrP-fUynxNl-XYUkH_w0hGTbGU5wQVaOIZsQHimmaUgjVq7tNVpmwgr_P2n6iNwWcaN2bxibkKQ9Os3p_57ElhhgYFl5kmBoJm-_c-1HiOXmWh1dix1RjpYG8gMt01Tp5MC8Q7G6giqMcyu2P4kZE1fgHcPsXTWoh0lZWHG0mCxkmlAqsX6zR74m5XjExlk7rdKHtcUCljnMWVvzYLlYDPcpGWQYG-YWnarABqPYdIoa4yc7L4ZS7O9Qnw6dWI5dbYeAMpmUUXdKjYZ0PtFUtmJMaVArSRp1hgxlMYej8y4TZWD3CnngHSR-DPGY8yNSHeJHzeNVobBwHtR8x64PQ-z4XVRpXWik5EObxJeimXXH9E2a8JIgUy5nG96L-3ygpHJ1stWylqSLfhzSJk2C-ipyZjQ9YWsBlg87GzpOSTlP7FbEOxAzFJQawQ5N2edosYT0qMLVs_QWphMBOOQXWZQnBrSz8TgiA_-_65qspFUp707Rz5A2ALWgFTIvyMO4vbhPvyDz4Saor6EAjh3oTmKa7B9Cj-Cikv05U44LmerzAijDJdXplDRMUsHYGgwWOEq8765XZIuAWUl2NEJGEeNlzPhwPQV7HAOOTv7UIvJMf2xuDXuSRlE_WnMI412NjEBtkz0xgd_Yj5yhL5w5NeuIcDKYIPvhrRcuZJdLNxAcqeNZIb15pmbxQvZBPDgJJrJtQLUw3zpfA8DpwS2laOtijmJrWmEaSmOjdPTYBd-03YUR2ITs3C5wwFmgjOEQK365Z-CYnpHEXLvSfliKz_veOfQXuxFf7h2icFSL6qc-YzNGs3RAvx5iUXHi1roU3HA5ldF86g-_pnqWrZ-kU9QPkN8xjEPdwChvkuBiA72x485eMWmZDJtZ4xB0R_YsHiNulm4ec-1A3XnzLhlzKHNrNKLRuAKVfSXuGntYDKk1D3moCqhFgAWB-QzRy-CIzTy_o_haGxpXFzeKW31VHOusmu-Zxx-lzXXpotT_8RqmQIB8Kz6zRP9zoPj_i4AnMG8cYeuPtle48bKg6VDDfMsjKKdgLXvYUYklHG3OvEif5OusdLlf79g5BfxtyzjL_Eks_rElpNV3u0qVlN472yP0YOEMaMythZeA8lgQdFyvr51cwnuIe4wsLQYb3t_qoypDsQcwJRg2nrCqIeOrw2LHRpAaOxwOLN_Oxud9pw8z5tXk3R1pnXeokpwINVMRJ3-WM0c-WiHewaAD7metRFbHlpdu890mrdH5ZUgDx1N52Wu_8HNHPX8WafcTlTASnti47Vfe335McJQkRuzeFNZ6GPmatFTAdlJMrrSUm-_MYe3uIhshi8kgDCSe-YoiDXNk2ynHx_3JTq2b1-bhygnFTTChYLKpK3GZ9LI3RRVL9x0_DGey5_soHw25ZcEgIsd_6kz4vLcXSAt7IXj1YoZWQ8s9AvrCdbHZ6wspWwMt6p393byvTjJPteiEiGkKoByCbhOVVtBsDAMDU46MznY82G5SyP4Fsq_W1uMqcUc8egbH39s3jW-OTZg2g55LnXo2MXjh0sbEnxN6ArLEprPkDDnjd8eiyVUcYRnWdtivPN5-SrenUcnWF6FB6FM4dDvizMubYb0sUC6VDnyMyOwP_Ru4XcNrzhAWf-ZLwBFSZlE3sKt-t2bmtR8_f3PmWKZ1QkGFlihnS4.PrQmA0jqz-slh9rN6QYk3w
+.chatgpt.com	TRUE	/	TRUE	0	_cfuvid	g8SW25zD2LLBsJDbX46pIsHu_MAUY9WtZxNwUtyWCVQ-1766164194470-0.0.1.1-604800000
+chatgpt.com	FALSE	/	FALSE	1768756198	oai-client-auth-info	%7B%22user%22%3A%7B%22name%22%3A%22Marcos%22%2C%22email%22%3A%22yukisakamaki115%40gmail.com%22%2C%22picture%22%3Anull%2C%22connectionType%22%3A2%2C%22timestamp%22%3A1766164198131%7D%2C%22isOptedOut%22%3Afalse%7D
+chatgpt.com	FALSE	/	FALSE	0	oai-gn	Marcos
+.youtube.com	TRUE	/	TRUE	0	YSC	F7DfMhRST48
+.github.com	TRUE	/	TRUE	0	color_mode	%7B%22color_mode%22%3A%22auto%22%2C%22light_theme%22%3A%7B%22name%22%3A%22light%22%2C%22color_mode%22%3A%22light%22%7D%2C%22dark_theme%22%3A%7B%22name%22%3A%22dark%22%2C%22color_mode%22%3A%22dark%22%7D%7D
+.bing.com	TRUE	/	TRUE	0	_Rwho	u=d&ts=2025-12-19
+.bing.com	TRUE	/	FALSE	0	_EDGE_S	SID=16D4ED5DBFE963163EECFB9ABEA362C8&mkt=pt-BR&ui=pt-br
+.github.com	TRUE	/	TRUE	0	cpu_bucket	md
+.github.com	TRUE	/	TRUE	0	preferred_color_mode	dark
+.github.com	TRUE	/	TRUE	0	tz	America%2FSao_Paulo
+docs.railway.com	FALSE	/	FALSE	1800726246	theme	light
+.discord.com	TRUE	/	TRUE	0	_cfuvid	x2BM_f8L6kwAcDbGCA9CByEfEWhP6pNKqYAaafDhPn0-1766166588014-0.0.1.1-604800000
+.discordapp.com	TRUE	/	TRUE	0	_cfuvid	o0wkstntpGpbtS54BPCQksFRHZv9U9l8NRj8N1.tD8Q-1766166589043-0.0.1.1-604800000
+.gemini.google.com	TRUE	/	TRUE	1767031636	COMPASS	gemini-pd=CjwACWuJV93jFYb_b6k1ZbZc5AVi75OXfwVJx6huPFdJgLZgT-iphNSBtyIyTho-2Gurv4U86El7hPmdVFUQ1cubygYaXQAJa4lXlHXZfHUtwhiWd0-O0Lk-9OvZBm3vO3GEwWEybwXAKlx94fDolHVjNAgOETfVNkQuECLZWugj3Fpy88Pl5aEZs5Z6ZFAQz1teohrisQwp6YktDv2XRWLcySABMAE
+.gemini.google.com	TRUE	/	FALSE	1773943638	_gcl_au	1.1.181316043.1766167638
+.gemini.google.com	TRUE	/	FALSE	1800728908	_ga	GA1.1.163021890.1766167638
+.www.google-analytics.com	TRUE	/	TRUE	1773944925	ar_debug	1
+.gemini.google.com	TRUE	/	FALSE	1800728925	_ga_BF8Q35BMLM	GS2.1.s1766167639$o1$g1$t1766168924$j43$l0$h0
+.render.com	TRUE	/	FALSE	1797706468	ajs_anonymous_id	d976d371-dd81-4633-a9e4-4e44fa838869
+.railway.com	TRUE	/	TRUE	1797705031	ph_phc_jmpOAF1fCA4XG8D6zO8AuihY1JHmOkvzqtg5cZoxeJb_posthog	%7B%22distinct_id%22%3A%22e18650a4-661c-4d47-b708-8994f7f8d19a%22%2C%22%24sesid%22%3A%5B1766169031429%2C%22019b3781-1d75-7d4f-9dfe-4cb38ffe3c7c%22%2C1766162767221%5D%2C%22%24epp%22%3Atrue%2C%22%24initial_person_info%22%3A%7B%22r%22%3A%22https%3A%2F%2Fchatgpt.com%2F%22%2C%22u%22%3A%22https%3A%2F%2Frailway.com%2F%22%7D%7D
+.linkedin.com	TRUE	/	TRUE	1773945033	li_sugr	ec7d1867-b384-4dfd-aca4-3780d636d46e
+.linkedin.com	TRUE	/	TRUE	1768761032	UserMatchHistory	AQKXJLxeA_s7CAAAAZs34LmekeKKEKghKuDYNS9Ifo50P2pQ4b2_cakG7IfGe1C6d0WHg-pVZ-fZxA
+.linkedin.com	TRUE	/	TRUE	1768761032	AnalyticsSyncHistory	AQL5hJ30IpvS7wAAAZs34LmekfmyBS0qSFgDyt19JXxNTn6naCEFFocLSJ-KxmI8wRLpYn0eihYxjAwtrroubg
+.www.linkedin.com	TRUE	/	TRUE	1797705033	bscookie	"v=1&20251219183033e20bd417-9789-466c-8139-5cee28fa37f5AQEsA3CXm5SC58MVaNKj-yYY-cYk1qZh"
+.dashboard.render.com	TRUE	/	TRUE	1797709466	__stripe_mid	605c57f7-cb93-4a39-adca-472e0baf99ac17212c
+.dashboard.render.com	TRUE	/	TRUE	1766175266	__stripe_sid	126d7422-f47a-4009-8998-06f1952aaa5d001190
+.render.com	TRUE	/	TRUE	1797709386	__render	%7B%22originalReferrer%22%3A%22%22%2C%22id%22%3A%22usr-d52pjl15pdvs73elk5lg%22%2C%22loggedInAsAdmin%22%3Afalse%7D
+.render.com	TRUE	/	FALSE	1789503388	intercom-device-id-wf6otxqc	94cbdd94-fbfc-4456-8e6d-03f9354e672a
+.bing.com	TRUE	/	FALSE	1766176875	ak_bmsc	26D90F51DB9830231FA4DDA920B7A5BD~000000000000000000000000000000~YAAQEckQAtI0CSmbAQAAwYrqNx6NrOCwNsb/MEbk7KQMuocwtAGDcCy83rFxqKX6yU7/AO6NwGDSLnhEC50y6vsjONoK8+fKabRLl6ML0VQlAnimEdbI5OiHfGfyLsZSXJGW0WkY3DI2n9ytArRCuke0XpUGDA5M4HCgty5qccZY53kwIDsNuud+YxlXReTQIrqThADWFhqElIQDFpD4Tf03VVowkY+3ViRVwhDFfFqDrO7YcfyFjtSyuXDPNUK3a0oVvMIkyl5X/VHNGV0coLRgUrj4PMnnxMXHrvCVX25IiLYH45OzndAV4WQZAu9MCyznfGxKe3aNUoxzv5svlMR6HgQtSbjiujLIlL93giCjBo/GUTJr+abplno9A+2wEwA=
+.gemini.google.com	TRUE	/	FALSE	1800729675	_ga_WC57KJ50ZZ	GS2.1.s1766167638$o1$g1$t1766169675$j60$l0$h0
+.uptimerobot.com	TRUE	/	FALSE	1797705678	_clck	nlmb4n%5E2%5Eg1z%5E0%5E2179
+.uptimerobot.com	TRUE	/	FALSE	1800731041	_ga	GA1.1.109726908.1766169680
+.uptimerobot.com	TRUE	/	TRUE	1800731104	FPID	FPID2.2.MElFhRL2U%2Bu%2FNBEfCPez%2FcT8jK%2B0bfYbFZhzLGxc3Wg%3D.1766169680
+.uptimerobot.com	TRUE	/	TRUE	1766241680	FPLC	XPCmadVDKl38kJzqWEHXIrImyGZcwJ8sTiMz6lqS3YN34wkCztj5%2BCNkoDct2B5Ul83z9oMvnLb2fqUh180WhBfqYtgOTkCq%2B00GkVEXgO4aCzP4iXdzdKRrpnL1qg%3D%3D
+.uptimerobot.com	TRUE	/	TRUE	1773945678	FPAU	1.1.1866887922.1766169679
+.uptimerobot.com	TRUE	/	FALSE	1773947102	_fbp	fb.1.1766169680440.872193703264169907
+.uptimerobot.com	TRUE	/	TRUE	1797707102	__ca__chat	38bniuguqgv2
+.uptimerobot.com	TRUE	/	FALSE	1789499681	intercom-id-dvwkegfu	0c75574d-6b16-4080-968b-0e7f41e80ba6
+.uptimerobot.com	TRUE	/	FALSE	1789501042	intercom-device-id-dvwkegfu	cfa96d1f-0f30-4871-8c32-f4d05e3aad37
+.uptimerobot.com	TRUE	/	TRUE	1800730075	uruid	3228716
+.uptimerobot.com	TRUE	/	TRUE	1800730075	uid	1e4ae3fd3bc2cff51617215ab1ec6f99
+.uptimerobot.com	TRUE	/	TRUE	1766256475	__Secure-ur.jwt	eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIzMjI4NzE2IiwiZW1haWwiOiJ5dWtpc2FrYW1ha2kxMTVAZ21haWwuY29tIiwiYWNjZXNzX3Rva2VuIjoiZDExNGY1M2I4YzQ2MmUyNDNmNWMzNGQwIiwib3JnX2lkIjpudWxsLCJyZW1lbWJlcl9tZSI6ZmFsc2UsImlhdCI6MTc2NjE3MDA3NSwiZXhwIjoxNzY2MjU2NDc1LCJpc3MiOiJ1cHRpbWVyb2JvdC1iYWNrZW5kIn0.ylYjdGbzrM1C4re5owyUv0DIdPFovXTVLV4knLkF2Zg
+chatgpt.com	FALSE	/	FALSE	0	oai-hm	SHOULD_WE_BEGIN%20%7C%20ON_YOUR_MIND
+.uptimerobot.com	TRUE	/	TRUE	1773947041	_rdt_uuid	1766169679418.b247ba9f-4e7a-43fb-b3db-335cb75b55af
+.uptimerobot.com	TRUE	/	FALSE	1766775843	intercom-session-dvwkegfu	aXB3eVZnbTZDU1RFUTNoN3F2ZnRmNzNiSnlnNExxR3dEUElkakg0Q0Jyd3JpaGtIWVkxMFc0M2cveEJSN1JGczZlOStuY25MSm8wam14RXB2MWFpZkJGNlBzVDhFQzc5TnY1VkloSnlaN1E9LS1KR1RkZ3RHelJxOHZCMTZoem1oOVZ3PT0=--671c18a3381629d8e37e40acad8a190461fbe1b5
+.uptimerobot.com	TRUE	/	FALSE	1766257451	_uetsid	4f4d0d50dd0a11f083e88731e616ab9c
+.uptimerobot.com	TRUE	/	FALSE	1799867051	_uetvid	4f4d32c0dd0a11f0acf1e79b7a2ecf9b
+.uptimerobot.com	TRUE	/	FALSE	1773945679	_gcl_au	1.1.1866887922.1766169679.386598141.1766171101.1766171100
+.uptimerobot.com	TRUE	/	FALSE	1766257503	_clsk	1hmf0fb%5E1766171103085%5E17%5E1%5Ea.clarity.ms%2Fcollect
+.uptimerobot.com	TRUE	/	FALSE	1800731103	_ga_50DCJGBBH2	GS2.1.s1766169679$o1$g1$t1766171103$j60$l1$h1616001623
+.bing.com	TRUE	/	TRUE	1766257777	.MSA.Auth	CfDJ8BJecyNyfxpMtsfDoM3OqQtBzAmxZjJqSa8lz1M0Njc-sgDmdcSSH3WTABXnbPajHeXodqiDoK0ome4t_KybLcfA1uPnunBGF-_G9hsq-sBYUCVjQNJ56R_KdYMWQhWT_U5Hkx2Cif20SMMMtxSdf-hJtwFEB2GcXSZMmQe6gev0JURfJEmrg7X5joV2JjZ-_R8veBQpT2VO3HR4_G0vTHdF6cKqbpCDtXQIU019AfOlu3RUQ0hcDfRdhwCBEncrztS5AzVPyjhibeKD8kwTsXvHo9kUVZ38buoyH3bWw1xEAy0_YwoXkm9kXFRnQSXwW-3rvTAO4xCxys4UcKF7YCuEf8n1KxXffOw3JUfiNBO9jhoe47YrmMjCNQ92t-pC-n2R8oWk9O-5x8Tdza3Ok5cgLzI5vbtYzQ_v7fP0VGAU
+.bing.com	TRUE	/	TRUE	1767380977	_U	1E7fHmryAbZFQnfMUAoWQpEp5MMyRXqcDD9dUe-Pg_oYvhCtyyljvp8lghHLxMIkE-n6Q1vXBXluiWgFMhYKhnBvbFKCujuCL59ARMxhuNuQgHQbXS1G77bDLcUF3FRuYID2EAds9WGKd6MDLqebDb4sVjSZJj50_isAMBqGbQdFFzTfv-yhW2V28Ot-aO91gWB4cp4D6B031P7XXjFZ_O8YqN_v0jaafXElw7OKBnHE
+chatgpt.com	FALSE	/	TRUE	1766175083	__cflb	0H28vzvP5FJafnkHxismpqYcBQvc4Xc7n9Tpvj7p9dV
+.chatgpt.com	TRUE	/	TRUE	1766175499	__chatroute	eyJhbGciOiJFUzI1NiIsImtpZCI6InM3V09lNzAzUXA2Z2VESkU0bWl6SHlTVU5ySm1MTElrbnRWSXZNT2lwajgiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3NjYxNzU1MDAsImlhdCI6MTc2NjE3MTkwMCwiaXNzIjoiY2hhdC1wb3J0ZXIiLCJwbGFuX3R5cGUiOiJmcmVlIn0.RJKulr6h7VBGv5nIlMFFObGLxL2R8U_dlX5UrkdKa3t6iL0HR9Gf6NArWNeu51s5-XYG806ZE7BavVO8GLNPsQ
+.realtime.chatgpt.com	TRUE	/	TRUE	0	_cfuvid	xIom0pb.GpnmiwCNzJrG5rHfWpzeKXFOFeLmbseKQ6o-1766172031291-0.0.1.1-604800000
+.ws.chatgpt.com	TRUE	/	TRUE	0	_cfuvid	6f0vzdGeqtUv0TmiFHvWnNxvZd2ZhNss2Hos5PHliLw-1766172151571-0.0.1.1-604800000
+.c.msn.com	TRUE	/	TRUE	0	SM	C
+ntp.msn.com	FALSE	/	TRUE	1766174180	ai_session	j4UxE4VkQCiSmrVyKzjK2a|1766172255644|1766172380613
+.bing.com	TRUE	/	TRUE	0	WLS	C=286f46b4eb3ffd03&N=Marcos
+.discord.com	TRUE	/	FALSE	1800732935	_ga_5CWMJQ1S0X	GS2.1.s1766172934$o6$g0$t1766172934$j60$l0$h0
+.google.com	TRUE	/	TRUE	1781933032	NID	527=UHNyVL49ys7mdkHvFRNa-AhVkd_QN9NmT8vHh_cV1RoW3xcdJXQdmm6qyucCrEmVrCaf5j9KCVqzwgkG4BefdPi1mtXc3HGnDM0_MuvRMqJHQNC3mXBA4al9jaKoWXqGlUH2JQnbDW23E-ThuNoXAozzFfVuBCzeEFDRBkhyMnZgC8zdYUAhtHTuVwvVTj-Ixreq8caDgz7pkK2bXfaTpU421pTklEChGZw-OKAeOYrbQT-RzID7MIzt0FQzXMrtVKfRn2AqDqrTRTayIim12v39ccrLCvASUF1oA95rl-6Ey3yRaFON0CGHC-mi5_IYa_aYwznS78Wkx9TkYWGzBZZRqoFmrVXGsRb35ejCop6aqhJnN6jEjCRFh9_SDWXFPxXC_IjuXIIbd_DoXkIy64Js2fYj_VQqXQtQJSA7A-ZRflc6V7Frn62eHq7pZn4_zUmYaF6-0UYpkkuzHhjexZjHle8bMAWfO99gJCElHuV7iRKIUrcCK4TYVRFBQwxYib2WVA9i2tRMiW5RlZ9xYeTaNH9kmcyMju0MJg7ZyprfDXQRa1beuUss7movAnwuY2LXqzvGXcTNLEk-X8LasFoscW9FdVnzwpL6E9RvTbapautRt0qpbbDCLjLGmIFc7vXBNXRdMzUeuSxxUomnGL5faVtpZzVW9-zslP3DRz7I0eJytcRJGlDioCSe78METSSbbLu5mM3-yofSuaSp-ztbaf_9qsLK3afj3UsVf8WCzKSkJ9gxYZxMBOxxWrKq2yznaA
+accounts.google.com	FALSE	/	TRUE	1800733032	LSID	o.chromewebstore.google.com|o.mail.google.com|o.myaccount.google.com|s.youtube:g.a0004ggnC82iLgG4RfTAmBdJ7baB5xr9l7qz8Yv5Fb7TirTmqAtZuOtTP-GVnaGAjRTbYm4rPAACgYKAcASARMSFQHGX2MiZ6KjjoL8FUTM8s7ldZ4tyRoVAUF8yKoIxYuRCHrDyQR5WQen8Ho30076
+accounts.google.com	FALSE	/	TRUE	1800733032	__Host-1PLSID	o.chromewebstore.google.com|o.mail.google.com|o.myaccount.google.com|s.youtube:g.a0004ggnC82iLgG4RfTAmBdJ7baB5xr9l7qz8Yv5Fb7TirTmqAtZcajPAZyh8nBmZ7RWAhfWuAACgYKATQSARMSFQHGX2MidPU2MpO1IxqOVGCOHWv2JRoVAUF8yKoHPh38BsL1kRju4lr2w7V60076
+accounts.google.com	FALSE	/	TRUE	1800733032	__Host-3PLSID	o.chromewebstore.google.com|o.mail.google.com|o.myaccount.google.com|s.youtube:g.a0004ggnC82iLgG4RfTAmBdJ7baB5xr9l7qz8Yv5Fb7TirTmqAtZOlQaPQO174ofLqahzA6e2gACgYKAf0SARMSFQHGX2MiN8H4L8kUeE0iNLf3f9B2XxoVAUF8yKrQka0xMjIGqqeaC3elrBob0076
+chromewebstore.google.com	FALSE	/	TRUE	1800733032	OSID	g.a0004ggnCziRC3zBjHze5g-lK27sanqBFzhahz6bxbpMMGOOS33QuXliL8ZXLS5CNYf1HRAHzgACgYKAZISARMSFQHGX2Mi-XmqIDcdimjmvia0F0sJGxoVAUF8yKqJWDH4gnNuRDNcxNbG5_gR0076
+chromewebstore.google.com	FALSE	/	TRUE	1800733032	__Secure-OSID	g.a0004ggnCziRC3zBjHze5g-lK27sanqBFzhahz6bxbpMMGOOS33QlsCIhoXxgDtCExBwx1ytMQACgYKAagSARMSFQHGX2MitKUvY0ed__ktfomw6A1MphoVAUF8yKqoR5LpZ_7A5bZ6NNceRs7w0076
+.chromewebstore.google.com	TRUE	/	FALSE	1800733832	_ga	GA1.1.1279224081.1766173034
+chromewebstore.google.com	FALSE	/	TRUE	1768765034	OTZ	8397817_68_64_73560_68_416340
+.chromewebstore.google.com	TRUE	/	FALSE	1800733039	_ga_C2WJL5J9RY	GS2.1.s1766173034$o1$g0$t1766173039$j55$l0$h0
+.doubleclick.net	TRUE	/	TRUE	1800733055	IDE	AHWqTUm0egTAwOnzTepqDergBfwNFtwzgbj7KlqlpXieb_WPOeQR-wJn8mjXtPAaLBY
+.chatgpt.com	TRUE	/	TRUE	1766174944	__cf_bm	miwz1f3J83hSYBshmWg8tNem.wNQ_LxVSETb_mbyayI-1766173145-1.0.1.1-Qt3k8k8LS_N7CmGMKqNT.Aq_MEExi2KN1zLJsAu.ubpTcoGuqk_ChxdGkJ5krgB1oOKFXOLxBZlKcp.MYGqnrN8.WLPQB7ddtkanyRDIFFU
+.github.com	TRUE	/	TRUE	1768765297	fileTreeExpanded	true
+.render.com	TRUE	/	FALSE	1766778189	intercom-session-wf6otxqc	TFVOblBMZGFLWGF5cVVaZ1RaeFVtcExocStqMkNvTEsyQmQ4a0VlRlB0Qkw5R1U1QlpUZ1JLalVLVTV2YjVaenVlM1RFeVVyR3Jhb0hZZWlVYmt5b0toYmVpcUorbWJDOHVYQnhoQVc0Tnc9LS1EOE55UFNHckN5aGpCR3RhTG96MU9RPT0=--f47fadc896fa6ad2ae5d26be2fa27c2ce22a63cc
+github.com	FALSE	/	TRUE	0	_gh_sess	SPDhuZl6Ye3EefUQwNzROPxFPDwN6Gk38%2BumL56Q28oTYp%2FYApUzablvibtVaGNIR6tbUeS9bLptHvHMuSEtPjfjcfuae5ThDlfZn6Zmb1uMSR5zG4r2b1C3dLKtGwohAGWxbVOdEm1WROGZ9XGpB8x2%2BQdI7howMJZOQe8oEcKAwOT6I3RaqYikk4l96Gs0gbgRYm0AtQm2g9UZtU6uyrsdnSSAp2ctZ%2BOWUU674mU2LjJ18IHslh%2BcnuN%2Fnrxd68Q0q5w3Q7yICMs6FpbYkh9v3929%2FYAmBrIsRtsKpK3c%2FLDSgkLjvjnVLKlrzYq0yqD9%2BbhD41ayr2%2BNEbiqB1Oy8qSTlZdIQtl%2BsoZNKvN17gNpmfKZ5YTO5mGNIrCFnDImD49cXi0zTD35N%2F8HNlqEyiQ%3D--Llw9h16YoUOF2LUL--UZI0FY9OHsuxhDJ2efWm0A%3D%3D
+.youtube.com	TRUE	/	TRUE	1797709468	__Secure-1PSIDTS	sidts-CjQBflaCdQduSVX3GFViYKQLmpbb_m6cIuIf8Z02O0QtwGU0Ij9WzeWnZezA0knbV4Ueslz1EAA
+.youtube.com	TRUE	/	TRUE	1797709468	__Secure-3PSIDTS	sidts-CjQBflaCdQduSVX3GFViYKQLmpbb_m6cIuIf8Z02O0QtwGU0Ij9WzeWnZezA0knbV4Ueslz1EAA
+.youtube.com	TRUE	/	TRUE	1797709468	__Secure-3PSIDCC	AKEyXzXev5x8oh7rOl24AC44eyNi1sc0NoRDow90h0sr4H5mulrSsd2WTnsXjjbN4jtCyzFw_A
+.bing.com	TRUE	/	TRUE	1766260184	GC	98KD3iVNQ8Kgg3KurGefMWANuecstxfE3SPNOvljNj80WFDy2X0gfBQH7dl-fd6Fi72nhl_hNnKeqqjFj2FVWQ
+.bing.com	TRUE	/	TRUE	0	_SS	SID=16D4ED5DBFE963163EECFB9ABEA362C8&PC=U531&R=81&RB=81&GB=0&RG=0&RP=78
+.bing.com	TRUE	/	TRUE	0	dsc	order=ShopOrderDefault
+.bing.com	TRUE	/	TRUE	1799869784	SRCHHPGUSR	SRCHLANG=pt-BR&PV=19.0.0&PREFCOL=1&BRW=XW&BRH=M&CW=1528&CH=732&SCW=1513&SCH=4080&DPR=1.3&UTC=-180&PRVCW=1528&PRVCH=732&B=0&HV=1766173784&HVE=CfDJ8BJecyNyfxpMtsfDoM3OqQsZefBCGURb07XaPtlqYa0_qeel7Nx0S1VKvuJKpfbGy0u55aKfifK97OAXL9km6lqDFN0ztH4o7OUSfSXGyb99LQTKWLrv8n5MGNniDTO0SCfKE36Efs0NqkI0hQZeS4hDgI3ctUpc7KoFQYRnwLbrIG7tY7DbstwUILo0DEgk3A&EXLTT=31&AV=14&ADV=14&RB=0&MB=0
+.login.live.com	TRUE	/	TRUE	0	uaid	cf3fceba3b92428f97ce4fe1edd27218
+.login.live.com	TRUE	/	TRUE	0	MSPRequ	id=63539&lt=1766173785&co=0
+.login.live.com	TRUE	/	TRUE	0	MSPOK	$uuid-a4aa18c4-ddee-4fc0-9573-f470552e483a$uuid-2ca5a4b1-a0b4-4a78-97c4-592dc856fb26$uuid-941b28ac-acf5-424d-8ac0-1e9a6a3e46e1$uuid-5d8ef4d3-be75-401d-a1ae-82fffd7e7107$uuid-fc2cf14d-6887-4322-8f21-3e99b4f65049$uuid-07476be7-60fa-4720-89fa-bd9442058e23$uuid-fa917b9a-f47a-4a83-a979-16fdcd148e14$uuid-7df52048-2d8a-4a6a-9fbb-bdb8ede1a8ce$uuid-51bdb0d2-29a2-4621-80c2-214e48f16329$uuid-5141eb76-dad1-4669-9ec2-171189ec83a3
+.login.live.com	TRUE	/	TRUE	0	OParams	11O.Dj2dQQkveMSGA2SAdMZctXKsHvEFN2sPAk2Qk*8Ced3hSO9TW!BPBmmadhd84EF0*L0E0q0a5qqOxNGXoMOmMfmxKh8iVRJKZGiysQYojh*6mzkEC5d*fVXcPHKsKzUxrHah1eO71dBjKXSAV2JqJ01M8JVy8fe!Zb2A20vDrv3PrN0l9YFZdGRLtk1rxSa0K7mqb2JCg68uqQD*9YN9ghunnC!tSMUAjrMu932dkPv!vroBUTNL9PAeWE8cK0hK9Ha8qR!oWlu!Nx4WFSQdtU93o9KCVCiio63rKZW4IUFgH3hz3y69kPi!CctOsZXJSnv6OLgRYiKJEqthp1khTfE8nliCDN!tsC3DO1kLfxxV5c7AfvZFC3SrgMTWcb3fXZeJQmbzz!D4pP5oMySXPMen0dC2WKDxgC54F8kIdgYP9qHYPsi7GH1ks5y!0hyIgiSGFTC6!xAlN7GttH57iZXJpL0xUnkJNOkvMw!GoyU!NprmIlFTpT*EZMUnmVb3CaVDlXWrw50b7qYP1vx9rB1a*bGJRXqJIK9nt7ZTCMHns3VP8uv4fGb8MfjPM0MMqqgHS46I7d0nerkIEO0qwipRWYWLtzJkLH7uZqUBc6vn7PZtFbQAWybhW4B!Ya0bxseuIKSG4Bsal1AubdRzWstf6RvCYxUJyaihySUdFt0XVCQGNE8gjnkhZW5qa8ZpDQ$$
+.bing.com	TRUE	/	TRUE	1799869786	_RwBf	mta=0&ispd=23&rc=81&rb=81&rg=0&pc=78&mtu=0&rbb=0&clo=0&v=23&l=2025-12-19T08:00:00.0000000Z&lft=0001-01-01T00:00:00.0000000&aof=0&ard=0001-01-01T00:00:00.0000000&rwdbt=1766079365&rwflt=-62135539200&rwaul2=0&g=&o=0&p=search_and_earn&c=ML2XE3&t=965&s=2024-04-30T00:26:19.5302165+00:00&ts=2025-12-19T19:49:44.7433450+00:00&rwred=0&wls=2&wlb=0&wle=0&ccp=2&cpt=0&lka=0&lkt=0&aad=0&TH=&cid=0&gb=2025w18_u&e=NbHWfxdKanmpnXJhVM-Pk-Zb3JSs0qMtMNBZcuqLMeRX47md36KITku8598b7sLQhdGb3C1UGBclj_jAUVzzfQ&A=85940C939E6B7176DAFEE573FFFFFFFF
+chatgpt.com	FALSE	/	TRUE	1766175597	_uasid	"Z0FBQUFBQnBSYXhsZlFZTzdqOVZ6eEx6T2w3MldFOGdzeVJCVDRfZWtCc1pKMXRLRjAtSUxvNHRhT3JfdC1QdGhiQlItUV9xT3VWWmw1MjZ3dDRBZWpnS2c1YXl5THJqdnpvbHFiRVFqVUdUdUdBMHdXWmZFMGNtenFoRENjZmIxQXlIdFFPZnhXdFljY0pFZksyTXlRSjBBNi1GM3o0b1p4dlF3MnFNTzhYTnBCeGt5dWt1N0JzbmJhN1hEaFg2UF9ST2ZBQWIzUWxSWXhHZXR5dU9WYVh5NE1vVzU4UkFadWZKeUhOZ1dGd0JuU3R0blppRWdOaEU4eGJvcmFqYnNuOU9mbVgxSHNwdzBTTlI2R0k4LWQyaUVSN3JyMEFYMjRkcmVfd0NzYXV0Y2l2b3V5TEp4ajRWNUlDckxrc3hzZ3NjUWMxUXN6QTdkR2VWUlIyT1doNGFrV0JOMWZ5eUtBPT0="
+chatgpt.com	FALSE	/	TRUE	1766175597	_umsid	"Z0FBQUFBQnBSYXhsY0Y4U2NZT0NTU3BrT1lLYW1zYW5UeXgxS0U0cGdRelRiRjlDWkR1VWUxQVowakluYjk1QkNCUmtUNThfOWRCSkluNG1FVm1DUF9WWGk0a2dNVnVrbEd0cXZwanlQU2hyXzNwQzU5THdXSWVkWDRyNHd2dG02ZkJjWEZWOE40bGpkek9jdkFrb0tnVjBoZHd2UHV3cVQ2TFJTaEV2cE1YdEJqX1BYc0MwdEhwbU5rc2w1SUtKbVZtdkNmdnpYdHVORFViTjNLS3hud1hjZkZzaHNsejB3MHRUajFsVUI1c2k0Uy1COTBBU2k3cz0="
+.chatgpt.com	TRUE	/	TRUE	1797709798	oai-sc	0gAAAAABpRaxm2ahH25qK9ensVrvhWsPwtLslQxjGhTnnb-527S2FzlnJ6g3n8OFhtLOg32mpNUobm_7IDS174uB8da3lXrzDyv66H_ZoTuUSAHyQF_zm4w63WqxQuOKbV8tM_oJv1RaC7Xb7hW3ANesy2MmfQq934VfB0IwHxLGf6Ry4tvcEafe1yCapop6FqNpOEKgFry9BXc_H7J8Mrv5M9CkA7ecxe3JoTDRByePynIB1qQhA3hI
+.google.com	TRUE	/	TRUE	1797709834	__Secure-1PSIDTS	sidts-CjEBflaCdVEb49sly5l7ClCyIJ9Dbf5gNQLb2uBckUwQ-aiTagw6d-AZOX_xc-6wgV4OEAA
+.google.com	TRUE	/	TRUE	1797709834	__Secure-3PSIDTS	sidts-CjEBflaCdVEb49sly5l7ClCyIJ9Dbf5gNQLb2uBckUwQ-aiTagw6d-AZOX_xc-6wgV4OEAA
+.chromewebstore.google.com	TRUE	/	FALSE	1800733854	_ga_KHZNC1Q6K0	GS2.1.s1766173033$o1$g1$t1766173854$j37$l0$h0
+.google.com	TRUE	/	FALSE	1797709954	SIDCC	AKEyXzUBcjWrzfCqYrTUjI-75rKLe7znpWUtohfXq7chOHGHnnmC1OP46Qw2_VUBUwH8WCAS4Jk
+.google.com	TRUE	/	TRUE	1797709954	__Secure-1PSIDCC	AKEyXzWVk3Uv0EeocN7O3jj_qsez9yznt-y7pjK4miGnxb4XsK8fcYgJpVOlsiBwpQBdHiJSoQ
+.google.com	TRUE	/	TRUE	1797709954	__Secure-3PSIDCC	AKEyXzXGYwKUNGXNG7ggPGy51fsCH_3iU6epccaw4i6-mFVCXEvzyZcoEyhlvIOivKfqiLqbDQ
+chatgpt.com	FALSE	/	FALSE	1797709972	_dd_s	aid=c886de7b-f090-4db8-8d8d-60828819f5b0&rum=0&expire=1766174872311&logs=1&id=f9bec4b6-c839-4587-a032-3fef1378e574&created=1766161912715
+assets.msn.com	FALSE	/service/segments/recoitems	FALSE	0	_C_Auth	
+.msn.com	TRUE	/service/segments/recoitems	TRUE	0	MUID	
+.msn.com	TRUE	/service/segments/recoitems	TRUE	0	MUIDB	
+assets.msn.com	FALSE	/service/news/feed/pages	FALSE	0	_C_Auth	
+.msn.com	TRUE	/service/news/feed/pages	TRUE	0	MUID	
+.msn.com	TRUE	/service/news/feed/pages	TRUE	0	MUIDB	
+assets.msn.com	FALSE	/service/news/feed	FALSE	0	_C_Auth	
+.msn.com	TRUE	/service/news/feed	TRUE	0	MUID	
+.msn.com	TRUE	/service/news/feed	TRUE	0	MUIDB	
+assets.msn.com	FALSE	/service/msn	FALSE	0	_C_Auth	
+.msn.com	TRUE	/service/msn	TRUE	0	MUID	
+.msn.com	TRUE	/service/msn	TRUE	0	MUIDB	
+www.bing.com	FALSE	/rewardsapp	FALSE	0	_C_Auth	
+www.recaptcha.net	FALSE	/recaptcha	TRUE	1781715702	_GRECAPTCHA	09ABCLyOFFxv9m5UcjmcCeBY-jjcx4Jlx-aMCtcUSeDYO6sqzB7swJkjvrIwt94X6wik02aFIzaPAXcpUH2z-7ePQ
+mail.google.com	FALSE	/mail/u/0	TRUE	1766869342	COMPASS	gmail_ps=CrMBAAlriVdV8RdtXscIYxXYnTGPwWDoRFvhCYP5ptMjWHNx11_wP7dknv5Unb9i-ZKYyNjHQtissca9bU7e1s216h0Z1q9_nDuyHZFbQ0VAB6DXr_YzJ13T0Bb1brfnl3gjZWgxdIWm-DxMIB72dRzZvt1LUTi47iGXNJJkn3ejLMprkWiaTvMSecW_nfKE6Frj5FK2hw9QTCCSaGwAHJOaiNYngrh8qxlzVUR1DvZmCpm4IuQQluCQygYa6gEACWuJV6Urk-uPG57oVvDkchPqouFjGJdqQJV5Hs83euXv_z2L5I-CCLpvx_odPCzVDQQstvx-72KqVsB6mnGaRfLgXYZ6KkPT37mcdTZHQc3UM9YVKu4-PgzVwYsimpQP7mAwpUbz0XsjdedCU2BE8x-R7is5rCkXOjiFhW9RRiMXdb8mIdKyZj993oF3eSqwTQ5BAKTj0BlEFjEBL5ZbBqKdNIraH-tsBv2Q9rJSbQnlnpdP9-PFnTLQzi8eZDxJpymgnIfH6vGdeqLxD7uW8Jg4oz_n4GDhNqF0rbkY93y43mrHCJfpCBgwAQ:gmail=CsIBAAlriVeUopi94Ia4-mCkyiK9dSBb3vFONCxdo2bNiu2gCyU9pdrjE-qF9korvGNgbEVBKHnCWVQLmA0j_nuvCfRSEaikG27w4_UaCwyShmn0syCKPxkzpj3UIGNWNdmSrPqX25cj2bANEF-U9v0VjCpgA2RmM4F70QlzdXjC2oF6Ncc-AefluotA_4jL4rm7qgLqqtjZp3_N_0XCPdQ9i7m-OSjo_ASbWr-BC2mpq5gLRmHTOxnZ0N5FwN7vNhkp_nsQpduRygYa-QEACWuJV4ZzXyD5i3wDcLBOYG8yvAei96kvw5kQPywGCxOxAvYIs8_KjmifsWGDfvxIGCadi_FMOkcjo2Yrn25vUio8Ezuq1Jv6eYDVIKrcUTtanJeaxnlSerUGn251YYW7hWcFyapL7BsfnZ9DoN_QR8MRXnbpRk-qPBOfDEH2ZC632cIQs3AHao9kB9-zzf7tEkoQMkk_AAiOt2y--mYy-UtkgIjxxKuegB7z2SrdB8tGQ7JjAMz-LyfIpYChg500I9hlsPP2GAgWSYhsI2aef2Kp3wosSoHpdm8rDj8lQHGSuVy4QJYHpXLBjsKQ6OnA85Yu4ffB1IAwAQ
+mail.google.com	FALSE	/sync/u/0	TRUE	1766869342	COMPASS	bigtop-sync=CsMBAAlriVcosRptvy12DDGDHQtV7v8dptoYoqRVFLni4nvfdbjo562332-f8_cDMJ_dqpBhS8qVMWaYK6PAAEg5sfX5T_T4fJeRfEqwfDXSLLqH607jeH9F4tLcaMNHnlK752zq4hCvfT94k9voIFwO_J6PeUGDuc6QeVqf6XlLSEskv04AdedltABflmL3EWieWBmBZkWAebk2Dq8gR-fb4gOYz0Q1T1JXEiJzF9BwXyXztltYJfHky_wcTFcBXT9InWYvEMnZkcoGGvoBAAlriVcjoB26aTvhqtjtomDPTqC0TcblyrGQMAKxedZ6hTU22drOW-EqnM5MN_uupbWKi_ezYopbPBMxk_N6eJ4eFfGTUbKQA3XyqkudPhh1MXdywgcdaPhp6SI5-M_8bU1E-jF6PcNlQwiOuskbOcZHTVu4k9fS1wqeOywgYyhnkNmwkZUpPH12tysZSKHNohmkR6erI0p15H-tjvKh6YN64AIIx56vYdzLYamuw6fTr9G34BpbtRrRPMAlwUi4Y175703mMWjYtr_l7OExLQi1Foqme1FdcWGF1tOhgajkXYIgafktNq6Zou51FkC0PUSVI5Mz2Hhi5jAB
+.google.com	TRUE	/verify	TRUE	1781802282	SNID	AHDpxKlGUZIUxco4pWJ-1mGVMIIrMpkMsPPDoqetVYG4OzIb2F3WNjuI77jWHw4oZJy9L3kfFmxk5uLctDr9p_NSCa4VjGUu8OA
+.msn.com	TRUE	/edge	FALSE	1781888980	pglt-edgeChromium-dhp	299
+mail.google.com	FALSE	/mail	TRUE	1766855276	COMPASS	gmail_ps=CrMBAAlriVdV8RdtXscIYxXYnTGPwWDoRFvhCYP5ptMjWHNx11_wP7dknv5Unb9i-ZKYyNjHQtissca9bU7e1s216h0Z1q9_nDuyHZFbQ0VAB6DXr_YzJ13T0Bb1brfnl3gjZWgxdIWm-DxMIB72dRzZvt1LUTi47iGXNJJkn3ejLMprkWiaTvMSecW_nfKE6Frj5FK2hw9QTCCSaGwAHJOaiNYngrh8qxlzVUR1DvZmCpm4IuQQluCQygYa6gEACWuJV6Urk-uPG57oVvDkchPqouFjGJdqQJV5Hs83euXv_z2L5I-CCLpvx_odPCzVDQQstvx-72KqVsB6mnGaRfLgXYZ6KkPT37mcdTZHQc3UM9YVKu4-PgzVwYsimpQP7mAwpUbz0XsjdedCU2BE8x-R7is5rCkXOjiFhW9RRiMXdb8mIdKyZj993oF3eSqwTQ5BAKTj0BlEFjEBL5ZbBqKdNIraH-tsBv2Q9rJSbQnlnpdP9-PFnTLQzi8eZDxJpymgnIfH6vGdeqLxD7uW8Jg4oz_n4GDhNqF0rbkY93y43mrHCJfpCBgwAQ
+.msn.com	TRUE	/edge	FALSE	1781897203	pglt-edgeChromium-ntp	299
+www.yidio.com	FALSE	/show	FALSE	1768631910	yidio_user_country_code	BR
+ntp.msn.com	FALSE	/edge	FALSE	0	_C_Auth	
+discord.com	FALSE	/api	TRUE	0	__Secure-recent_mfa	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NjYxNjgxMjAsIm5iZiI6MTc2NjE2ODEyMCwiZXhwIjoxNzY2MTY4NDIwLCJpc3MiOiJ1cm46ZGlzY29yZC1hcGkiLCJhdWQiOiJ1cm46ZGlzY29yZC1tZmEtcmVwcm9tcHQiLCJ1c2VyIjoxMzk3MzMxNjgyMTgwMjAyNjM5fQ.vv285E354PvUudkJVuh9Eb9DS7oCujV3u_OZV_MbsdFUSoKNxbmqSqUaQL3lApbnnR3iOATux5Jpagx5sA6Ktw
+.metahuman.com	TRUE	/id	TRUE	1781762152	EPIC_SESSION_AP	ByVlmu0qkMRjAmYfQexMPQ.HjIK2gUL_6iI5ulkHgB3Ny3kk6JQrm42PmQqXbPfpTjM0X5h5WRgj_Ix__RzIF8fnGxOdUvURbbHT_GyRj9liTQ1GZGqlxFuQ3MleXWKNQPPy-vDp6w3hWSd0J6Mtl2V8d6AkZtG3vRl51KuKDk_YYyYbgFdsfh2boz28lC1D3AZpssaP0V8gzdiBNpayoapwT0z10IXTiQha-GXijF9uJ1cjNKk79pZLYN7s_grK62hBQLnqU_2RCLD88qygs0VU--LjihXJDPmGUt7qr1f45rjuK-OUsmqHkMdsR6ZA4HPRroAKJvJk61ttyLlfOrdiElOz49IXPVU1YxlRbgkwTfErnXndRZo77DBCEzih7SVAKxHtyAE7gmjlpTn9AY_22WPiGmh0ZYzYHsQYsW6_xje6BPXcKxcoidGvj-3xeKFEaA-8yBNbX8YfNseKikm8_Zziu6q8A7cK-49v6xF8BC11dDIX3PLzJg7utsAU-heY48BZD1U5GmzHjo5d3xVjVZJf_MQrtJSaal1malj6rq8MFsroS6O-3vf3k4wZbP0cGFh2LE6SXiX7weZPPvbo4BZkjHcqjS-dTHaxKjaq6YgvTgH1ouYrmtFq524R-zrjUfwE0-PmN2kJzF7EhIs00_zjyROYPLyA9xPn3eiRYFVoP8Lv_Byjzcug0qylKbZgDvkSQEtsQh5ejHxfHrkVgTMysAfoOM2PXhwbTcSGLYjBdW8roTGM2PoVWeGjbEboCCKC_2giH5Pq8tHpd1JHFoDZ2mU09hSIkaY05TOnylpnvsRQEH94HAiAvhlpSVDxltErTHpDdq6nrhXKmu4-1Bfa5M5QeC0MsdpUh_Hk3Kg2667pl9xXug8OQ6ryGiIY_7XEuLRogyD0vccQBkZEohXF5tWzzKqxA1H24HvFzRHlIsAvoKi4vUkCi6H8pn4KqnJBSP_CCFEvaLJWnLfgMw8sDj5KOe81m9qiE82610T54yYdDUWdqH-E4RsX7bAD5r1jXNyVUK2iTE0GBOc81dXHq2YcUcw-Hs7UWTH2O_d9G220temM1xxQMQ0WwmpXuOfe_4NEm0HdcfUP8mCe0Zi9KdsQtAkB0Ok-i_yzs0jsPIAeqnuOUkQXxoeQwfHLB2jHUI_c199Jr0FCIvd.1765992151820.15770000000.SGUGosTWM6oPL3MA23LPsg
+.unrealengine.com	TRUE	/id	TRUE	1781762152	EPIC_SESSION_AP	vp08TLUzseQUhP6hvmwELw.raGqR9bEJqGkG9fc_Kn2_f44MB3mBVym2ZdxAr9RDOw04el9AMVVCbEkWIYk7qHd1Zjtpu19ob5-30S7XxXBnt-5OoPngjyZ1123kCX8CFmSsVu8AjPsYvNIOo5fero9-kdzDVcUjUgVU94xh_vSl18E_7BeDSRy8bLFO0_jc-hzfNSxnO66fg38lVGVsEqOYAokGwm3xi8GEl6T0zoknYcIGHAd3NZuajy5LDjZSBuy2W-6tFllZkEkw6CIqL1B0Ao7I-VgYy_CGtPosjH4yM0CNudT9UygS8GlcAb4iUZH0mJyC5-h_7Jf3lG4spcHgl9Mk35rKJ1loW5QGk8SU6a7cRqXbvSjQPS2ZZl1-l5V9l47K8WZctEKgoEqINzqVVc6Lu64WTLj19ppr2wxR0-2--TdsUFgWhEoeK12l7LsUNnwYNXt19aEkF1Sbu-gpXVnmEA_T-DMJFtoINgGeRtcf50BdTdg3rvAx0E3_4mXMPdOjtO8KyvvB8OutS0I3Gk2T1zWS7_eB3ZL60bXd6P8Ib8pHwPOiSVk1mWiwitJD30Aw5YWziz5e3ESXavK9UdlbamXQmYVVS8al2b58Xv6GDAAizUkK4LmwiJAypMFZ-25KpPXuw5zIRiQuci5h_RnJ3QG-eQtyDKRI7BlSzw0eFZzHrrV4wS01ISN26HD82rFu83yopB9FcsbacXBKvQrFToNLnNTZTSBN1FhX16watNL92Hr7plZWmpZICb_4jFIOTpIWo9WJSujgCUDmtpmUHi975hkIY9eO99pDsmms7LMFrl81WF1QyxCzIMzJT46bS2BkiikldMnnKfNaxu_uGKXPqQ2yDuBzbZlZB8RRmOLCNTU2mME0n586SzgnijouBLn7JG1tfb1hZHb5IbSY-iVTIzFnaWgyQAOD5qxDNAPqFkLbXCBMF77lg5IKMm_oieYDEBcQGj_QWZA-gu08BNbSEt84Mbk320YbvsevO9FoetQ4wCmNJU3cw0M18iaGggN1xMOo7kA0MSyN6ca3UEqRbkB2bo4pF5vE3VzfRoLFHFt9ZzK4RebylqmB-7t-AFYJuFRTpYOcCsBMfU7ATAx4Mtng8B13iDAG3iLChyWB8CphCk902hvdJWnsf2H_Hl_BRcoCgAWjI5Z.1765992151901.15770000000.QMafbRd1RTvSxM0CPYQkwg
+.fortnite.com	TRUE	/id	TRUE	1781762152	EPIC_SESSION_AP	nM_j1rFp74rViAkVN0b_tg.7tetc_vOtxbbDlR8vt1zX7MVuAQmkr1_gHNWwvDdvFpX7ajwOOZKEP3FGucQkZoizlS5kqTuz3KwYC4cSUbLrKs75OgdY3Yyb3YQ0g1BdDEPOjbSunOG1NTQ5gMK68IEugJnz6qyeUrA9ISZcVgW7F_zRmzuBNoyLfz8gt5RWnnmwlYkz_9bghdtuguCZMcGTyLodLOZ1BBbskVb-rSHVlYV2ZU2fuUMq9MxH6sShiauVB9FYcROu2YpMbTf2dpPmx1cBrFdFZTOrpiS0tK8Zr09U_Y_VQqbsvo_ViQw_Wwswe6qzE4Kh1wPcW82ieIyjodHvWqRApe6kWu-RmYHM8BIwAxUd7TKPyVSLSQpATsmaoZC7hdJVAVZLhkCPu2f5v8KeSsBavp5N4pkWvOXPiTdiSkEOKkff83Dk5Q4zWqPhUzVga6ikCa2LoSv1s57pN7xIQfrlEjY6X_U4AM5RT7b9M8bdj9mnsEFq1Dkv0n95PpZNhgL6SQUsAFwZ7_P3We3FIJY1omsXyaFg_u5d2L1CNDBySXo-dPq0SSqRlx7gXMXzsfTrvu-qBCnExTL3-Lwqr_2iy10FwErFT1XtsaXu_iDTVBbmWhIChUkBtsujzPz7pC33q3snt6JSMyflgCggOaIcymSQVOiLo1iJaGh9TwUuWGJu1weWZX-JjHW-yHsqC8l6R797Yq0KD2htgXNJR3VMOeAuGqXiCa7pOjYH34q82iqnqFNbmt0VxFFAS0SdYFuMSQYv1icEaMpTAgT4ZvguBQVQk_RvxNL-boJCmWxBhk44TFRK9NVA4CtFk8HO9shCQox_NdJXOMcwGAZ5KIgJoexrfA4F69BJ6rXecid4wTx8SO8IO5wt52RaIfazes2kiG1KSgIXQIvtQ_8BzBzsmOL4vCaJ3yov_of-4KcdlzTYtnzZOHvWClHn_l0f9AkTv89elicn_OH-kqea8gOC4UJa6cQ815CwIoJ1-R0rJPSgUZXRHn0Hn4nvTZmsrzXFK8-wuAni4oLWwrMrm71LXlHe4i0j7_gTj75r7lNjCuWRgN3Dl6Hmz-w5QQLfFTM_OlnbIzx3dDDpiZ8Mry2Hj9ACAKZmDGb5YoXmqG79-2L1TyD3E0sXN0tjuGIS_ce_jGtDUddZztk.1765992151884.15770000000.sf705Org9mXeq57GiKKPcQ
+.twinmotion.com	TRUE	/id	TRUE	1781762152	EPIC_SESSION_AP	P4xZX_xoGMb_nfZD-q4ccw.6_M-HqEbpvXB3F8ZPXhR2glu4o7pSXFPCWHE91LQn0zD-6H3HNBtUd_zKi9tmac9tsKA1GWWf4QqnJ-AnfFrmrFIN_xgm-CFFJk0rXBB5jS3HBEd60RvCYCKuI8pgc3pKgoXnnkBMhg-NQii7ZM5mfgfTqkekEDUFZjmCtp2eDEYMLyqiTLtTnV_TLBVub_SWpf5f5RpuTxIItUyh_fVWCZl0G1PKpL6-2hubbnWQSMxk58kxqJWlMR3AU7-dOvm2_RUkWNN4TfnjVtQdz2Z8aOI5j6ahzk_BllK9E42kNfcirCIvWM3SEHKYrkdRY4ydFRSShP-rrBd_zTsF14Jo6zRjeD0JRxElDWo0XLMwJf0-MW6SLdDEWO3Kl0BgSv2jgC5Pjkw21HwVAM4aS4Gn4UeBTblSwN2vt0zp6zz_l5bZhKPRpOgXPM3UvyRC_sjcMomxtxx4oD3N5Bv8-Z_Ds48Dl3UBboPW1K1zPIvgymmszBAw8yelBB9_hcFbE9I8krJRe3zdqTYEHJFgX237AWWA_80Ike8b5SN2o8AYdmvhcYEn8s7_4vDR8LlN7M5W6TVw2JWjfrnMDik8UvMEkuM1bOj3IaPBcTj0XAR0VNBqQQi9qFcmHEoWnbjFEMX5qaKpmUzS9cJn2fxsFgXquI17B2tJbDDZ7NPEu7liFrJYLOCz9NXHICKQUw4eslz-V8Uyq8qIfOwcN_GV9uYPUo6q1Ok1djc7A7gfOSiEwp_puoxQ_q-B-6G0x8iYdZX4YogNh0zE36nBE28NGo1MtdPdJea30iZ6eXvh0Gy1gsEkVMUEOrFIqnnAxNZgvkUQ-D18vxRWS9evtIIoK21O-rO8oM4AXmBTYNelNJT1hypx-ojwzM_i3mreCucAu-5l3ASw8eGApr4zAgz2ZL71DzuIxTWw32Xi2Gy0fULuxC9FYv2B5aRjdFVfvw1rrbcJd2Zo7tYLrw2ALJ8x7HMjNimKgUrUQegQbpODfozFopkx1yayxB2NC5aLljslamxfke3pA0gXzOSDypQ1w1Nzf_qv3AwNB11Au3SIwjVc7v2TFlao4PW1zs4nc2pMSX2G_wlconKG5CPoBpzKSJJb4pSJM-C7hm4tlS9tinKeJohuFJ_7DoxBGRYds6ZDHcv.1765992152163.15770000000.PTMPD8RH3x_Qdfnd5rtCVg
+.epicgames.com	TRUE	/id	TRUE	1781775652	EPIC_SESSION_AP	eCBnhYKDzuiCadaZNXo1Qw.rVr40xX-MPcau5B5Rw1kgufZA5GN1ZMTQ_SdB53Pohfnrhwv8RvnFyCFa0ADPnESE0EQf-b94hJ15bUy2Octak8k8VKOzxhpvYlyUfQ-SAicXYudrea0_2MJAD7mzIpE48JJ20Su-YtFsVYiXVgjuSda8dzBrSs3EwFMgfsPuz5e5rVgqm254cby0UJdVs2U1eR5zvJ-f8ibU-t9GcZex_LuSNuol_ZY2OwJ5MdE0knNE_ot5oCg32l8hQ3Q4vVWRJZd7wFu3fibVFqzAyGEqiSli_GUHiivN9sKD5IQTiGuDUM3B4IqzUnIOr7tOKF9Tg60SmiHR2WonZY9H_67CwetJ4a_PwcRuhyRURfoV4Y5Lh19vwzX5srIC1nmbHbGclCHFJyeip1ZITwohl7xQBkmOFeVCrMrKxObIHxP2Z2DxwLHa3QHfUQevaTRBAVBa4xbkUnGS_Fa5tb_IQS7U7zk_Go-h4yMK_Bx2DI1Ht6HVhd_U6KcRIkHwSqqBEAdWLs6mCvi_3WrMT17JkyJNgFiGhH45U8oRmYxgYXtIKtf1oLZ9Ruh9fFAZpGQYxBNxDnc-iPyUsMXcbIes08bc4GZg0H8O5IhjJ83rEPNjYZ4fKaaM0TZU5Jti6bVDbO_0P7rWr8uULqcYELdA58XzpiVijPKoPrCwJBk6UVXnM_nedKvXv_X4UUrG9-J1v0K4dZ47gHwZC222QmJWWukxk5V7viA1NVIAg25qneQnJ892UarpGwh3qEwzzVZ7y1cJOEZ86ggY7kMCbd7ewAKNEeSyQLftlGEGeVpwa03LcdRxEGkBoq6rvn91UjIvtiV38W6NK4uDFjOHAEAIcK6y7U8u0TCEQg8kvNYNFppqUmYYaXG0xcVQWBPoAlSptOmaG3opNzNS7vJQteIYmBeouQiYzMG35unPT7R_himR-DOcP6L02fmN65heHNkjQQXeb8i1G9beLawkQz_-jwlVxyqDnje-hjfvAx1DqqV7oG7UuZZfDCch-qfpn9--zJTssEMVUsTuc2b1tM0vQ5gsPN2XCY10QUYzw0bXJv-MaoCt4eTlqu9bgMhC-x_FpMMCkzo-iwcyrnLULtM0vzGjZE8833zN-2krWhYy7hW-mV5p1ipVB5QMN25QrzPfolTvllmtthGX_23hAWhUJsmCuI4iRLq7kQneEkOEfDeS7LY-yS8yXKEetA7Pd5r91Bpf1rz35uQP6f-9_EkwOOQKKfeHaOosDCpSDgeaGV6EVNvqw8koER8P9X18KfsyPNWA-uQTqAAwcnd6tVjg4SeAcOjqrPjcuVVUnVb0KE48u0.1766005655067.15770000000._QeVsMaWBTv0pDRD816l4Q
+.bing.com	TRUE	/	FALSE	1797514475	_EDGE_V	1
+.bing.com	TRUE	/	TRUE	1797514475	SRCHD	AF=NOFORM
+.bing.com	TRUE	/	TRUE	1797514475	SRCHUID	V=2&GUID=5CC79558E3EA42F281A3C29CEECE6BE8&dmnchg=1
+.bing.com	TRUE	/	TRUE	1781896177	ANON	A=85940C939E6B7176DAFEE573FFFFFFFF
+.bing.com	TRUE	/	TRUE	1799804163	MUID	3658087F198C648F06B51ED318C66557
+www.bing.com	FALSE	/	FALSE	1799869790	MUIDB	3658087F198C648F06B51ED318C66557
+.bing.com	TRUE	/	TRUE	1797515024	SRCHUSR	DOB=20251122&DS=1
+copilot.microsoft.com	FALSE	/	TRUE	1797515024	MUID	32D36E6BC07F6E95375C78C7C1186F4A
+ntp.msn.com	FALSE	/	FALSE	1800551077	sptmarket	pt-BR||br|pt-br|pt-br|pt||reason=RevIP:br|cf=8|RefA=6942e2a50f504a558925376ec33f2933.RefC=2025-12-17T17:04:37Z
+.msn.com	TRUE	/	TRUE	1800551077	USRLOC	BID=MjUxMjE5MTQwOTQwXzA2ODUyYTM0MGVhMGViYzVlODdlZWUwNGFjMjc2MGZkOGVjZjRiYTgwOTJiODczMGExNWNjMzVmZmNlNGZkODQ=
+ntp.msn.com	FALSE	/	FALSE	1799687077	MUIDB	30A7B31F9266674B262EA5DA938B66F7
+.msn.com	TRUE	/	FALSE	1799687077	_EDGE_V	1
+api.msn.com	FALSE	/	FALSE	1800551077	sptmarket	pt-br||br|pt-br|pt-br|pt||reason=RevIP:br|cf=8|RefA=6942e2a6aad541e5bfb43e7f206501c2.RefC=2025-12-17T17:04:38Z
+.msn.com	TRUE	/	TRUE	1781543078	APP_ANON	A=85940C939E6B7176DAFEE573FFFFFFFF
+.msn.com	TRUE	/	TRUE	1781543078	aace	%7b%22child%22%3a0%2c%22expiredOn%22%3a%222026-06-15T17%3a04%3a38%22%7d
+.msn.com	TRUE	/	TRUE	1781543078	els	%7b%22account_type%22%3a%22MSA%22%7d
+api.msn.com	FALSE	/	FALSE	1799687078	MUIDB	30A7B31F9266674B262EA5DA938B66F7
+ntp.msn.com	FALSE	/	TRUE	1797708405	MicrosoftApplicationsTelemetryDeviceId	1d740c2d-0d28-4ff8-9cce-2651ec1b55af
+.scorecardresearch.com	TRUE	/	TRUE	1799868381	UID	1BDd1a4424f31a18c797ccb1765991079
+.scorecardresearch.com	TRUE	/	TRUE	1799868381	XID	1BDd1a4424f31a18c797ccb1765991079
+.msn.com	TRUE	/	TRUE	1799687078	MUIDB	30A7B31F9266674B262EA5DA938B66F7
+.ntp.msn.com	TRUE	/	FALSE	1797527079	sptmarket_restored	pt-BR||br|pt-br|pt-br|pt||reason=RevIP:br|cf=8|RefA=6942e2a50f504a558925376ec33f2933.RefC=2025-12-17T17:04:37Z
+.msn.com	TRUE	/	TRUE	1773948403	msnup	%7B%22cnex%22%3A%22no%22%7D
+.c.bing.com	TRUE	/	TRUE	1766595879	MR	0
+.c.bing.com	TRUE	/	TRUE	1799804163	SRM_B	3658087F198C648F06B51ED318C66557
+.c.bing.com	TRUE	/	TRUE	1799687079	SRM_M	3658087F198C648F06B51ED318C66557
+.msn.com	TRUE	/	TRUE	1799687079	MUID	3658087F198C648F06B51ED318C66557
+.c.msn.com	TRUE	/	TRUE	1799687079	SRM_M	3658087F198C648F06B51ED318C66557
+.c.msn.com	TRUE	/	TRUE	1766595879	MR	0
+.linkedin.com	TRUE	/	TRUE	1797705033	bcookie	"v=2&9bc58e5b-ee79-43ee-85e9-87dc3e4bcbd2"
+srtb.msn.com	FALSE	/	FALSE	1800551080	sptmarket	pt-br||br|pt-br|pt-br|pt||reason=RevIP:br|cf=8|RefA=C3FE5E79573D4B9B9DA38EF51172CF19.RefC=2025-12-17T17:04:40Z
+accounts.google.com	FALSE	/	TRUE	1768583084	OTZ	8394785_68_64_73560_68_416340
+.google.com	TRUE	/	FALSE	1800551276	HSID	AxJpXNpVmKJGeJiWN
+.google.com	TRUE	/	TRUE	1800551276	SSID	A7Pji5s-DGGe2pHVf
+.google.com	TRUE	/	FALSE	1800551276	APISID	3RFI_XJcp8i8yPH7/AFnr419o23gWWFuHj
+.google.com	TRUE	/	TRUE	1800551276	SAPISID	wR5lYOLJ5X0oYLxi/Anrc_Jhj_AGk-ed2x
+.google.com	TRUE	/	TRUE	1800551276	__Secure-1PAPISID	wR5lYOLJ5X0oYLxi/Anrc_Jhj_AGk-ed2x
+.google.com	TRUE	/	TRUE	1800551276	__Secure-3PAPISID	wR5lYOLJ5X0oYLxi/Anrc_Jhj_AGk-ed2x
+accounts.google.com	FALSE	/	TRUE	1800551245	ACCOUNT_CHOOSER	AFx_qI7bqaee6P3CsI_v9fa48KB62JANJJ7xSEOeEB-Hbfh2_aOCR6dPQUfCia9VzoSLreIhUdqFFr0TayprAs2h_LOeCk_KS447xI_VI1mVeIzWDgRAOWs6ZFpT6SC6FGJmLtFHnYJFxBz26kEfqar5j8_pk-SGJw
+myaccount.google.com	FALSE	/	TRUE	1800551246	OSID	g.a0004ggnCzYAKLkq7kK97pUVSBaEdruWNkQ2Tm9nUhhZzMBDFIBbbNaQCkTR8Y1KLcNcFtygTwACgYKAUASARMSFQHGX2MiKKVn2ShZpxXn65bZiG4BFxoVAUF8yKqvmTwpWjmkdMPQ8RuFbue30076
+myaccount.google.com	FALSE	/	TRUE	1800551246	__Secure-OSID	g.a0004ggnCzYAKLkq7kK97pUVSBaEdruWNkQ2Tm9nUhhZzMBDFIBbfRwnprWP7PYK0m7flqtxUwACgYKAYESARMSFQHGX2Mi-MzXbj4o9bpyqMuyxNnhVhoVAUF8yKo5VfxLULrlnjPxODm1Crld0076
+myaccount.google.com	FALSE	/	TRUE	1768583247	OTZ	8394787_68_64_73560_68_416340
+www.google.com	FALSE	/	TRUE	1768583248	OTZ	8394787_68_64_73560_68_416340
+ogs.google.com	FALSE	/	TRUE	1768583251	OTZ	8394788_68_64_73560_68_416340
+mail.google.com	FALSE	/	TRUE	1800551276	OSID	g.a0004ggnCz2DngHh4Qzd5752VzjyGF9QYmMLo3d_XP7wxzFMdxsH0s5Py1BXyWDC10pl1XbIawACgYKAbgSARMSFQHGX2MicXiw9c1s7RO6GMzEyafSgRoVAUF8yKpkxnuxtQxTN3iRHuFCRVDH0076
+mail.google.com	FALSE	/	TRUE	1800551276	__Secure-OSID	g.a0004ggnCz2DngHh4Qzd5752VzjyGF9QYmMLo3d_XP7wxzFMdxsHT3hnmL_C_Q3DHjc997PWaQACgYKAXASARMSFQHGX2MitcATKkkYTFmSZcakmqEePhoVAUF8yKrff82zVZqk9SYarIKwtFc00076
+.google.com	TRUE	/	FALSE	1800551276	SID	g.a0004ggnC23Hmq989KNckOXjd3aDCq2uPbHaOi7ZCrNb-VdlvmyYECpZY5S1GxorFj2pMHq-LAACgYKAWYSARMSFQHGX2MiqtMMJatgskzHo1flECNnYxoVAUF8yKpsyaQxqALCY5o_I1JYKJbR0076
+.google.com	TRUE	/	TRUE	1800551276	__Secure-1PSID	g.a0004ggnC23Hmq989KNckOXjd3aDCq2uPbHaOi7ZCrNb-VdlvmyYCFVzgJOl6aT8cRdhIt2TwwACgYKAYoSARMSFQHGX2MixZ9H6w0n-qI9Vu1I-bi4ehoVAUF8yKqaLCUQMQ3uSw3ddQ5EmbfL0076
+.google.com	TRUE	/	TRUE	1800551276	__Secure-3PSID	g.a0004ggnC23Hmq989KNckOXjd3aDCq2uPbHaOi7ZCrNb-VdlvmyYtXazPymw14W5pHuRgM_A8AACgYKAeASARMSFQHGX2MiPu_z2frwKp2FXQasqCxB0BoVAUF8yKqvqwnARL4NHS39mafyVhg50076
+mail.google.com	FALSE	/	TRUE	1768583277	__Host-GMAIL_SCH_GMN	1
+mail.google.com	FALSE	/	TRUE	1768583277	__Host-GMAIL_SCH_GMS	1
+mail.google.com	FALSE	/	TRUE	1768583277	__Host-GMAIL_SCH_GML	1
+.google.com	TRUE	/	FALSE	1781543278	SEARCH_SAMESITE	CgQI158B
+.google.com	TRUE	/	TRUE	1781543278	__Secure-BUCKET	CJ4B
+contacts.google.com	FALSE	/	TRUE	1768583282	OTZ	8394788_68_64_73560_68_416340
+.epicgames.com	TRUE	/	TRUE	1773767543	EPIC_DEVICE	4a776d87470d495c9dd3b30dcdf5af27
+.epicgames.com	TRUE	/	TRUE	1800551543	EPIC_LOGIN_ID	%7B%22loginId%22%3A%22aaae00a6-f36c-4fd0-bdcd-37d163619494%22%2C%22created%22%3A1765991544143%7D
+.epicgames.com	TRUE	/	TRUE	1797527907	_tald	582c66e9-6a79-4875-83bc-141d47c2143b
+api.hcaptcha.com	FALSE	/	TRUE	1768583910	hmt_id	127576f0-7cba-4cd0-a032-d4e1fa047b3f
+.twinmotion.com	TRUE	/	TRUE	1773767937	EPIC_DEVICE	714bf11130c3460682e74c94556f7fa5
+.unrealengine.com	TRUE	/	TRUE	1773767937	EPIC_DEVICE	c63536687d1941bcbad7e3226e45eac6
+.metahuman.com	TRUE	/	TRUE	1773767937	EPIC_DEVICE	f7938e2d4ed4414b9ccb7e2b752cb4a3
+.fortnite.com	TRUE	/	TRUE	1773767937	EPIC_DEVICE	fb3d105989e141b3821907798da6e1cb
+.epicgames.com	TRUE	/	TRUE	1781775421	EPIC_SSO_RM	a90a9ea8bcc9471fb9fccdacb3a704ec
+.metahuman.com	TRUE	/	TRUE	1781775421	EPIC_SSO_RM	a90a9ea8bcc9471fb9fccdacb3a704ec
+.unrealengine.com	TRUE	/	TRUE	1781775421	EPIC_SSO_RM	a90a9ea8bcc9471fb9fccdacb3a704ec
+.fortnite.com	TRUE	/	TRUE	1781775421	EPIC_SSO_RM	a90a9ea8bcc9471fb9fccdacb3a704ec
+.twinmotion.com	TRUE	/	TRUE	1781775421	EPIC_SSO_RM	a90a9ea8bcc9471fb9fccdacb3a704ec
+.google.com	TRUE	/	TRUE	1781557107	AEC	AaJma5sBzzZG8XKdzk0GWv2MwLZVXOazQMBPnvKQ9WXBy52BjtCg0mNJMd0
+.youtube.com	TRUE	/	TRUE	1781557160	VISITOR_INFO1_LIVE	kRMZoNBvGCo
+.youtube.com	TRUE	/	TRUE	1781557160	VISITOR_PRIVACY_METADATA	CgJCUhIEGgAgEw%3D%3D
+.youtube.com	TRUE	/	TRUE	1781557109	__Secure-YNID	14.YT=dg5z_OdR7bMIeaqCjPkd6CBktDTKkqj0Zpqgi4tJWfjNyykj-W089mb2z6dZDc9382icKxUsMW1sxj1tsUTVbVIac07Y-vrcokI_DP-Kgw3LSXdFPwsgXp94k8o0NdDqWGR-NWCQ-FddV2aKm7fg-yih61nn3bXytZLYlX8iTGftBMYxhfRNaBlUHPdE5SQyFVLbGuLd8DMiwfoMbHdDjJnelXidXtiROoewI4TfpKUqhcO2tIo35I9XPGzb-qHeEObhmh1mUamRUjqN9s24iYNFy3V9IdG86MVyDZ1uDVz39H7BZLF-G_vPCLizC2xljeJ6FXwNkh6dsDMDsjA_Pg
+.youtube.com	TRUE	/	TRUE	1781557110	__Secure-ROLLOUT_TOKEN	CMmEjKSDpqWA2QEQ6P3z2sHFkQMYiteI28HFkQM%3D
+.web.whatsapp.com	TRUE	/	TRUE	1773781192	wa_ul	d09a7715-fba7-411c-a628-12ab454cc51a
+.web.whatsapp.com	TRUE	/	TRUE	1768584802	wa_web_lang_pref	pt_BR
+mail.google.com	FALSE	/	TRUE	1766869348	COMPASS	appsfrontendserver=CgAQ9tCMygYaewAJa4lXWPjGaoXI0b7dTxozpia-ksf2xMAHcWL1l8waIx-AZsLAfwMiq0n6l5tRatgKLhFMB4RMfHxRQSWriRy25yclITa93TXt8RiNB9QIzacOoCoo2xxxVo50JyMabtm84Us1HuyFZgupQKJgr_njbU49bsdPIEanpSABMAE
+ntp.msn.com	FALSE	/	TRUE	1797541413	MSFPC	GUID=b48f0c5a456a4e2ea97224ad07c5bed7&HASH=b48f&LV=202512&V=4&LU=1766005415724
+.www.epicgames.com	TRUE	/	TRUE	1797541416	cf_clearance	47PA2n0lgF9CVB4iWqD3c2mYTERfc6ze1tpmPRC20fA-1766005418-1.2.1.1-SWVngi4H9c8682irT9ti4k9Mw1tC6itlrlp0tcRd_pukZSQwh6vyG9gSvZJ9gcfxLGYf9hNxiF6fR3q.fY8QLY4p7CUfUXHuWpGSsrORc5YlLypYhQjoKKFUaURHOTt_aUm0XpXemRHdLZsB87sJQ4FALAa0ftXAkP_VmN31KgBYi1rN0sjuZwUvU4WxF07BKvYDAETNOnZrnY1AMo1uJ1xr3ZeVwqSpqceZXv0ru_A
+.store.epicgames.com	TRUE	/	TRUE	1773781421	bearerTokenHash	01f5fcddf4df6227a041b2384f323596992d6a86ecaba274a5894932ae63bfc9
+.store.epicgames.com	TRUE	/	TRUE	1773781421	REFRESH_EPIC_EG1	eg1~eyJraWQiOiJnX19WS2pTU21xSjB4WmoxUllrTEdLUTdkbkhpTTlNTGhGVndLUHlTREI0IiwiYWxnIjoiUFMyNTYifQ.eyJzdWIiOiIzODAwMDhjZWRhMjU0MDg4ODVlYTRkMzAyMmE3MWRjYyIsImR2aWQiOiI0YTc3NmQ4NzQ3MGQ0OTVjOWRkM2IzMGRjZGY1YWYyNyIsInQiOiJyIiwiY2xpZCI6Ijg3NWEzYjU3ZDNhNjQwYTZiN2Y5YjRlODgzNDYzYWI0IiwiZXhwIjoxNzczNzgxNDIzLCJhbSI6InRva2VuX3RvX3Rva2VuIiwianRpIjoiMmU5NDRiYjVkOGJmNGJhODk3OWJjYmUyOTA5OTg0ZjkifQ.IkagXEiCBbF4tsmw-O8Q8K2hISx0fB1B0sGnZqOeGJmv65ZPGwCZMr9j6un99tpEtt2IA6-P6riZfhutH9VVJAmx4cnVqnAEd2dNuFYoaSGeefGjmhi7-2nEUG5CoE_9i8KsTGnXGH3Kuz3Zh5zRRxK8YB_9tuxcUF5LfkUpaUZgxVCq35Hxgn9xSlgFZPw2VokH5I8Xb4p0T7sy9MsBHdBnVOOmig9cT30HR0oQLYj4TyrB0gtbaNBvk4Szv8lKO-XSlQCP8uYElVaLG2Ss5ZF3wUDwzfwG2J7kbGCiwi-s5Qa4L5FcbOAx1zD66_5zfsVNb0sQP7i68dHrzmzzUXL1nuKRxEP00gjLti7kaMfRbsVb3YCNPCfZyui_ePBY3aV6IGD3qHXYk79T1yzbsliY8_DTedj9QZx9wWMfwR6t2M55Sx5iyb0lLhOWkk7G-ObzxwcXy5yvPoF57WblAZKiwLo5kqAJCW58ht8_EShncCa0mRQJZ7NP2qDuYTmxkhh0dKgqa_UK_PvXM0eI_BXfUFLDSTgHRtiu_L9HD4lw1oB2eZWySq1B0Cnh_gvMYcDaqrhnAwKJNpf_OpZLRRJpiAG6mLcW8c34soGXFEEziQiNTM6vTqAmSBnFjR4w4JWTqAOVK9o6WfGM5mAwuztCNIEe52358CDBARrNMiI
+.store.epicgames.com	TRUE	/	FALSE	1773781421	refreshTokenExpires	2026-03-17T21%3A03%3A43.961Z
+store.epicgames.com	FALSE	/	FALSE	1766610224	EGS_VAULT_UNLOCK	%7B%22e4f007a25ee8426e97c16e994f6127e9%22%3Atrue%7D
+.store.epicgames.com	TRUE	/	TRUE	1797541425	cf_clearance	7nBJlxG4JiSIGICSiILvWzX9TnJJpmcLa7691qiOPGE-1766005427-1.2.1.1-2fuaO_vFYYA6BUKgkYamz_o5DtbKR.kQKjVLwqo3cf6LU85qVuH2dyMRRZsrWQUXDJJKgiycRRgju.K6Q6YoqOU6gVbG7S8DnRnF8ls.VfQiumDmsdFoFDK0lx9Q_ToukX3XWjQxdhfN8H33C9ArYhcea3gIzf52mYBuD3qohAYnny.jPt935tKcnQ2x2L0QHlWGjfCkNLXhja0o0J.i1LJkIDfcnn9iDOZKe9u_HLA
+.epicgames.com	TRUE	/	TRUE	1797541436	dfpfpt	98119504c56641f09f73c2a20b23ae6f
+payment-website-pci.ol.epicgames.com	FALSE	/	FALSE	1766610566	AWSALBTG	I20BYMFamayTBwSI8EDRyVy/SZN9KMhWdMrZLGC2nM+4e3TSpdYthlnWUrtJ/x6L0tAMgeJ8C5SfRNqbLi9Q//jlWcCBVEyEX1xit6cbE/wWzvQaVnmTkHxjONsClfvjux1qPKMfEcl2twY0Y1XRkibjejLBBttuPV4vzL9XlTkVUk04x9Q=
+payment-website-pci.ol.epicgames.com	FALSE	/	TRUE	1766610566	AWSALBTGCORS	I20BYMFamayTBwSI8EDRyVy/SZN9KMhWdMrZLGC2nM+4e3TSpdYthlnWUrtJ/x6L0tAMgeJ8C5SfRNqbLi9Q//jlWcCBVEyEX1xit6cbE/wWzvQaVnmTkHxjONsClfvjux1qPKMfEcl2twY0Y1XRkibjejLBBttuPV4vzL9XlTkVUk04x9Q=
+payment-website-pci.ol.epicgames.com	FALSE	/	FALSE	1766610566	AWSALB	QUERguSFbD7iJ1nQcgtl/tIlfRSURWI+iRmsnqVBcH/WBTz54r7t6QxyDFbY8TDLMZgPCY3Guw4C0FG5gFVPoyidm48sx/32WZWYbLI3V9pwWJbC751fHwo+Xfx3
+payment-website-pci.ol.epicgames.com	FALSE	/	TRUE	1766610566	AWSALBCORS	QUERguSFbD7iJ1nQcgtl/tIlfRSURWI+iRmsnqVBcH/WBTz54r7t6QxyDFbY8TDLMZgPCY3Guw4C0FG5gFVPoyidm48sx/32WZWYbLI3V9pwWJbC751fHwo+Xfx3
+.discord.com	TRUE	/	FALSE	1800726587	_ga	GA1.1.1718168108.1766005846
+.bing.com	TRUE	/	TRUE	1797541876	BCP	AD=1&AL=1&SM=1
+discord.com	FALSE	/	TRUE	1800566017	__dcfduid	4201eee0db8d11f0bfd019327cac342f
+discord.com	FALSE	/	TRUE	1800566017	__sdcfduid	4201eee1db8d11f0bfd019327cac342f6d873302c0b179386ed82aab778e7dd06f8adcd05348bddf70bfe52f80a3718a
+.discord.com	TRUE	/	TRUE	1797542527	__stripe_mid	f7aaf953-d11d-4a9c-8e2d-9bdc4d678dcb7cf074
+.allinoneruntimes.org	TRUE	/	FALSE	1800578804	_ga	GA1.1.892625082.1766018804
+.allinoneruntimes.org	TRUE	/	TRUE	1799714807	__gads	ID=34bd58050f1feed2:T=1766018807:RT=1766018807:S=ALNI_MZcdoeT8YlfnoaUN8YDSnOSvg-v-w
+.allinoneruntimes.org	TRUE	/	TRUE	1799714807	__gpi	UID=000012ab368ae4fc:T=1766018807:RT=1766018807:S=ALNI_MbgOOget1Ixi74jVgyN4yOERFzdrg
+.allinoneruntimes.org	TRUE	/	TRUE	1781570807	__eoi	ID=4597a5d783a01cdd:T=1766018807:RT=1766018807:S=AA-AfjaDQ6-gAeLpqFG8nhtj2QYn
+.allinoneruntimes.org	TRUE	/	FALSE	1799714806	FCCDCF	%5Bnull%2Cnull%2Cnull%2Cnull%2Cnull%2Cnull%2C%5B%5B32%2C%22%5B%5C%22cbcc35f3-9072-4d47-a6d9-757eabab2768%5C%22%2C%5B1766018804%2C821000000%5D%5D%22%5D%5D%5D
+.allinoneruntimes.org	TRUE	/	FALSE	1797554806	FCNEC	%5B%5B%22AKsRol-OUyBIZjLbOIcw8rE1Dsrp93Edwhg06esDHRC7UGKNJQbhykG2L8fKVpwz0GVtnfSs96F2Pvyg1maGe68YR9CZszSZ2YhlPtaWSj13FECn9IQkjzlW0ZRlSlvHktLdHGUREyogRK9fKUL9bwpITqHODXLvIA%3D%3D%22%5D%5D
+.contextweb.com	TRUE	/	TRUE	1797122808	VP	part_CIL4Jc7Y1Vip
+.contextweb.com	TRUE	/	TRUE	1797554808	pb_rtb_ev_part	3-2257|7Bj.0.CAESEJNez4tuzvKSTpvZkPfUD30
+.admaster.cc	TRUE	/	TRUE	1797554807	__mguid_	800cce957be10cd52jly6j00mjaq02v7
+.creativecdn.com	TRUE	/	TRUE	1797554807	ts	1766018810
+.advolve.io	TRUE	/	TRUE	1797554807	x	69434efa4b13fab6ed7a9750
+.doubleclick.net	TRUE	/	TRUE	1767225597	DSID	AEhM4MfgXx-xksH73ylAIX_qlgOjja556s4nTDBGydoo2rWfHuBBc1gzMHXQSfcRERgIqbYekh6H-OZEzkbDQqL8-HUojPOXAhnxrgFBpsAqQsV80CYfGevDFsp8PB4KbClx9FGfSxDixJZoJXaMLv1j0ehWfdhKv8CWAmt0W2NRFXppRqJsTlCrnijS5tHU1KfBsURdNnVS67dhe4oMJUmDPbmfTIY16XKAxOTAz2PlDJWzcD33G2SBtfhYorw-NT-AlDoupm_zzM42g2i2OKWQGMKjNz9afPZ6KmOJ4qtzOjRzlkdRO1w
+.moloco.com	TRUE	/	TRUE	1797554807	mlcwc	eyJ2ZXJzaW9uIjoxLCJwYXlsb2FkIjoiMXBkMzZzMUsxOEZMNXMrMDQ2UFpVdFIrOE16R2k1WWNMUWFtb2FNQ2R0czV0a2xxU08zd3dubGtVQlpRS1phREE1R2IrdnVPYXY3b0lNaHZoeXVJeWVPU0luV1JkOXdoNVdzeFIycTVodlVUUkpyWWFaQ3lMTmk2NkdTZmx5QWJKZ1RYaXNPVWVMNXNMWjM5RTZ6QXo5bDdQOE9YWVZpLzBLVS9SeC9YWEk2bWVlZkxObzhURncrRUdaMXJKOFRLTnMrMVo0Qi8rSkI5ajBqMnB2ZHVhdGFQOVNBSTNpSVBSTlBVZkFmYWo4VHVmL3dnYXdlemhuU0VtZXNPN2lzPSIsIm5vbmNlIjoiRkhKcm94MllFTlNnVGVRbiJ9
+.discord.com	TRUE	/	FALSE	1797555005	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Dec+17+2025+21%3A50%3A05+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202501.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=d9ea45d5-82b4-49a8-bdf3-ff044433524c&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A0%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false
+.discord.com	TRUE	/	FALSE	1800579010	_ga_YL03HBJY7E	GS2.1.s1766019005$o2$g0$t1766019009$j56$l0$h0
+.allinoneruntimes.org	TRUE	/	FALSE	1800579024	_ga_PQ5YYQN1HB	GS2.1.s1766018803$o1$g0$t1766019023$j60$l0$h0
+br.pinterest.com	FALSE	/	TRUE	1797559699	csrftoken	8aa3ba3d91f92c9ed7edc11fc0904585
+.pinterest.com	TRUE	/	TRUE	1797127704	_auth	1
+.pinterest.com	TRUE	/	TRUE	1797127704	_pinterest_sess	TWc9PSZSRktpOGZ3eGpMRDkvSmFSQlpLdjdSODJKTUorUVVaWk5nRmhXRkRQYmZLOHJRY2NqTkFYY2tSVndTOUFnNHI1YTF5MkVubXF3c2lwTmRtNktXNEZySDBHSUZsUWpEUWoxUTduRTRCcXYxY1hkRytWczVSOTVLdGpsOGxtdFNjNXNSZ1VXQkFFejlzV2dEYzB0WnVkVVRiR0E4Yno3SEM3SVJBVGorZ1lWeW9ONDR4bTYyZ2NESk0vRjdpTnlWMzdxN25pNCtaVUczbjFEMWNVbmRCY0NvenY2b0k2SElZclBRcGdSVHFZNXlkSm5EMGM1Vld2R2w5VzFtM2ZrOVQram1JbUhrSmdHMUgwU3N6dkpRZ3V2L3I2a0krNXRhNXRUWFBjNGt5VW9zWXY1a3hYTEhJT1ZyaEIyMHBnTzAxbmF0RWtRbUowb2JKd2FOaWthWWxHY3VBcyttRUZ0aDVjWFZwMGs4VGdvRlhGRWhEWGdENUswcm4rRCtVbHVvSU5kSm8vaDU2dUhOaStpbmNybkc4d3ZBPT0mTEZVNGM0WFRHdytNb0pmWFB1TDZaY2pzdjU0PQ==
+.pinterest.com	TRUE	/	TRUE	1797127704	__Secure-s_a	L2o0VjZaMS9yQWF4RGpDMUZLYWtyTGwrRWVXcXJ3MDRnMkpUazNiQTZzcyt4Ukx4d3pnZU5TWFBibE94UXY1cUVuY09RcEJwQ0lHNVZrMkV6cTN6N2I0RWZWRm5MSy9UZjBST0o1MWpPQmZzdEx0cDh0ZHpZZmZqcnhYWHlRV3B0NTF2SUs0YWRNU3ZEd2JUVFh5M1NnWWdaMXBWVjN6NFZUVnRtdWVoOEVuTDNvZmZGaGJhWDFsNDI2MytYb2dmbEFiZFdJZ1lubCtldUIvUHJiV0g3QXo3ajVTVU9xaWNMejNqMW56aDdxWlRQQXF0TFRHY0pvcHVoTmZ5RnpVeVVkRnRHTGxPMmM5R0YvSFdYVnI4aXk1cnBYRDJSWWxMaWJSSXZWNnNZVWM9JjBRMkoydVVraFF5T0pnSXhXY05RdFNLa1RwND0=
+.pinterest.com	TRUE	/	FALSE	1800583705	_b	"AY8e3a4yxlBCbbVsM5IA9lAl/SvkyI1fdjCUqPq+Hwa41AraBaWB17X9MOGKeHKczfQ="
+.youtube.com	TRUE	/	TRUE	1781725052	VISITOR_INFO1_LIVE	uKIh1ugAcnY
+.youtube.com	TRUE	/	TRUE	1781725052	VISITOR_PRIVACY_METADATA	CgJCUhIEGgAgMg%3D%3D
+.youtube.com	TRUE	/	TRUE	1800586381	__Secure-3PAPISID	wR5lYOLJ5X0oYLxi/Anrc_Jhj_AGk-ed2x
+.youtube.com	TRUE	/	TRUE	1800586381	__Secure-3PSID	g.a0004ggnC23Hmq989KNckOXjd3aDCq2uPbHaOi7ZCrNb-VdlvmyYtXazPymw14W5pHuRgM_A8AACgYKAeASARMSFQHGX2MiPu_z2frwKp2FXQasqCxB0BoVAUF8yKqvqwnARL4NHS39mafyVhg50076
+.youtube.com	TRUE	/	TRUE	1800586382	LOGIN_INFO	AFmmF2swRAIgeb1M6VqfJ8vxBN3a6gQKt4uuylZKuWFoK55Sijci3IECIERJyknX_g7wDqGZlqDrUE_we3K4dWgm8sfOXOzSwpsh:QUQ3MjNmd0hIc0ZLRVNhNEd1TTlpN2p5V05XRlJRT1p5WHZMbnBsSzI4dXZSRUVodXVVSnRLUDEzclhpSm9CTFNmS1NqN09UbFAwQnRfN3hucWVSNTFBdTVTaGhYZWxYWkJqVUJFTUZBTVN5SjRGVDV0b0kzbjQxejBySlhRWm9RVUhzMWh1ck1GSDZRQWZma05ZcFZrMkVWeXpidktKVmRB
+.youtube.com	TRUE	/	TRUE	1800733055	PREF	f4=4000000&f6=40000000&tz=America.Sao_Paulo
+.google.com.br	TRUE	/	TRUE	1781837586	NID	527=20vRW2LWOugdCGGDlyHsdenmTguhfO1olsB4GK_AaQ7vC_BjV50cApsz_Q00G7-yZTSwCyYawX-J3XrPV0TToL4tnjOknp9KZlXYycykrdZQU2B3VVe4UAkAzqpispB7kFjQQhmNT_cozxSlFeLZuUnJWTLKctks0Zvrz4SxKwxhoZ69Toi-vV3Enl-kqDLvC6m5Ir8GcV17lD4
+.rifa.digital	TRUE	/	FALSE	1773804919	_gcl_au	1.1.803138313.1766028919
+.rifa.digital	TRUE	/	FALSE	1773804919	_fbp	fb.1.1766028919134.47303421422297149
+.rifa.digital	TRUE	/	FALSE	1800588919	_ga	GA1.1.176512136.1766028919
+.rifa.digital	TRUE	/	FALSE	1800589038	_ga_KHYBPRP9RF	GS2.1.s1766028919$o1$g1$t1766029037$j60$l0$h0
+.doubleclick.net	TRUE	/	TRUE	1768714201	ar_debug	1
+.bilibili.tv	TRUE	/	FALSE	1797575792	buvid3	07cf2085-f11b-4371-a2b7-500939e9262316228infoc
+www.bilibili.tv	FALSE	/	FALSE	1781591794	g_state	{"i_l":0,"i_ll":1766039794445,"i_b":"I4JbA5NzjNbXt5Xjvm2T7j8qWF7Abi2tfyNCwzwuccY","i_e":{"enable_itp_optimization":0}}
+.bilibili.tv	TRUE	/	FALSE	1800599795	_ga	GA1.1.129759430.1766039795
+.bilibili.tv	TRUE	/	FALSE	1800599795	buvid4	3C1F5C92-07EE-97F9-F909-8F3C507E6FFE97164-025121814-OFeAoRY1%2BBIhe%2FXbixe7pg%3D%3D
+.bilibili.tv	TRUE	/	FALSE	1800599807	_ga_RFQM4DCRV2	GS2.1.s1766039794$o1$g0$t1766039806$j48$l0$h0
+www.msn.com	FALSE	/	TRUE	1797575876	MicrosoftApplicationsTelemetryDeviceId	34ef87f5-65e7-4dfb-8710-1104a3c20b59
+.msn.com	TRUE	/	TRUE	1797575876	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Dec+18+2025+03%3A37%3A56+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202501.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&landingPath=https%3A%2F%2Fwww.msn.com%2Fpt-br%2Fnoticias%2Fbrasil%2Fapresentadora-christina-%25C3%25A9-encontrada-morta-ao-lado-do-marido-devastada%2Far-AA1Sxf6u%3Focid%3Dmsedgntp%26pc%3DU531%26cvid%3D6943a0e5d71f4bb587fdedf4f1b24ec9%26ei%3D8&groups=C0001%3A1%2CC0003%3A0%2CC0002%3A0%2CC0004%3A0%2CV2STACK42%3A0
+edgecompanion.msn.com	FALSE	/	TRUE	1797575879	MicrosoftApplicationsTelemetryDeviceId	97433de8-18d3-4455-ad39-ce6cd13c652e
+www.yidio.com	FALSE	/	FALSE	1800599910	yidio_ga_id	868533689012
+www.yidio.com	FALSE	/	FALSE	1768631910	new_ip_cookie_369	eJzLtDK0BgAC8wEQ
+www.yidio.com	FALSE	/	FALSE	1768631910	all_utm_params	DIRMKT_Bing_Organic_yidiobr_
+www.yidio.com	FALSE	/	FALSE	1768631910	yidio_utm_source	Bing
+www.yidio.com	FALSE	/	FALSE	1768631910	yidio_utm_medium	Organic
+www.yidio.com	FALSE	/	FALSE	1768631910	yidio_utm_campaign	yidiobr
+.yidio.com	TRUE	/	TRUE	1773815910	_rdt_uuid	1766039910186.53c5f43e-59e4-4659-9d49-1abe8f9e57e9
+www.yidio.com	FALSE	/	FALSE	1768631910	yidio_user_country_code	BR
+.yidio.com	TRUE	/	FALSE	1800599910	_ga	GA1.1.217892570.1766039910
+.yidio.com	TRUE	/	FALSE	1773815910	_fbp	fb.1.1766039910490.816266513481194133
+.yidio.com	TRUE	/	FALSE	1800599920	_ga_6PLMJX58PB	GS2.1.s1766039910$o1$g0$t1766039920$j50$l0$h0
+www.nexusmods.com	FALSE	/	TRUE	1766215687	fwroute	1766042890.503.61609.697121|e8cf353e01a4dded0b238db3d1674aad
+.nexusmods.com	TRUE	/	TRUE	1767252543	nexusmods_session	5a597cd2a75d600366c37c10bc1646e5
+.nexusmods.com	TRUE	/	TRUE	1797578943	_hjSessionUser_1264276	eyJpZCI6IjVmMzRlMWMzLTY5MzctNTJkNS1hYjAyLWY0MjdmM2NhZmY0MCIsImNyZWF0ZWQiOjE3NjYwNDI4ODg0MTYsImV4aXN0aW5nIjp0cnVlfQ==
+.nexusmods.com	TRUE	/	TRUE	1797578892	cf_clearance	xgB53ssoOLOOe_fNJnDKKTr4iNZ2e4vCeD98DPNRs3U-1766042894-1.2.1.1-PywiMmAk7YK5I7BT_IEpa7JRpY8zi.GOMWe_zZvg.GQa5orOCWivVlYiKbIHg66tSgcidhQqyqDu.r1E5l8qgFXkgFNi67BlkXJv_Qt48Mn0.hZIMdhCWjLeQ1lKABuW1LjkNZf.FUwJgvHGaOgBzlL4.qfCHsVjE0kzGHTjmscG1E8iCD11MnD_HpHRGDA4kr7Gz1dIlfI4xKspWwtBo7rXT1SHmlkFRiIVAamoAAM
+.nexusmods.com	TRUE	/	FALSE	1797578943	mp_3f01fd6fe87f03fe7a053413929d76b7_mixpanel	%7B%22distinct_id%22%3A%22%24device%3A0f112ba1-b930-43ba-b379-ecb1cdd59883%22%2C%22%24device_id%22%3A%220f112ba1-b930-43ba-b379-ecb1cdd59883%22%2C%22%24initial_referrer%22%3A%22%24direct%22%2C%22%24initial_referring_domain%22%3A%22%24direct%22%2C%22__mps%22%3A%7B%7D%2C%22__mpso%22%3A%7B%22%24initial_referrer%22%3A%22%24direct%22%2C%22%24initial_referring_domain%22%3A%22%24direct%22%7D%2C%22__mpus%22%3A%7B%7D%2C%22__mpa%22%3A%7B%7D%2C%22__mpu%22%3A%7B%7D%2C%22__mpr%22%3A%5B%5D%2C%22__mpap%22%3A%5B%5D%2C%22user_type%22%3A%22anonymous%22%2C%22is_verified_mod_author%22%3Afalse%2C%22is_staff%22%3Afalse%2C%22platform_type%22%3A%22web%22%7D
+.nexusmods.com	TRUE	/	TRUE	1773818943	_rdt_uuid	1766042888366.b04d91c4-4adf-4e8d-88cf-af627df4c4e0
+steamkeysglobais.com.br	FALSE	/	TRUE	1768638227	affiliateRef	T03XcmLdTfc7sFALrpETUU
+.steamkeysglobais.com.br	TRUE	/	FALSE	1773822266	_fbp	fb.2.1766046230326.683717614870256803
+.steamkeysglobais.com.br	TRUE	/	FALSE	1800606231	_ga	GA1.1.575990674.1766046230
+.steamkeysglobais.com.br	TRUE	/	FALSE	1773822230	_gcl_au	1.1.1869276660.1766046231
+.steamkeysglobais.com.br	TRUE	/	FALSE	1781814265	crisp-client%2Fsession%2F1d1d9580-f576-4af9-b976-ada03dd30c38	session_c233dc43-5bc9-4626-a49c-d0231c9d2b35
+.steamkeysglobais.com.br	TRUE	/	FALSE	1800606563	_ga_MSQETLY5RW	GS2.1.s1766046230$o1$g1$t1766046562$j60$l0$h689316504
+.msn.com	TRUE	/	TRUE	1766776177	elt	%7B%22access_token%22%3A%22eyJhbGciOiJSU0EtT0FFUCIsImVuYyI6IkExMjhDQkMtSFMyNTYiLCJ4NXQiOiJDa1hZM0trQmtwVjJSMGxiN2tMQldER3pJdzAiLCJ6aXAiOiJERUYifQ.vvQ8mJiB7W-Lw7tuTSa6l3BjCLUSI5ernPa6o6zS68usOCwPNPJZ2RFKotvXcb-rVIfqKSZvOGyVUG5UfSXZ3DeJOzUEkUqR7vOii_bA08NA9jeSzl6Jcdd318UKxuo2cdcur7rkpwUo-mjf_Y9Rkwlq3xj5D3q0xPtaZdNjXtC4YrOOiYAxSD5iS0LUt4csRPKiIZNcf6Y5nbWlPfaJpNL_YtY2bHzA5RTxiLLC_l7k3oQfGf66o02Q1qAnGAjMSl742kJDdFMGOsM3DuWKtrpU3hW5TNHZWD9nOfKJcpvp8g7TPvWz0KKAKAe9jFC_jHnXB4s9G-AvpAs01XJ2zA.6ngxTPORMna1I6fRZf6caw.EFgub6UfUTtSOw0imC_VBsDxI7rEU-5aLgO70qpEb8shXXWBxmvwEV9nAAFt4K8VBVONuCMWtHNXNLOehWHL7HcEy-pRHmG5Jl2oiE1TY9oz5p1HkaVwCGLu7habFjA1EgXWq1cB5OtURpOVpZq2rkZlRaGkKmR_reaxgzXe4_8nvhbvMS_5XUTR9qwSbjItRfQRUOGPb0mvVb-WI4bz6EUR7FQNtFMKhHNgUeWCPiyu-jGQSZvxJpdP7Ho5TdYC4kVBjjS9K7uY8GnvBPmK3LY-7gQi31ZSN1j2BibgfBH-ULDxbFg7Cd0AbrBbtDf5oQJKoj8TJ33BUfpNRH_EPXEoSSs3ktOfeANRSM2GlzMWpl39Nijya1hJoRFjdtmTLRCx3Qfk7-FEWBzQ7jAJDBAq0VJDkzLl_cw6xYp_6l16pMArcLXYqXTCgWlDYoXmXtJ8DpPeITdr6fpCy0ymS-q83uGJzx02ZDTCuylrritDWVOrcO3jvi64eoJ8P2WF94ZR464KWX2dVqZwP6vaiodbxYxVflTnV0lAu8CGFei6C7w-rSi8x_lg2Jteso_ly2UijK4DQqKgMU6BTTmXK_lXttejF5i5T96IYRrE3fEPNwgafCnh6xexEemjzPDJtF8tI_Gcd1P1LclIrK-8Num5BrMwMuLX05nonAU86-mwTKnt40AVZSLJFIepse3y9pm32NW2YEiwgh0S8_RoEdChV9168pM7Khrxut23lU2Xv048I3VEFCqLUCBZta9gfluiCadz8heY3xXjia89DlTZQlPdPLixHNqYzOr51zgXVK4PiNuoCZtvZctMWr7hdd2IDmTeFhTUHdQdd603L25jKntTYpCpQr-VEW5iddg0eumWMK1uhKM-JPGV5XtVtqjshcPztCiZwGzdgnGcoXXi-iXfCerYRlqj3NpGhww_q0qRqvLJ3JFsRw3BMn97a55AEDSA_A5tpSDdYunDNRVj1Isie4ZJArSSk8slAkIqd3avnqZ3NI6TKUcRyBAVuISMegmlU2hGabHsNipjQxGy2r7EPOt1PPCnBaUaQ5P99tho4Oqd7M-mfQBLC6fByBVbeHHU9mqr0sq7fPvrMKbuwujSi1eq6te2r7dKYIC1ZY9ZLZFm8vmFE9sInMR3YWkxO1QtH1h3eK75F68pdhvsNigXFfvSlQbQozFxt8-LSK196i0M5_dTMIlHRkSxMuenfz2dhYcoxaRyelKMGqxWQm6bApbZ4SqE2O7YqS_pP5poeXBpgb1jKvoINfMYozOsBsvxCBet_HZ0t3y_CYglcCzqlyOFK4Ll_sBdFl4IXE7hHZMD6vpHTf72aZ-D0ytkKQkJ5kQGqPeyKvtNHk49wP-UFT1lwH3s6xzpz1FLgFXof2YUMGzcctWdJG-KwTquG5LEiksFgcMWUSTsfwnS4IQKGqOSRyNKjB56pAo.pP5cERUqfRyDK3Pqor_vbQ%22%2C%22account_type%22%3A%22MSA%22%2C%22login_hint%22%3A%22M$EjR4nONYcW_mot1_z_9jFpKsLM3OLE7MTsxNzM40NDR1SM9NzMzRS87PlWhZcmcVGwC2UxKb%22%2C%22e%22%3A%22850f0199%22%7D
+.msn.com	TRUE	/	TRUE	1768763377	lt	EwBYBKAEAAAU+FEkrYVKODxcga16pzW/y5vRf68AAScJLbiIMr3FH3J6y77DChDbEipxUTSpDK3AhBhwz5xC8Uau3D4/dA5umuxzP5156D/r7i6gv2DjQKbDZHF5+U/EmG4u+jK2bet/4j+45sNrZdPPvIk91K1m2FBu7mMlf73OdaWZNt/ox6CJMF1jTptOX6hBPW/xLz92Qy6/P4NF86HMr+4xtHvlNV1pHpD1+s++DhC2dzwCEXRlx+soBvE9plwQ/Tg1Qu3ALJqmsfNgDQjb61bwowC9fNEzT8KDkpimalkehQiwp/mEarlB5MAw+HMmomgz1aPr0dI3A16LXWGVIYWRTA+17W49IU1sgX93C1XuhzaZSxdzJiM+TicQZgAAENHNdZ2Xd24q8oP5roLrjTEgAy6uNVwHG6q5oW0EyH6IiNUgJrzU9XNhAGYUs+vossHbtcrJBiiNnV4JbDKWDOKoleFFcDVniaQTQveGSKxa02EJaOjsAJ1xOMgLhRw+NBICIgh1mVqWBnpZnXPzvNZic8RDxPgjwFxJjbcRW5VOx6PzWtCna6uz9VSQI65F/rGF9UQWhIFMz7RHf3zNc3TglMhJISm7/Tepz5IcUYQY6DmzQn2ThsFTM6j0sdeezkQlal1YKawD83HtAFkPS/nG5WPAQyTfSHMmmlz1z7z7HR7D0PrkccRjjRGCjZDNRrs0M8RHvRLd/GgVWx8Fq98wELSoQatp54g8teDYT2RZrLYyGYZmwot8xUi4BhDy9gUytAm9mzuBW8ZuvQOsrih29xImPFIaaSrUt6o6hLnPGzJHum4FqOE8fyb9J5zIYQHPPgZJq2WD1PjD6xUL3SA9kT2qanZl+7zC4IfIC6+d6ydOkD3gulkca66ydk9JrKx7W1x3dEHouAfIuoszPZM9V63pUWGkyXFyvuae3YscD4Il+z1CNUKJsYpGSJUtyXJ4WbEUYfMrJjc7YI208XGq4LYEHRWZ+YOR0BKXBKxfi1l9cVA1oSRGxL47YfB3TU+ts+ZNUIiUBBlATO4mqePYQPi9nNm20u9XyfFbsbd/s/J3Sc9mhRZEArdztSzux2jeb/9kKeRbh23AeekhMtOlnvZ6R5tw6osj05HlaMcAdG6qVR89jl26YfT0cDRW4Vs+a/m/IlZfNF056sUdCK/sbdOfHuhUHpl/dXlT1882MYlPE3QNvdXm9fYqu8zC5FsbsCwDXae5M007W+CHv/E6q8GvCaCf4H77dyoX9BGCnWNEcxcjpw9sAetHtizxYvA/WmVghvrxAo/Jm6Fi10aV4UtL2wDw8hpnZIPFX7UwAwpxBbJSMvpDHrWs3hAwObox8hZ3Dsb7+4xTaAnynjUsliqN6yggfFexh/Iu8sCXdm2VjdSGp8RGlur+gfREwNxDcRhTcXngNmzDTYUEV0yHZOuqKPUNX531eMFrYmqT1+0Wvkk/JbHLbfdnQX9zdpZWUgM=
+.bing.com	TRUE	/	TRUE	1799783299	MMCASM	ID=27B469D936CF4337860BEC83BBF22A46
+testfamilysafety.bing.com	FALSE	/	FALSE	1799783300	MUIDB	3658087F198C648F06B51ED318C66557
+.youtube.com	TRUE	/	TRUE	1781723117	VISITOR_INFO1_LIVE	qWco-ksjQI8
+.youtube.com	TRUE	/	TRUE	1781723117	VISITOR_PRIVACY_METADATA	CgJCUhIEGgAgPg%3D%3D
+.youtube.com	TRUE	/	TRUE	1781639308	__Secure-ROLLOUT_TOKEN	CMrD_tLvgcL-8QEQg-mQ9_PHkQMYg-mQ9_PHkQM%3D
+.duobot.com	TRUE	/	FALSE	1773864298	_gcl_au	1.1.1027415582.1766088299
+duobot.com	FALSE	/	TRUE	1766693101	AWSALBAPP-0	_remove_
+duobot.com	FALSE	/	TRUE	1766693101	AWSALBAPP-1	_remove_
+duobot.com	FALSE	/	TRUE	1766693101	AWSALBAPP-2	_remove_
+duobot.com	FALSE	/	TRUE	1766693101	AWSALBAPP-3	_remove_
+.duobot.com	TRUE	/	FALSE	1789418300	intercom-id-ezwotcor	2e594407-7588-4013-9f96-55a4806d4e47
+.duobot.com	TRUE	/	FALSE	1766693100	intercom-session-ezwotcor	
+.duobot.com	TRUE	/	FALSE	1789418300	intercom-device-id-ezwotcor	d3b1ed67-4e06-47d8-b14d-bb8ce1cf2e91
+steamcommunity.com	FALSE	/	FALSE	1797624302	timezoneOffset	-10800,0
+yearin.lol	FALSE	/	FALSE	1768696172	locale	InB0LUJSIg%3D%3D
+.ko-fi.com	TRUE	/	FALSE	1773880755	_gcl_au	1.1.1807043539.1766104755
+.ko-fi.com	TRUE	/	TRUE	1797640755	cookieyes-consent	consentid:ZGh0ZUlCelZnWG5YSXYwdWhhcnRuMXZRRFBHMG1hNzg,consent:yes,action:no,necessary:yes,functional:yes,analytics:yes,performance:yes,advertisement:yes,lastRenewedDate:1706776041000
+ko-fi.com	FALSE	/	TRUE	1797640755	ai_user	9VUP2|2025-12-19T00:39:15.892Z
+.ko-fi.com	TRUE	/	FALSE	1800664756	_ga	GA1.1.714130644.1766104756
+.ko-fi.com	TRUE	/	FALSE	1800664760	_ga_M13FZ7VQ2C	GS2.1.s1766104756$o1$g0$t1766104760$j56$l0$h0
+.adnxs.com	TRUE	/	TRUE	1773940405	XANDR_PANID	4d8wtjgWq1am5mp9IKhyH8b9QTYfcegYDvBuEsT6epqYT1JVjicTl-6KRtoO6gHKIxrG3FazzHm2nice1D9pShVvOnQ1I406V6g5nrHMFbQ.
+.adnxs.com	TRUE	/	TRUE	1773940405	uuid2	6043588407900116900
+.bing.com	TRUE	/	FALSE	1799804138	MUIDB	3658087F198C648F06B51ED318C66557
+rewards.bing.com	FALSE	/	FALSE	1797644161	MicrosoftApplicationsTelemetryDeviceId	b86ab609-981a-43e9-9326-09e9c503663b
+rewards.bing.com	FALSE	/	FALSE	1797644161	MicrosoftApplicationsTelemetryFirstLaunchTime	2025-12-19T01:35:37.604Z
+login.microsoftonline.com	FALSE	/	TRUE	1768700142	fpc	ApOqkg3mxaxHvmi_nDrT_MM
+.bing.com	TRUE	/	TRUE	1781832940	MSCC	cid=ke1bi8za3rorl7gj7osgfjyu-c1=2-c2=2-c3=2
+.live.com	TRUE	/	TRUE	1797638397	mkt	pt-BR
+login.microsoft.com	FALSE	/	TRUE	1768700154	fpc	AtYzHDlTl5BIhur1jQQ0SVI
+.microsoft.com	TRUE	/	TRUE	1797644152	MC1	GUID=12f772be72b8414390cd6b0484ad09b8&HASH=12f7&LV=202512&V=4&LU=1766108155086
+.login.live.com	TRUE	/	TRUE	1799804160	SDIDC	ChaWeQn7ldiwiyrS2hBzTuGCcRTcvJ*LI2m4IXzvb70s*HrO0AcJs0jAVbXQbtN87xEmGRAPfRzlPtJbvMg5OFUi0hcc4j4BllY5JUDNXLnO*imdEkwldQapgL1gj77v2nBHwrU1jLH*XSAzzcKgMsM$
+rewards.bing.com	FALSE	/	TRUE	1767317761	tifacfaatcs	CfDJ8LfTkwiAHdVDsG3ePT4u9-pAfAVkSl4oqLRyqqtaFmeK9yRJdZe8i14Wu4YW0cNxP0XdKjl6LH4_53ClUDl-oGYvCKxEB0vGNiWW2ZGzBU3tVO70TD_sgQ8I7Ic2YGy6NVC3wu0zmSH3Mfrt2AmqNPJlYNZ5jpovnVClbwhG_5AepqWv0SS5tqnar7msFxlFNXTsJdzXjrc65336d9xjP3KdT25cIShbptxMDcM26QUlsm2ofJTP1aAaNMQgF3sQAYD5CHTw05Y7edSIN82XSPKxw3DVPv-JA-UzWRx-5BpFC0ku8U7YWGapA0Q4RyzguloGbAz1NXuySrFO71AOihPgAkiT2XAI6RueGxAxo_hEX_mihxCQH7o_DqIIelBxtGnnxGMcvf4jGZ-6OBifEzgejuAVCmQjfGuGl8WICQwWVK57VEbtxIroprwUT_qtbdCutwzOGPP48PUYAy4Q6eh-WnkrJVQCMMVH-CXrzmDB43EKdF-V5qiaKqZuA4zQEhvtx1M4Lklzq4gnKoaAKd4Baej3tVBGk1oO6SYTUS_23puqx5khNcLjHENq_-iC4MLJlHv-vyIoGEyBSbFwhte7T6NIMMRG1FN4j3dQDdDBThq3iP7ve9qrAO_odYj37UHEzH8k7IElfYCmCKpEohkmELi6npaxezIp4Hemdvmz50Y2oZPEqd-aw0R1uGOpt8dcVC5Kr9JpndedzXHTi08gpBUbDU2-h195dR_bN1sOHS29JWPdGYTgOqBcV7Wx7u2ghEt3k6JmdUy1txSP6YaJi_6OmlzCNr1LeNxs6dbRzL88qKiA82thFhTIkhssSUsRTR8sd6wk7VbSvlaXN-0VXJZp8DIZdBEteYQ17v1C1muQNvtFGBK-2g3GUoAg7xzc_dM9cFk0-zQ1MFdJg-SP1_07cveD6fiTIst0zT1iqf6vZWyzwVmy-sbmz90RZy_7XPxpynUEq20IvEliyribWRUguGu50XglUBsAs7sswtnMXSOv8xWmsH_pA6QCpv6vuhFJkZTZOAJLMsJiJsH-6qK3poBudmIn6mf36LdBIxGGPXCbkrkarGG4NXrmAjNvC724_8AEK3KtU5PuAtYnj8nijhaYcFJgzgqiyPv5S2g58LPI_P_BtgRjxVKAAJ-37B0fAc0XxEEk3zsm9nDhbiZFO19cDn21m2uFEG31KABS2qfhdyqsHh3dwDx9w1EX6Q-ac_FC2PWJSlbE5c19fNRGgfQgw4LBsqh_TGBVZt29ltjBHJJ5rdNPdxTcJZj6gz1pi22NpmZJ4uc0XNVttRKuRYrRPEJ9dEe48EdLmwjoRBpPExzHRZWktbelXq65HRNb9beUR26h6-T7bSY7Jto9NW3VAT6QMNdwQcCSPqQ2b3LSe4yyXklEUNBl1czPf8AkP9chfZX8lVTmlV6s6NFtfB7_Xsk9PA9eC8IOkRmGCnVCmPL3c63TaYz6vhO2JJZvgNUt3F_S1zfH9-cw1OKuxlCq6c2EOjZZgZhqHxx_1pkiFWSo8-lTY0v-gg-ko8kkJq-Po2xpncPc06v20D4gw96JaHA3ytAiEo7TFibS56w3RdkpW6DJPOV6tNBzRpMizFyUWBTGZybWZudfqCQGE-tnKkBmRgPhOoTg1sZWnjut1fldhMG0tINuf8fU_ZCH50rc2Td4g1_eG9y3vFgJ_oWxswttBdMcMPr4pGiOK7l9sRby6oO1LQGlENzkI3yvmATw4s-XLPz6s7NVGQER10xdij86T8cmmKmQ7esPY1ElReNZiztSgZl-8QW6_1mufvgJ76ZJ5P9QKHYQ-8dm4QYD9kzDCxNYh2TUvxkureM97o5WrM3MjguFR_0ZHfue_o8c4bdsMFrZNLUgguco0gd6hsgWccFtCLefjjaJaiZj-KQ5E32IL4YCyj3_2HP247HI_0_rIuHF4Z0AARxKPkn5hXAcaHzZHRLVgYZpDrwwWRqEN4Kse35L8QzktUOhmSXmg_NDft5TVEPfnaq3QKFfFYVW0hq_35innhr33Ol1JhmtYwOteYWQi9SU1i68lr-xGuX26hf2wowU5B3KhEI8VUHZdmGSa8HFH4sHcft4rs1w0koa1NCOM8V0vfVt6rckVJZVYNv4wwzHeYrZS2r22rH3TtweOUrb5Pgtlv9nr3zNvWHC4Ib1dC-hL_NybPRlcU4KGzyNT0Bqsk4Iga64OIFWLCCdSS49KDMU_YNRP0emJ4H35cJXtc5Sg74UEBa6yzyWd8cdoKK3o-cXrj-ZE0bJQZt4pqtJEstNrKxW2TT8xRdG8SnO_OkjxYLO8h-CMTRX1UG8ajF7oqa7oFCvFRY8WyR19nV66w5JEcGH_neLOmrU3SplFOYLYohCwpSMac6pFW-rUPdFMF1y1yw8TcY9XCL8mgdLR-Gzj_YcR4deZqazHS-OFyy6ZMLIc8ku7SANR8dqy373bvEiPoc-PRcN4wzqk9ftdXcQpup3NEkkj5ko7yMyPXZZmtr8A1k8IlxPh7PfooNxNLHWk3CbbUcAT5fOUJFgKVZKRqeBGaYLpIIj6wr3gl0atYhf8PCuGZFBNuLzZFFa1Knyq5OICPPQvmABPGjRBj_MeOtuc_kpmktGz8InLY2d2QJXyDOgoAPfjnAtLrct9zsa9GoGgIck_wY8Yu-4Hbc2dCQywsu8hALxZgRSaxdfW6jN0NFqFHOz-3jlrhd8yGiM8RtU90VexXG4xC9h_rtCpf5CHRJ8HNSUC_G2WnKWWw-uqbb-cOftTewUBkLwuP7NhcZqHElh4osrPOXkjtJmTXrHBTsPZXtajqF6n26S5kY__c50AsY0BwxZ3A4ZIXY0ia1bKDvwYwtt9tVV6SnMO1CVfA78R5_M8OFR8FI2uyDYz2pu17cun8y8zGUnvVKSuuiBxe0IO_jtYdxfZAjHU4BiugX5o-jU2uajg_sydbR-yE5RMD44UG3e3OB1YYM2n1TUlFACzhx4x-B2fbmtnyf4jyzSu2749MGmYt2wiuuvQv7D-JvSiaTfySB9UFZCjcQeqyG3L86V_KpxsHwNeyU1DDDsEeKBY4bt3Xi7X6AoYsaQp-qHLvyuauigKZJ6njNEOw5Kpee4bf1INpZg-cSZQNPCuhldNGBQGVDeaTZEYOuGXal5o5KeIkJTgGnzIM_jc33BiqG5JK1mrQx29QRZvQY4rZti6rIpS1EhZ5cb_Nu0LVYvoYNuCd6JSQsKen4zMVGwjdvF-BvGR6KR1EBlmwcwE5JxGyvKv2-zPvf9ipcMMjOI1KgSPV-lMcLDTJT6OMNDd7ISkA6q14IYyMP3L_F2PKIjBG3zSztMzygN5H4KVNUxaWfkZLzt8gW0SCujD4CK4eiH9gJwa3Mte8fmmNVC5NYxMcVfyxxuB9AgtivaMxUkQrYMCEVAnOtiHxCwLPIxjy4pWn7apnaMvgP9oVxw9d7b-wGv1U5xLQ0nDyH-qTDXsKDE3U57XxdR_3Qwol4MX8YPl7zAEts-RpRV_1s2UCqCMFkco-pc1Txvuw7_Btm2XYz9h59kCqBeRTC179SUC2uU7s0v5KeyEn3NWhvUEkyje91aYbFO6UjmRkkMzbemSuCOGYA5WgPUKdGQqObbrMrqwMhTX-LsjBf_UOABbMK2FqjiNdlTw0zZvPas02oqGXv63U-qcM4SQiZja1oFlj1FRG--nH5RJg4G_lVzKzux5PDlqBz_UowGVcIyriZlYU1UaDNADi3lSw_2QeTlTxuHtmZdkDVR55xgAVtMT2MlGL666ityZPSLHtf7ddFOB0UYyXeSPJ6YW-Z1hESIjJOn9VrOQwskkv1--wlsQJrGfEezsUrKv3ppH806sE-o3rQaMWFGJLS34QlqGDG8Vifb4mrcxrWDfUdRAMGqGTASY-bl1g
+rewards.bing.com	FALSE	/	TRUE	1797644161	vdp	0
+.bing.com	TRUE	/	FALSE	1797644162	_clck	fk6wku%5E2%5Eg1z%5E0%5E2179
+.bing.com	TRUE	/	FALSE	1766194562	_uetsid	14520940dc7b11f082b2b30c4fd73779
+.bing.com	TRUE	/	FALSE	1799804162	_uetvid	14526b60dc7b11f09bde9b0d4d9c921d
+www.clarity.ms	FALSE	/	TRUE	1797644163	CLID	33fc920dd77041a99431817f213be37c.20251219.20261219
+.bat.bing.com	TRUE	/	TRUE	1766712963	MR	0
+.clarity.ms	TRUE	/	TRUE	1799804164	MUID	3658087F198C648F06B51ED318C66557
+.c.clarity.ms	TRUE	/	TRUE	1766712964	MR	0
+.bing.com	TRUE	/	FALSE	1766194567	_clsk	1wlggyv%5E1766108167515%5E2%5E0%5Ea.clarity.ms%2Fcollect
+.youtube.com	TRUE	/	TRUE	1781665876	__Secure-ROLLOUT_TOKEN	CMeN7dfV04ufZhDzuYn6kMaRAxjt_bTx1siRAw%3D%3D
+.doubleclick.net	TRUE	/	TRUE	1781578389	APC	AfxxVi7k2hx1MdHc06DCqAYK9TY7tGKnj24iewNEfs0E9m8Kf673sQ
+.adnxs.com	TRUE	/	TRUE	1773898202	XANDR_PANID	1Bu7TKiGQUbp9rM2cgyjbHg4w5sNGhxmE2FCTREI_wqibRriLfUPphJuJZT_xvHwZI25MamYbuiyDgmUyak9KUC_z7pGFZKZdw_MEYO42hU.
+.tecmundo.com.br	TRUE	/	TRUE	1781845989	permutive-id	fbc3725b-5c64-486d-8413-44407215a1d4
+.tecmundo.com.br	TRUE	/	FALSE	1800679567	_ga	GA1.1.672291907.1766119567
+.tecmundo.com.br	TRUE	/	TRUE	1799817186	_scor_uid	19a5d5b8a2e0431c9d829e2f1a70c350
+.scorecardresearch.com	TRUE	/	TRUE	1799818201	XID	1BDd1a4424f31a18c797ccb1765991079
+.tecmundo.com.br	TRUE	/	TRUE	1800249187	_cb	ByE9X5DozpTJD_9GlO
+www.tecmundo.com.br	FALSE	/	FALSE	1766275199	nadz_dailyVisits	1
+www.tecmundo.com.br	FALSE	/	FALSE	1766205968	SA	1
+.tecmundo.com.br	TRUE	/	FALSE	1799804767	cto_bidid	RhWK4l9kMTBwa0o2WmhISUJUd0VQU2I4eDlVOSUyRnFSU2lYZktGQnlEYVp5b1E5RUNCUzhXS0Q4WnNKNUxmSVp1T1l2b1RtaE1WWnlxT1ZIS0ljNG94N1RaUXJ3JTNEJTNE
+.tecmundo.com.br	TRUE	/	FALSE	1799988369	__qca	P1-14ae3897-3760-4281-97d9-d8864a72b3f6
+.crwdcntrl.net	TRUE	/	TRUE	1789445341	_cc_dc	5
+.crwdcntrl.net	TRUE	/	TRUE	1789448941	_cc_id	eb24a28e44aa84d5bf0c53445b521686
+.tecmundo.com.br	TRUE	/	FALSE	1789447571	_cc_id	eb24a28e44aa84d5bf0c53445b521686
+.tecmundo.com.br	TRUE	/	FALSE	1766205971	panoramaId_expiry	1766205970823
+.mygaru.com	TRUE	/	TRUE	1774154771	iuid	sZjM8AyCKTl6cZbxx7RYMcSBMV6oVvgK+v3FsYph8sdcaeB3VS8DDhAO85VoSt2vjtlwwGozXAmtfE3EQzu87dfBMjv+g/mCJg==
+.tecmundo.com.br	TRUE	/	FALSE	1766195173	truvid_s	{"timesSoundOnHourly":1,"soundOnHourlyTimestamp":1766119573201,"timesSoundOnDaily":1,"soundOnDailyTimestamp":1766119573201}
+.wp.pl	TRUE	/	TRUE	1800679573	statid	465e43ba42e5980c9499256c1ca13cad:2b7043:1766119572:v3
+.rubiconproject.com	TRUE	/	TRUE	1797657771	khaos_p	MJCDZSZO-10-DPCF
+.rubiconproject.com	TRUE	/	TRUE	1773897771	receive-cookie-deprecation	1
+.tecmundo.com.br	TRUE	/	FALSE	1799815577	cto_bundle	dHxLcV95JTJCdU1LWXA3YlBhRmFJTzlyQXdrOUQ5dmliS0NveVBzNVpoV29ZVXI5MlA2RDlCJTJGelMxTm5uYTQlMkJmZzk2JTJGNTZ2cVdKQXRSdHpxaCUyQiUyQnhTdFhEdk95NEpQNW9Ta0lwMXFIWGhHeURFd1ZCQzJWTzh6andvQWxreUd2ZzRjS2JXemJsOEhkY0hQdzQxSW5UQzV3S3RCRmclM0QlM0Q
+.linkedin.com	TRUE	/	TRUE	1766205979	lidc	"b=OGST07:s=O:r=O:a=O:p=O:g=3343:u=1:x=1:i=1766119577:t=1766205977:v=2:sig=AQFBg3YvFA5MNhCAVwDUX6siiu3kl9z8"
+www.tecmundo.com.br	FALSE	/	FALSE	1797657290	tt.u	0100007F9AD8446988066B3102A09F28
+.tecmundo.com.br	TRUE	/	TRUE	1771305291	AdoptVisitorId	MYJgbAJgrAZghiAtAUwOypogLABihRADhjAE4jUdkAjAZlLHHSA=
+www.tecmundo.com.br	FALSE	/	FALSE	1766205979	tt.nprf	disabled
+.tecmundo.com.br	TRUE	/	FALSE	1797657290	nav13767	16e6e6f10e8a4fa19608ecf25110|2_354
+www.tecmundo.com.br	FALSE	/	FALSE	1797655581	flipp-uid	bb8f8a41-54cc-47b6-bf01-7470920b2d93
+.a-mo.net	TRUE	/	TRUE	1797657763	pamuid2	62cb63a0-d156-4203-a60f-5a85e0821ebf
+.prebid.a-mo.net	TRUE	/	TRUE	1797657763	psd_amuid2	62cb63a0-d156-4203-a60f-5a85e0821ebf
+.idealmedia.io	TRUE	/	TRUE	1797657686	muidn	pbijlrlCOuKk
+cm.idealmedia.io	FALSE	/	TRUE	1768713686	mg_sync	{}
+.eyeota.net	TRUE	/	TRUE	1797655581	mako_uid	19b34ee2521-463b0000010a5d6f
+measureadv.com	FALSE	/	TRUE	1768713663	uid	e6cc5fde-df2a-5109-ab8c-b92e8bcf32bd
+.taboola.com	TRUE	/	TRUE	1797655583	t_pt_gid	ec24abc5-25cd-42db-85fc-090b0175e820-tuct103e5e1e
+.bidmatic.io	TRUE	/	TRUE	1774156543	vmuid	efe8df137cc61b5f
+.bidmatic.io	TRUE	/	TRUE	1774154791	g410	b0878addb7d94eed
+server.smartytech.io	FALSE	/	TRUE	1797655590	uid	0de0afca-0ac1-46a7-b1ec-17675ae08eee
+.suntcontent.se	TRUE	/	TRUE	1773895592	5975ae13617f1_uuid	3fa67f57-5fdd-4462-8b18-15f660c544a3
+.3lift.com	TRUE	/	TRUE	1773897310	tluidp	1956347365421902433686
+.tecmundo.com.br	TRUE	/	TRUE	1771303621	AdoptConsent	N4Ig7gpgRgzglgFwgSQCIgFwgBwDYDGALACYCsxAhgLQBM2NAjFYdoUwJwMSlX7YAMuYjXL5+AMwggANCABuceAgD2AJ2TFMIfDSGlxFGlQgB2E+Ob9yVbONzsbJ/tADM7XLrMyQCfOIDKCKpwAHYA5pghAK4ANjGyygAOCMghACoUYTCYANogAFIAngCKCACCABoAagBKAI7+3oS4iVEA6gBi/lUACgBy3n3iMcqkADJVAF6kHd5VANYAmpM1APKrMC4A+t7uxOICENhUwibEzIQmUFQULvznFOxH/HcU2KwM3gAScKrFNYUwDQvjVvPMam0vgAhAAWZTGAC1NLIEHVCPw0sg4FD8gBxbwGdikOi4CxCczMdj8fhUdxQFxUXCkXD8dhsbDscTCbzEKI0eZ9LYADyqAFlkN58Ox8LcCBZiNgGExCE8aYY6LSuaQKOZCFAoJJvKLGWFbqhimNEt4trjcItFgBRIUuGGTbwhADSCKlcg97HBgxMUOICBqAGEqKL8u62oUylA+lB8hQhd4oYtCFUochErmKt5/GHFj1RYkyqgovhdn0oXUEUKqLiqBFZMUoWUOqKEfMPdgw944B0YcpUDFVGEGIRduJ8LGorjSGkYrsGOwKBRSG4bqQ9cxTPgbOwXMcaOITBBTCYKMRcAxkSBOW58HejER2OdCDR+EZ2FBz1QGBcBgoAgYh2CJQDsG8HovlQPp5mKYgwlKbwPQxKEajAEIACsvirWQ+hgCEoC2Gg5GKB1vGUCB5jDL8KHyfx70SNpUCQRJCDgGo0m8ExtWIKBSHwCBjC4A8VWwHgQMIESzCIfAb3fbATCnWQvkWbCw3yOQEDCBBl1kQoYDDMYwn8XB/BhNo5imQhxEKBgKiifhvA6cRxDaMAagAVTaBAaG8GgaAvcCKAPXAIGaZg7iMKBV0ISxoF/Y9FXebxCjDMNcVWOBsDCezvDSEJvJoQo1hE0hBiqXE+nYGEwxca9vAkdgTBZYLaBoT9mFwFkbC684jwgIDzwMcQGFwbxVkWOoYFwGAoQ6XB81kKowHYMB+CgBB+G8+ZvDKHpsDKGB5jqcQ4G81z/FxGhRVWOFcAobwoGpEQVIsbBr2odEIB/JwGQvFgxANd8Iu8KgagQCyRihNIoNkZgKjKMIwFWSY4C+bwdRcXBsCgPgqBcOyaRkwgeEMR4qFIEwGFIVrSAgYTcBMbxVAoDoeg9UhUA9ZhvEmCMHTDVQoTAL4oG8ZAqFwwgHPHUVscWMrSDAbmYCkWRJiFLYOiIIiojkMFCjMsptLgBgJVkVYOmQABbNo7ZofwGARbw2kWKFijSMY5FFU1vA0mAQi6BAwBiKFvHx8RCBgPgYQdRY2dQRZEhhEwqnc1TtBVAmGH4BL8GJa4SDp2liHuC4BPclwoH2I8C2xIY4HwVA4CibwXCzZRCHCL5sOe2QHTSOo0kFoFsCqEAAF0EmSVYogQDIslyWftGUEINZCFJNCwP9lGKOoDPXzeIG3qoIFUeAN8wOhZCiRJKCQYgygQLQvxEACjFXNIC4wS4MD8AYAAOmJNgN2ABfIAA==
+.tecmundo.com.br	TRUE	/	FALSE	1797655851	_sharedid	96be62dc-3ae9-4cf3-9cae-ff04f14fcc2a
+.tecmundo.com.br	TRUE	/	FALSE	1797655851	_sharedid_cst	SCwaLHgsZg%3D%3D
+.dnacdn.net	TRUE	/	TRUE	1799815853	browser_data	yE1MsV90ekd4U2lCM2hSS2t1OGdRMldzN2pZTjFQZCUyQnU4UzFrbXlUOVA4cUpwZnN6QkttclZmQlpaT2hHY0hkMlpqSFF1bERiakJxYVJVS3c3TCUyRlBPSG9BNmclM0QlM0Q
+.www.tecmundo.com.br	TRUE	/	TRUE	1766207585	az_botm	6da5238858185ddb0e01b11334d21852
+.www.tecmundo.com.br	TRUE	/	TRUE	1766207585	az_asm	D6y/fmg8jbVXWJfuRVhUtLseQ+YPiCR8ltBAbEp0eidH91QOQxGYlDkRoGXHPbGJ3wGx83zyth8AhqFT
+.tecmundo.com.br	TRUE	/	TRUE	1800249187	_chartbeat2	.1766119567801.1766121187804.1.DyUC4iCNRKsMDZfv1_B-XSpddZ3Iv.2
+.tecmundo.com.br	TRUE	/	FALSE	1799817195	FCCDCF	%5Bnull%2Cnull%2Cnull%2Cnull%2Cnull%2Cnull%2C%5B%5B32%2C%22%5B%5C%22bde4ceba-3ec1-4072-927a-92d14d43821f%5C%22%2C%5B1766119568%2C409000000%5D%5D%22%5D%5D%5D
+.tecmundo.com.br	TRUE	/	FALSE	1797657210	FCNEC	%5B%5B%22AKsRol9dhMEOyjIIHGE5ZgWwcTzwJs0-siccu6DmKG66OmILTQNkw2xzOPMGaHlW77vBixfGUw68XYMNf7KdHtf61V1imrh9bEiA5nE0_ylNJLySWymxN2_LVUZj0K3fedWpW46C8kPz95evsynkSbToLHF_KhZk8A%3D%3D%22%5D%5D
+.adnxs.com	TRUE	/	TRUE	1773897290	usersync	eNqdlM0KwjAMx9-l5x2aNm3TvoqIyOxhMLfhhihj766gzMuKS66lP_4fJJnVPd_Gpu9UgkoNzSO3o0qHWTUXlahS47OrT-N0vk3vD8F7gOgIvu91fx3aPGWV9FJ9EON2M7AyYZsJocxYK2Ain0Hk53Gaz9AWY8AQlbuOUMjjyzrR872BdruLW80B4O5EPyXwAiVjBZmQBPZcEGyEAb6S2cz0Zx5MECyflRRhA0ogkVLkF4HaSCAUnAdNkpui-VOOKLGHxJ8IxMiAjssLywfxGQ..
+www.tecmundo.com.br	FALSE	/	FALSE	1800681291	_ttuu.s	1766121290794
+.missena.io	TRUE	/	TRUE	1800681297	msna	d52duk4djphc73919evg
+.missena.io	TRUE	/	TRUE	1800681310	msnaxndrnw	1
+.missena.io	TRUE	/	TRUE	1800681310	msnaxndr	6043588407900116900
+.sync.a-mo.net	TRUE	/	TRUE	1797657493	psd_amuid2	62cb63a0-d156-4203-a60f-5a85e0821ebf
+.copper6.com	TRUE	/	TRUE	1767330921	co_key	67a9f574-2ae6-4656-afbe-86b0e7791415
+.copper6.com	TRUE	/	TRUE	1767330921	co_red	undefined|8|r1
+.ymmobi.com	TRUE	/	TRUE	1797225320	ym_user_cookie	ym_user_ff1b5c3f-ed75-4ab6-9227-96e7e9da8d52
+.missena.io	TRUE	/	TRUE	1800681339	msnadptmnw	1
+.missena.io	TRUE	/	TRUE	1800681339	msnadptm	62cb63a0-d156-4203-a60f-5a85e0821ebf
+.bidmatic.io	TRUE	/	TRUE	1774156543	a778669	67a9f574-2ae6-4656-afbe-86b0e7791415
+.a-mx.com	TRUE	/	TRUE	1797657549	pamuid2	62cb63a0-d156-4203-a60f-5a85e0821ebf
+ucs01.condorx.io	FALSE	/	TRUE	1766726142	AWSALBCORS	ntzgoc4TNFXSYzPKSnXzpbqXJAZ8xaW1PKaWSdqkZK1n0BcUzIm59QUw5y3KAutOYzzUzfpiD/c0DIwAhfPfPvoTetwRoTTjRMC5SrbrDp5KoqAFcf0y1JXqZ3Vu
+.condorx.io	TRUE	/	TRUE	1797657342	cxuid	"ed7370fc-09c4-499f-8db0-640006997527"
+.amx1.net	TRUE	/	TRUE	1766207956	_sv3_0	1
+.amx1.net	TRUE	/	TRUE	1766207951	_sv3_14	1
+.amx1.net	TRUE	/	TRUE	1797657556	amuid2	0bdb722b-7744-40f5-93c7-108b8746f5ce
+.amx1.net	TRUE	/	TRUE	1797657556	pamuid2	0bdb722b-7744-40f5-93c7-108b8746f5ce
+.usw1-cs.amx1.net	TRUE	/	TRUE	1797657556	psd_amuid2	0bdb722b-7744-40f5-93c7-108b8746f5ce
+.usw1-cs.amx1.net	TRUE	/	TRUE	1797657556	sd_amuid2	0bdb722b-7744-40f5-93c7-108b8746f5ce
+.rtb.mx	TRUE	/	TRUE	1797657556	pamuid2	62cb63a0-d156-4203-a60f-5a85e0821ebf
+.crwdcntrl.net	TRUE	/	TRUE	1789449353	_cc_cc	"ACZ4nGNQSE0yMkk0skg1MUlMtDBJMU1KM0g2NTYxMU0yNTI0szBjAIJMl%2FsdXZ%2F%2B%2F%2BdngAGemT8XsDBKHv0LFPzPyMhw%2FsVHXcY9Wgwg9qQT6jDmuaOHmGHs3fsuC8DYM7a8gCs%2FvHgOC4z9Hkn9pVOP2GDsd0sQauYfvmQOY%2F%2FeOAUuDgAUz0O7"
+.crwdcntrl.net	TRUE	/	TRUE	1789449353	_cc_aud	"ABR4nGNgYGDIdLnfwQADLAwMXDNADEat2RBqFojic3cAkgB9ngTb"
+.admatic.de	TRUE	/	TRUE	1800681369	uid	22da8792-e791-4e58-8a6d-b9507436da5a
+.disqus.com	TRUE	/	TRUE	1797657762	zeta-ssp-user-id	ua-fd19a931-7c8f-3f6c-abb0-4c4cb79d2a7b
+.modoro360.com	TRUE	/	TRUE	1768713439	aniC	038b8470-e1e0-481a-8c11-d7dd89dca51f
+servs.modoro360.com	FALSE	/	TRUE	1768713439	aniC	038b8470-e1e0-481a-8c11-d7dd89dca51f
+.modoro360.com	TRUE	/	TRUE	1766985462	1_C_56	637f9efe-97fe-449c-9031-87f1d536bbff
+servs.modoro360.com	FALSE	/	TRUE	1766985462	1_C_56	637f9efe-97fe-449c-9031-87f1d536bbff
+.admatic.de	TRUE	/	TRUE	1773897470	uids	eyJ0ZW1wVUlEcyI6eyJtZW1icmFuYSI6eyJleHBpcmVzIjoiMjAyNi0wMS0xOFQwNToxNzo1MC40OTJaIiwidWlkIjoiMGRlMGFmY2EtMGFjMS00NmE3LWIxZWMtMTc2NzVhZTA4ZWVlIn19fQ==
+.modoro360.com	TRUE	/	TRUE	1766985488	1_C_55	6043588407900116900
+servs.modoro360.com	FALSE	/	TRUE	1766985488	1_C_55	6043588407900116900
+.modoro360.com	TRUE	/	TRUE	1766985502	1_C_18	
+servs.modoro360.com	FALSE	/	TRUE	1766985502	1_C_18	
+.a-mx.com	TRUE	/	TRUE	1797657549	pamdt_t	p::1766121548503
+.rtb.mx	TRUE	/	TRUE	1797657556	pamdt_t	p::1766121555612
+.dxtech.ai	TRUE	/	TRUE	1781673663	mtuid	df50e03d-ef8c-4a9a-93ae-6123895c30ef
+measureadv.com	FALSE	/	TRUE	1767849663	new	-1
+measureadv.com	FALSE	/	TRUE	1767849663	did	1
+.ingage.tech	TRUE	/	TRUE	1773897687	instUid	84c636d2-019f-40c2-989b-1bd7a1609475
+usync.ingage.tech	FALSE	/	TRUE	1773897687	instUid	84c636d2-019f-40c2-989b-1bd7a1609475
+.ingage.tech	TRUE	/	TRUE	1766294488	instPixels	%7B%22sovrn%22%3A1766121688118%2C%22rubicon%22%3A1766121688118%2C%22pubmatic%22%3A1766121688118%2C%22unruly%22%3A1766121688118%2C%22sharethrough%22%3A1766121688118%2C%22id5%22%3A1766121688118%2C%22openx%22%3A1766121688118%2C%22risecodes%22%3A1766121688118%7D
+usync.ingage.tech	FALSE	/	TRUE	1766294488	instPixels	%7B%22sovrn%22%3A1766121688118%2C%22rubicon%22%3A1766121688118%2C%22pubmatic%22%3A1766121688118%2C%22unruly%22%3A1766121688118%2C%22sharethrough%22%3A1766121688118%2C%22id5%22%3A1766121688118%2C%22openx%22%3A1766121688118%2C%22risecodes%22%3A1766121688118%7D
+.ingage.tech	TRUE	/	TRUE	1797657702	cf_clearance	cIN_9PlsCZlz.2CW_G45tCaGgULU6o7S_sQ3AbMixgk-1766121701-1.2.1.1-Nbaf5.RUFdpplB8iklVMk1AJLBxaEzCPmY4NQZ84TTKfZPPrQdi4g26qg9yVvPNLKaRmW2DdoX6Qn1GMkrjEzP7OQDsOOz0FBq_ZoEOkaeWoDrbnsew4WJVRxW9Vk9.2e0y047l4yR_AfuDJs_unwhMfDEwfniLwgFHoyVjgue1Jf.6vUH09b00IqaJ9U9xDRFDO.1z1reXJz7zHVIVbzo92mRF9wmapBoaREa0Uh2U
+.contextweb.com	TRUE	/	TRUE	1797225731	VP	part_nqZOw0Zo2XGk
+.trustedstack.com	TRUE	/	TRUE	1800422518	visitor-id	4091233175361236000V10
+cittamatra.com	FALSE	/	TRUE	1797225729	avxUId	avxu:22e4f472-cb31-4755-8df1-5138a3c5e5f8
+.contextweb.com	TRUE	/	TRUE	1797657731	pb_rtb_ev_part	3-2260|7LJ.0.5004b860-6b57-4382-bd58-4766d29af215|4is.0.CAESENAqS01MQWyx-f35uLtwnjw|7bq.0.1
+.ex.co	TRUE	/	TRUE	1768713734	exco-uid	838845a0-cca6-3f7b-38ff-0ab5dbef76b6
+.creativecdn.com	TRUE	/	TRUE	1797657734	ts	1766121733
+sonic.impactify.media	FALSE	/	TRUE	1768713737	SSCookie	1
+sonic.impactify.media	FALSE	/	TRUE	1768713737	uids	eyJ0ZW1wVUlEcyI6eyJhZG54cyI6eyJ1aWQiOiI2MDQzNTg4NDA3OTAwMTE2OTAwIiwiZXhwaXJlcyI6IjIwMjYtMDEtMDJUMDU6MjI6MTYuODQ1ODk5ODIzWiJ9LCJydWJpY29uIjp7InVpZCI6Ik1KQ0RaU1pPLTEwLURQQ0YiLCJleHBpcmVzIjoiMjAyNi0wMS0wMlQwNToyMjoxNi4wODA5NDcxNDFaIn0sInNtYXJ0YWRzZXJ2ZXIiOnsidWlkIjoiODgzODM5NzQ3MDI2NDYxMzc3IiwiZXhwaXJlcyI6IjIwMjYtMDEtMDJUMDU6MjI6MTUuMzE0MzAzMjM1WiJ9fSwiYmRheSI6IjIwMjUtMTItMTlUMDU6MjI6MTUuMzE0Mjk0ODQyWiJ9
+.rtb-oveeo.com	TRUE	/	TRUE	1768713762	lluid	5f184f06-2330-5952-5630-e756decf119d
+.s3xified.com	TRUE	/	TRUE	1800681762	admRtbUidCkey34334Ssp245	fee21b42ddcad7f17eda4e8a7ffddfc9
+.rtb-oveeo.com	TRUE	/	TRUE	1797657762	llum	eyJvdm8iOnsiNSI6MTc2NjEyMTc2MTI5OSwiNyI6MTc2NjEyMTc2MTYzMCwiMTAiOjE3NjYxMjE3NjE5NTR9fQ
+.adtonos.com	TRUE	/	TRUE	1797657766	ulid	01KCTGYYESY3FC0R109EAAQNZR
+.nativendo.de	TRUE	/	TRUE	1773897766	588f272a3e49c_uuid	8b2b0002-9c57-48f7-91cc-fc116b66f38b
+.rubiconproject.com	TRUE	/	TRUE	1797657771	audit_p	1|PWpO8/dFDQKINTZdfkYSGJeamjNkYTpK9a4OwlpOiDZAl8VKDQkzOCjI9t+YvEyvvdrnu2nsedIwHTRO1/p4iJhTlEWkyb93z+BTw9+h9R+M07NhaKWlpa6nikn6HPkAXo4m7ruN2WyOnTFyS2FKoTfB3e2/iCd0ux1mIyos/jWsiZ1shQL9zL6FdwxHyRX0hv8RyCE6Y4jsen99otjUL5tqV4guYDe7
+.adnxs.com	TRUE	/	TRUE	1773897772	uids	eyJ0ZW1wVUlEcyI6eyJhZG54cyI6eyJ1aWQiOiI2MDQzNTg4NDA3OTAwMTE2OTAwIiwiZXhwaXJlcyI6IjIwMjYtMDEtMDJUMDU6MTU6NDkuODE2OTgyMDVaIn0sImFkdGVsbGlnZW50Ijp7InVpZCI6IjEiLCJleHBpcmVzIjoiMjAyNi0wMy0xOVQwNDo0NjoyOVoifSwiYW14Ijp7InVpZCI6IjYyY2I2M2EwLWQxNTYtNDIwMy1hNjBmLTVhODVlMDgyMWViZiIsImV4cGlyZXMiOiIyMDI2LTAxLTAyVDA1OjE5OjE1LjYwNzU1Mzc5MVoifSwiY29ubmF0aXgiOnsidWlkIjoiMSIsImV4cGlyZXMiOiIyMDI2LTAzLTE5VDA1OjE1OjE0WiJ9LCJjb3BwZXI2c3NwIjp7InVpZCI6IjEiLCJleHBpcmVzIjoiMjAyNi0wMy0xOVQwNToxNTo1MloifSwiaXgiOnsidWlkIjoiMSIsImV4cGlyZXMiOiIyMDI2LTAzLTE5VDA1OjE1OjU2WiJ9LCJzdW50Q29udGVudCI6eyJ1aWQiOiIxIiwiZXhwaXJlcyI6IjIwMjYtMDMtMTlUMDQ6NDY6MzFaIn0sInlpZWxkbGFiIjp7InVpZCI6IjEiLCJleHBpcmVzIjoiMjAyNi0wMy0xOVQwNDo0NjoyM1oifSwia3VlZXpydGIiOnsidWlkIjoiMSIsImV4cGlyZXMiOiIyMDI2LTAzLTE5VDA1OjIxOjU2WiJ9LCJ1Y2Z1bm5lbCI6eyJ1aWQiOiIxIiwiZXhwaXJlcyI6IjIwMjYtMDMtMTlUMDU6MjI6MDBaIn0sImFkcG9ydCI6eyJ1aWQiOiIxIiwiZXhwaXJlcyI6IjIwMjYtMDMtMTlUMDU6MjI6MDhaIn0sImd1bWd1bSI6eyJ1aWQiOiIxIiwiZXhwaXJlcyI6IjIwMjYtMDMtMTlUMDU6MjI6MTBaIn0sImV4Y28iOnsidWlkIjoiMSIsImV4cGlyZXMiOiIyMDI2LTAzLTE5VDA1OjIyOjEzWiJ9LCJjb25zdW1hYmxlIjp7InVpZCI6IjEiLCJleHBpcmVzIjoiMjAyNi0wMy0xOVQwNToyMjozNloifSwicmlzZSI6eyJ1aWQiOiIxIiwiZXhwaXJlcyI6IjIwMjYtMDMtMTlUMDU6MjI6MzdaIn0sImlxem9uZSI6eyJ1aWQiOiIxIiwiZXhwaXJlcyI6IjIwMjYtMDMtMTlUMDU6MjI6NDFaIn0sImFkdG9ub3MiOnsidWlkIjoiMSIsImV4cGlyZXMiOiIyMDI2LTAzLTE5VDA1OjIyOjQ1WiJ9LCJzZWVkaW5nQWxsaWFuY2UiOnsidWlkIjoiMSIsImV4cGlyZXMiOiIyMDI2LTAzLTE5VDA1OjIyOjQ2WiJ9LCJ1bnJ1bHkiOnsidWlkIjoiMSIsImV4cGlyZXMiOiIyMDI2LTAzLTE5VDA1OjIyOjUxWiJ9fX0=
+.adnxs.com	TRUE	/	TRUE	1773897801	icu	ChkIyrKdARAKGAEgASgBMMjCk8oGOAFAAUgBEMjCk8oGGAA.
+br.pinterest.com	FALSE	/	FALSE	1766208231	_routing_id	"346332b1-f878-4689-b303-39dbaddc7545"
+.tecmundo.com.br	TRUE	/	TRUE	1799815568	__gads	ID=8a3afa3bfc674f78:T=1766119568:RT=1766122198:S=ALNI_MZ6C8mksVVJ1qxXoojnv-C6xlt38A
+.tecmundo.com.br	TRUE	/	TRUE	1799815568	__gpi	UID=000012ab59ba0342:T=1766119568:RT=1766122198:S=ALNI_MY7lIDm3T_yRTQqQMcgIvmRTnQ93A
+.tecmundo.com.br	TRUE	/	TRUE	1781671568	__eoi	ID=0664ffa1d237998c:T=1766119568:RT=1766122198:S=AA-AfjarMpH1JUMfyaVWsRdNOyY0
+.adnxs.com	TRUE	/	TRUE	1773898202	anj	dTM7k!M4/S?iJ([:57Y-HbD?kd?WUlbR*+[1cn-Fx1Cvu<8g0[+v/OvCLYP^=a[^vkLeqX.h.-D:BdT6VX>`-$9`N!G.^XZXf9+6O1n+rD^yBSl)@-t1+ILDHfK5-P$v(Jmks7Ut>=.ST/.:KFS.yC^<tZeikw!@6Et>>IYQ-$4Qyx2Z7]Up2dTfe.r9R$e$6Iku_+OowCy#^S4T<RfXQJYsPtt1G%E4#a#r*y`I`GImSfcTwZdCRYFAzoaY=4h4Z'dQYi#W'I9lnBdwaspcD_$DLXb5>$<Y109^Ul`=U4CL3gY75]qnEyG)^kSI<vi7hXZ!`:%7Yrl#mxhF[:lRAgKr4a('MwiMosfV9t<4ONbE><p)b_7u6=WHc!/]BJtZ.Wf.zujvu9n/1'd1lpC]E>XBEv9QtS8$8pSeClx[DY)(RHQ)dG>j_TzT(EoRp$Z(5=258^T7k9W(/j1pt.yYR#RAS^MibQ()#y[^QV9:w9kCJ.6W<C5_LK6[$Z<6IXa>hzdjmNO[@$1!CKs>%?hFy@eJLdG/km4vgGdQ^9^+T.qu[TGN`G5QWVZWfCPR.LupT@]of#$)nZ=v#/OBe#6X<sJOA>ca%fDnOjdb3^(FXZ][FxkkO.s7*#[qjWCNqNx#`kOwJ^Ja9!8r?zvhac(qOkF+'f$G(uOn46tt949H[6SD*1fSgF2n$p)^u^+R0gw[HjAH'l[Yfq.VDOdz=VD)<253^l_T8gV6NX)u*nnA4)LLo30su*Od1Hp')pMsQqzG9?K=DHNXgbH>4#:wt].Ud_+Grvud8nt)^Fi:O=n:e*5`HL[#NjC?Km9YcEB9=2'tUP4'U0lepvlq#>rfjY1*>-7gcv%c'F816#40<H-Y/9Aq=6lpvp-6vKGyAL*ICiX8D(FUL-#b=c!t'+SIrS2UTBK!eh]](R4G2t>!y=RLc2B^@cZ.^s)Hehdz:6'q-fsX*rmNEZx!@F:P%bR5BvXQiCKur.`mzLi??V56)_fP'.0e84*lMon+KtM.`(]-Ao/-EXv2kRct-4/3D$kkc?J$ZpEX8Qo:fPwWsZSv`2<o)HBIuUpKW)kJwgx]K/An`Di4EDbyb$DbrSK`n_3ScHhGA%hbxSnvA).#a)xj3BCo/!s>'v'MiBkOrVwblrVG-*)/@m5jJ-E8thx1Jig-Kj:?2a!t<^%nonM+<ZDG_M7F)CiA8Vkv
+.tecmundo.com.br	TRUE	/	FALSE	1800682204	_ga_NLKGGWEN9F	GS2.1.s1766119567$o1$g1$t1766122203$j60$l0$h0
+.tecmundo.com.br	TRUE	/	FALSE	1800682204	_ga_QW898WBY1E	GS2.1.s1766119567$o1$g1$t1766122203$j60$l0$h0
+.chatgpt.com	TRUE	/	FALSE	1797228605	oai-did	8a81ddd6-93a1-4805-8964-ca4cef744da4
+chatgpt.com	FALSE	/	FALSE	1781676606	g_state	{"i_l":0,"i_ll":1766124606779,"i_b":"8Q3UvrMNhUMWQK4j9LzPctefxJb5mExHCjJ17phg658","i_e":{"enable_itp_optimization":0}}
+.openai.com	TRUE	/	FALSE	1797660611	oai-did	8a81ddd6-93a1-4805-8964-ca4cef744da4
+accounts.google.com	FALSE	/	TRUE	1800684611	__Host-GAPS	1:GudYtZleuCMQD3dYwndJVq5lZTYbOlxsUpLFcexctZy6XuNOvHWpBXEcZ9Wz5lXAgfL6khHKwLHoYJiiaVpiJeXMHQ6e_A:eGw0SYoYks9TSSbv
+.auth.openai.com	TRUE	/	TRUE	1768716613	oai-client-auth-info	eyJsYXN0X2xvZ2luX2lkZW50aWZpZXIiOnsidHlwZSI6ImVtYWlsIiwidmFsdWUiOiJ5dWtpc2FrYW1ha2kxMTVAZ21haWwuY29tIn0sImxhc3RfbG9naW5fc3RyYXRlZ3kiOiJnb29nbGUtb2F1dGgyIn0=.aUTsRA.QYIpsAbOw7GqnEqM8sXKqaFGFsA
+chatgpt.com	FALSE	/	FALSE	1797228617	oai-hlib	true
+api.hcaptcha.com	FALSE	/	TRUE	1768716984	hmt_id	b35ed8b0-87ee-4c81-a69b-0a6e03182d69
+.youtube.com	TRUE	/	TRUE	1781682582	__Secure-YNID	14.YT=TC45j4DSdinjD6U0A4IrBUq5urULXTpDadsUxWC1V-SCPxG03vDp28BjX4Uo34nejvy-QG8tDS6pgbNp1F4L_eedUHDjKe222hosI7lLIdGwJ45dKYt23USwUy9bpaEA4wAIgAw06jb1FdkPN4USZH2Fx1BpBe4Yi4mFkebmeR5xAYe9n9ub0t6oYlfQbFkZ06a44977xnOlGurQG4T50oOiQtZiZCHAKiRwZiuVj4gISW7AWsvNdE6arei8zAz-CzcTaav5LwLKsVUIAq5RIePaWTLyAaIJMsBPdJ750iUSPfIp2MC7hC7nEPIDmL6LX0M0vMLhv0vss7llcHy2CQ
+.youtube.com	TRUE	/	TRUE	1781682583	__Secure-ROLLOUT_TOKEN	CPqN0dfkm9SR0AEQ-5quj5XJkQMYq6zYj5XJkQM%3D
+.bing.com	TRUE	/	TRUE	1799858467	USRLOC	HS=1&ELOC=LAT=-22.850351333618164|LON=-43.246726989746094|N=Rio%20de%20Janeiro%2C%20Rio%20de%20Janeiro|ELT=4|&BID=MjUxMjE5MTQwOTQwXzA2ODUyYTM0MGVhMGViYzVlODdlZWUwNGFjMjc2MGZkOGVjZjRiYTgwOTJiODczMGExNWNjMzVmZmNlNGZkODQ=
+.login.live.com	TRUE	/	TRUE	1799858470	MSCC	177.23.181.142-BR
+br.pinterest.com	FALSE	/	FALSE	1781714480	g_state	{"i_l":0,"i_ll":1766162480386,"i_b":"X/fbDQ4za9aqlX2c03+HsWUmwkn+AF8N5YfHNdutcVg","i_e":{"enable_itp_optimization":0}}
+.railway.com	TRUE	/	FALSE	1773938766	_gcl_au	1.1.861670912.1766162766
+.railway.com	TRUE	/	FALSE	1797704343	IndrX0xRN0EzRW5rX0RpMmQ2MUM3N3dNR0x5ZzhzMTQ2aEM3WFpxUWVVNDZtX2Fub255bW91c1VzZXJJZCI%3D	IjJmMTY1OTgxLTc5Y2QtNDMzYy05NDUzLTg0ZjM2MzI0NWRiNSI=
+.railway.com	TRUE	/	TRUE	1797704344	osano_consentmanager_uuid	32c0f7b4-357b-49a6-b286-9bd910061023
+.railway.com	TRUE	/	TRUE	1797704344	osano_consentmanager	OkMioVDPFIzh7-n9_e24pGYmtamv2fD-giQ1VjvcUdRMo-RUP4jby9P0-6waeB8tnX7lT1UVNkxLyXa3EkDOQRuD_CO0VEIlpEANaCpGirxYaOoBD8EyPYNiZADWW8Izk08cKihjHAH4HBqPmtqVO_eO3qRbFOYEF_jF8ULmx-sET7F1-NyrVtl_7DZgIhyXft4TfXWZAwpVw3t5oZxO7_dhMf7HeDin7QdGN1RYD2HXoiDW5zajGrdfIiuQ8cp4stD6Fh6lWyfpV4m7kqrdHQ81TnC4LOHdDnMsjN6qQ4H-4xZ4BwtcM7SAXuHTq2vlTwF7CWeuUVI=
+.github.com	TRUE	/	TRUE	1797698794	_octo	GH1.1.1835339859.1766162794
+github.com	FALSE	/	TRUE	1797698795	_device_id	71d0f1dfd298bbfb8758ebb73897e6c1
+.github.com	TRUE	/	TRUE	1781714813	GHCC	Required:1-Analytics:1-SocialMedia:1-Advertising:1
+github.com	FALSE	/	TRUE	1797698818	MicrosoftApplicationsTelemetryDeviceId	18bb1136-3a60-4b24-8ab9-c6071f595dcf
+github.com	FALSE	/	TRUE	1797698821	MSFPC	GUID=12f772be72b8414390cd6b0484ad09b8&HASH=12f7&LV=202512&V=4&LU=1766108155086
+github.com	FALSE	/	TRUE	1773938831	saved_user_sessions	250576174%3AkjQaXaMCKi04x1_rTp6pdriDZswzgg42Dqv0-lWt9HjzxdZJ
+github.com	FALSE	/	TRUE	1767372431	user_session	kjQaXaMCKi04x1_rTp6pdriDZswzgg42Dqv0-lWt9HjzxdZJ
+github.com	FALSE	/	TRUE	1767372431	__Host-user_session_same_site	kjQaXaMCKi04x1_rTp6pdriDZswzgg42Dqv0-lWt9HjzxdZJ
+.github.com	TRUE	/	TRUE	1797698831	logged_in	yes
+.github.com	TRUE	/	TRUE	1797698831	dotcom_user	yukisakamaki115-bit
+backboard.railway.com	FALSE	/	TRUE	1768754851	rw.session	rw_Fe26.2**fa30b7bdc3f9250a0653aeb7499d942b5f082fbb2f852fbe2b519f7518c29914*4YjiOoAoCfa98WBNgGtL_g*k0ug6J1YhNZFbQf4riqa-rWRLzcHc8b_p9RaQLnigC6kqH2i7Y1zNSFAGegi-joPPySgz5KJVZPcmfo46ekxfQ*1768754852127*e53301030ce61da1cad69ad4d6dee056051bb50ab9a1d587e47a3392c6598531*bthlxglpzcQKSukl06_UPGxKrgeL4foxUUm_R7uHsd0
+backboard.railway.com	FALSE	/	TRUE	1768754851	rw.session.sig	A90wCFEqAgkwoyut8XMLdgXEj-s
+.railway.com	TRUE	/	TRUE	1768754851	rw.authenticated	true
+.railway.com	TRUE	/	TRUE	1768754851	rw.authenticated.sig	eMmi--ySRFSmthC5IH0IvFdhhcE
+.railway.com	TRUE	/	TRUE	1797704895	__stripe_mid	1bdff885-b42f-4a68-8736-17e0b0346d7412faba
+.msn.com	TRUE	/	TRUE	0	_EDGE_S	SID=36AF21B5F090699714163772F1EB68E7
+srtb.msn.com	FALSE	/	FALSE	0	_C_Auth	
+ntp.msn.com	FALSE	/	FALSE	1766250589	msaoptout	0
+chatgpt.com	FALSE	/	TRUE	0	__Host-next-auth.csrf-token	b955de2793946f3ab172595341278008a6ad7c60c3a621ab18d598fe46b33510%7C0ff8f1dd1c771e6444d727373f2b0251a5a8d58a40527909972505042669b314
+chatgpt.com	FALSE	/	TRUE	0	__Secure-next-auth.callback-url	https%3A%2F%2Fchatgpt.com
+.chatgpt.com	TRUE	/	TRUE	1773940193	__Secure-next-auth.session-token	eyJhbGciOiJkaXIiLCJlbmMiOiJBMjU2R0NNIn0..zAbEsP_DVa3Oy4Z3.NxgF5H1IQYB7sONNzlk1RJFOGJT-euBD6VOqaN8XcuE7v1A2NbCNMQAG0OQHGVOku4zIDK5BFQbjNGXEiQBi8cRsZJnYDAFexFNIMEXXX6-4qY4_Lsa60PMtAq8-oOSTKGswZbAIQQPn2RQIsxlzAXBxqtqgkyTivcHJ6NXHq1vrCMLhpzIaqp08BC7mnPX_8JTf6cQ037fxPcREe_2Jr9CllCmH5BTLUL6vyiPeA4X1kCqyPc3ovKznb-rNqbVfkQXF79-sisx32kUmMep4VCSCfZ1bnAXy4zqmUAhe12mTZRH3tlEM5daBA6F-lmDWyqdnuZEaHq-rgi70KNZBmcU_kcgUNmPpD94d7q59tOSf_i9eaC04U9YjTS-u-3tP7HCO_Zv7PZxd6EQCPRJBsieTy5fnhexSYHplILhbtxHOUsFr7HD-5Ypm8GnZXJkvFwl1sLlz2lHw8M8_cz67mjKLMrDBFVsPY3FAMH0b6sNuHDa08wma8kpkA_ljNSg-5zpAdzwd1yQ56Bs8aEYOvHh9XrxusrH2hiDtAkHUQXSU3z6OfeecBmOm8UrXE9b9dyMGejij2hjyoeHLfHzkGcRxmxPypGAj8gcbpor5dte8ZJQEhTMeDZ0YrlleOxcqAeaZSsXLyPgtJmW4qnstPasjmtau92-jcyMHmDXRkFfRV_tdHC7IRqH-Kq5_2fnhMzJFFk7zKo5SvVyCHc50NHWiLERtkmE45AARRKjhDxCp0OvMPNDCoUi2nb-nXRaN5FUdWgNZ6CzDAjU19QjZVof-Z7-VBaSQXfBfz0sOxuwj-wwXq-l_-BncsqLrtAZsK11qtAXwszs-Krnk-0esB9R-K88AKsNM_qjA0rqvU9oCjxAXz2NKjUqAa2g3lmwcPRfQDMuKkh5Wpuu0jGayW2k0lI4gnNqsoLmOjjfWPY2GxYBTmu6SsmJc9uprs8hfJXgHO1VmtUXNrxkD5v3iGMkKOsuhlpa6yvetTBN0POxsWmAnP3CNMMTowz9RUKFEXCF7FnH-aKuzr6-l3QTsrWA6ybz70ln1V35W8GybgYGhjIXexjsJGVTQPP-FUxkxXZzhihEhgUFtErAxl0xSPyE6H8Q-dPz2cb6-c7UzPxMUB5j-o6aDFujsPVhoSripZmDwyj1nLMdfTNkg5BpFCV3jA0VV8_2P48ENezN6QJhdTZE3wvlxbFWQR-Ojau-1EHU1_F32WO_NYmroJBHN8o3f74rKDv5Thlu_uH1ERVRwdC8Y-fnz_DMJc4FDgF2z-Cmgv9cAEBlZ0mneQX5tJ7DJso53nGgPWr3dRmJ5KlGMnNb1p8rHDY8GR--MEnsqs3o9Iz02ijT0TZQl03XdRsy0Hp6NmVbVLxv0Z0ZnuPCOvH2uUN0UZd058JTvuBBd0uPwWbWq81yDx2w9aq5iHpK4XIS0qemXq2z_MWREm69lReT-nbqFqFaknavBKZeLG2VjkBid066RndLyH3NzXkV2B9tL4Sm5SCR2yrfWF6cE_NQ_OpRLihnzvQAmU1j02x3lx8DahK9KsoO5nq9yw-m0qoxR6M0nDBdwIYP0LuIeHpmxamzvweas2n4xejZnmIVDbVubwjJOLnevj3BomIaQj2IfCl_SCcmitgWG5Cp4upB9bG5jzKG8J5dwbWuw_5q7ofAs8aA6nBdVDHDzYTyd64Jed-AgHupkkeYKQa7bNcJWkvN-xoEj-at1XM7dJdYXFpTvouCKiMQmbJtT6fopUJTzy7Emu4mycyuuqqfPkRksTiX54sTfiKlhsQPbUhQx1Ujb71H_m1YETdefvCANADtHbzlH86t6PqcpuDIMxcnQEmMLdMcW_Tywlf8ihNFnx4LKbrxjdMWXtVqTG6aJMvHPdUqTHUL1nUilXM5DKhwTK8Cdty7YPKxOzDglt554oSxaDKLB5sE__u1fG1-jkg0s7B57s_ETCfYH6ESgiBzFRjiPJBgsHlbwYvWTwSrP-fUynxNl-XYUkH_w0hGTbGU5wQVaOIZsQHimmaUgjVq7tNVpmwgr_P2n6iNwWcaN2bxibkKQ9Os3p_57ElhhgYFl5kmBoJm-_c-1HiOXmWh1dix1RjpYG8gMt01Tp5MC8Q7G6giqMcyu2P4kZE1fgHcPsXTWoh0lZWHG0mCxkmlAqsX6zR74m5XjExlk7rdKHtcUCljnMWVvzYLlYDPcpGWQYG-YWnarABqPYdIoa4yc7L4ZS7O9Qnw6dWI5dbYeAMpmUUXdKjYZ0PtFUtmJMaVArSRp1hgxlMYej8y4TZWD3CnngHSR-DPGY8yNSHeJHzeNVobBwHtR8x64PQ-z4XVRpXWik5EObxJeimXXH9E2a8JIgUy5nG96L-3ygpHJ1stWylqSLfhzSJk2C-ipyZjQ9YWsBlg87GzpOSTlP7FbEOxAzFJQawQ5N2edosYT0qMLVs_QWphMBOOQXWZQnBrSz8TgiA_-_65qspFUp707Rz5A2ALWgFTIvyMO4vbhPvyDz4Saor6EAjh3oTmKa7B9Cj-Cikv05U44LmerzAijDJdXplDRMUsHYGgwWOEq8765XZIuAWUl2NEJGEeNlzPhwPQV7HAOOTv7UIvJMf2xuDXuSRlE_WnMI412NjEBtkz0xgd_Yj5yhL5w5NeuIcDKYIPvhrRcuZJdLNxAcqeNZIb15pmbxQvZBPDgJJrJtQLUw3zpfA8DpwS2laOtijmJrWmEaSmOjdPTYBd-03YUR2ITs3C5wwFmgjOEQK365Z-CYnpHEXLvSfliKz_veOfQXuxFf7h2icFSL6qc-YzNGs3RAvx5iUXHi1roU3HA5ldF86g-_pnqWrZ-kU9QPkN8xjEPdwChvkuBiA72x485eMWmZDJtZ4xB0R_YsHiNulm4ec-1A3XnzLhlzKHNrNKLRuAKVfSXuGntYDKk1D3moCqhFgAWB-QzRy-CIzTy_o_haGxpXFzeKW31VHOusmu-Zxx-lzXXpotT_8RqmQIB8Kz6zRP9zoPj_i4AnMG8cYeuPtle48bKg6VDDfMsjKKdgLXvYUYklHG3OvEif5OusdLlf79g5BfxtyzjL_Eks_rElpNV3u0qVlN472yP0YOEMaMythZeA8lgQdFyvr51cwnuIe4wsLQYb3t_qoypDsQcwJRg2nrCqIeOrw2LHRpAaOxwOLN_Oxud9pw8z5tXk3R1pnXeokpwINVMRJ3-WM0c-WiHewaAD7metRFbHlpdu890mrdH5ZUgDx1N52Wu_8HNHPX8WafcTlTASnti47Vfe335McJQkRuzeFNZ6GPmatFTAdlJMrrSUm-_MYe3uIhshi8kgDCSe-YoiDXNk2ynHx_3JTq2b1-bhygnFTTChYLKpK3GZ9LI3RRVL9x0_DGey5_soHw25ZcEgIsd_6kz4vLcXSAt7IXj1YoZWQ8s9AvrCdbHZ6wspWwMt6p393byvTjJPteiEiGkKoByCbhOVVtBsDAMDU46MznY82G5SyP4Fsq_W1uMqcUc8egbH39s3jW-OTZg2g55LnXo2MXjh0sbEnxN6ArLEprPkDDnjd8eiyVUcYRnWdtivPN5-SrenUcnWF6FB6FM4dDvizMubYb0sUC6VDnyMyOwP_Ru4XcNrzhAWf-ZLwBFSZlE3sKt-t2bmtR8_f3PmWKZ1QkGFlihnS4.PrQmA0jqz-slh9rN6QYk3w
+.chatgpt.com	TRUE	/	TRUE	0	_cfuvid	g8SW25zD2LLBsJDbX46pIsHu_MAUY9WtZxNwUtyWCVQ-1766164194470-0.0.1.1-604800000
+.chatgpt.com	TRUE	/	TRUE	1797700196	cf_clearance	hGvoHctRthJtXfPZlS_AWzKeykBPKQZmUma62GYihvE-1766164196-1.2.1.1-.nJfh7miLMZJK9zDzwKa8HHEgyrN9edMNIzaWPtkv2KmDL6PftZ8LqQ55RN5s2PxeTijBMNCrsNN.r8RuJNFtCo1P4CYXMtUlZPAxHTRsIVgl6xXc9ajecBF2JguP73HGZvTh0g4sKdWswK193MwM9kUQnzwGBIpUNJyx08ve1CnjnKVqOj5JZc.4JtAK8s7X8ghC.6oUiMsLVDKFzptxXPpq2BKS3v6gLMisvngIHg
+chatgpt.com	FALSE	/	FALSE	1768756198	oai-client-auth-info	%7B%22user%22%3A%7B%22name%22%3A%22Marcos%22%2C%22email%22%3A%22yukisakamaki115%40gmail.com%22%2C%22picture%22%3Anull%2C%22connectionType%22%3A2%2C%22timestamp%22%3A1766164198131%7D%2C%22isOptedOut%22%3Afalse%7D
+chatgpt.com	FALSE	/	FALSE	0	oai-gn	Marcos
+.youtube.com	TRUE	/	TRUE	0	YSC	F7DfMhRST48
+.github.com	TRUE	/	TRUE	0	color_mode	%7B%22color_mode%22%3A%22auto%22%2C%22light_theme%22%3A%7B%22name%22%3A%22light%22%2C%22color_mode%22%3A%22light%22%7D%2C%22dark_theme%22%3A%7B%22name%22%3A%22dark%22%2C%22color_mode%22%3A%22dark%22%7D%7D
+.bing.com	TRUE	/	TRUE	0	_Rwho	u=d&ts=2025-12-19
+.bing.com	TRUE	/	FALSE	0	_EDGE_S	SID=16D4ED5DBFE963163EECFB9ABEA362C8&mkt=pt-BR&ui=pt-br
+.github.com	TRUE	/	TRUE	0	cpu_bucket	md
+.github.com	TRUE	/	TRUE	0	preferred_color_mode	dark
+.github.com	TRUE	/	TRUE	0	tz	America%2FSao_Paulo
+docs.railway.com	FALSE	/	FALSE	1800726246	theme	light
+.discord.com	TRUE	/	TRUE	0	_cfuvid	x2BM_f8L6kwAcDbGCA9CByEfEWhP6pNKqYAaafDhPn0-1766166588014-0.0.1.1-604800000
+.discord.com	TRUE	/	TRUE	1797702587	cf_clearance	xbK_tIseZHbngzvrBHufjhRcgEgKuHbFj0Hj9Kwe8Sc-1766166588-1.2.1.1-dfL1djJ529HmotIkNc8xXdrGlV7g3W24wCyA2g2vUr5hVi7U9CsjuygxlLWS1R2NpLAV3pFvQnqdH0w3cFLQZFvKMupmLXfF3fxUTtG3KsTmP8Ma3g1sLf8h8JD8tATdZALmrTseTlUlUquLY8ehidrnfdcpZQGM8ytEO43DV032psyOV_sA8EZNIytN0GqFUYFEe9XQHkzAdA_KJUxeXgQkXsSEJkaMUNT84BoDXtQ
+.discordapp.com	TRUE	/	TRUE	0	_cfuvid	o0wkstntpGpbtS54BPCQksFRHZv9U9l8NRj8N1.tD8Q-1766166589043-0.0.1.1-604800000
+.gemini.google.com	TRUE	/	TRUE	1767031636	COMPASS	gemini-pd=CjwACWuJV93jFYb_b6k1ZbZc5AVi75OXfwVJx6huPFdJgLZgT-iphNSBtyIyTho-2Gurv4U86El7hPmdVFUQ1cubygYaXQAJa4lXlHXZfHUtwhiWd0-O0Lk-9OvZBm3vO3GEwWEybwXAKlx94fDolHVjNAgOETfVNkQuECLZWugj3Fpy88Pl5aEZs5Z6ZFAQz1teohrisQwp6YktDv2XRWLcySABMAE
+.gemini.google.com	TRUE	/	FALSE	1773943638	_gcl_au	1.1.181316043.1766167638
+.gemini.google.com	TRUE	/	FALSE	1800728908	_ga	GA1.1.163021890.1766167638
+.www.google-analytics.com	TRUE	/	TRUE	1773944925	ar_debug	1
+.gemini.google.com	TRUE	/	FALSE	1800728925	_ga_BF8Q35BMLM	GS2.1.s1766167639$o1$g1$t1766168924$j43$l0$h0
+.render.com	TRUE	/	FALSE	1797706468	ajs_anonymous_id	d976d371-dd81-4633-a9e4-4e44fa838869
+.railway.com	TRUE	/	TRUE	1797705031	ph_phc_jmpOAF1fCA4XG8D6zO8AuihY1JHmOkvzqtg5cZoxeJb_posthog	%7B%22distinct_id%22%3A%22e18650a4-661c-4d47-b708-8994f7f8d19a%22%2C%22%24sesid%22%3A%5B1766169031429%2C%22019b3781-1d75-7d4f-9dfe-4cb38ffe3c7c%22%2C1766162767221%5D%2C%22%24epp%22%3Atrue%2C%22%24initial_person_info%22%3A%7B%22r%22%3A%22https%3A%2F%2Fchatgpt.com%2F%22%2C%22u%22%3A%22https%3A%2F%2Frailway.com%2F%22%7D%7D
+.linkedin.com	TRUE	/	TRUE	1773945033	li_sugr	ec7d1867-b384-4dfd-aca4-3780d636d46e
+.linkedin.com	TRUE	/	TRUE	1768761032	UserMatchHistory	AQKXJLxeA_s7CAAAAZs34LmekeKKEKghKuDYNS9Ifo50P2pQ4b2_cakG7IfGe1C6d0WHg-pVZ-fZxA
+.linkedin.com	TRUE	/	TRUE	1768761032	AnalyticsSyncHistory	AQL5hJ30IpvS7wAAAZs34LmekfmyBS0qSFgDyt19JXxNTn6naCEFFocLSJ-KxmI8wRLpYn0eihYxjAwtrroubg
+.www.linkedin.com	TRUE	/	TRUE	1797705033	bscookie	"v=1&20251219183033e20bd417-9789-466c-8139-5cee28fa37f5AQEsA3CXm5SC58MVaNKj-yYY-cYk1qZh"
+.dashboard.render.com	TRUE	/	TRUE	1797709466	__stripe_mid	605c57f7-cb93-4a39-adca-472e0baf99ac17212c
+.dashboard.render.com	TRUE	/	TRUE	1766175266	__stripe_sid	126d7422-f47a-4009-8998-06f1952aaa5d001190
+.render.com	TRUE	/	TRUE	1797709386	__render	%7B%22originalReferrer%22%3A%22%22%2C%22id%22%3A%22usr-d52pjl15pdvs73elk5lg%22%2C%22loggedInAsAdmin%22%3Afalse%7D
+.render.com	TRUE	/	FALSE	1789503388	intercom-device-id-wf6otxqc	94cbdd94-fbfc-4456-8e6d-03f9354e672a
+.bing.com	TRUE	/	FALSE	1766176875	ak_bmsc	26D90F51DB9830231FA4DDA920B7A5BD~000000000000000000000000000000~YAAQEckQAtI0CSmbAQAAwYrqNx6NrOCwNsb/MEbk7KQMuocwtAGDcCy83rFxqKX6yU7/AO6NwGDSLnhEC50y6vsjONoK8+fKabRLl6ML0VQlAnimEdbI5OiHfGfyLsZSXJGW0WkY3DI2n9ytArRCuke0XpUGDA5M4HCgty5qccZY53kwIDsNuud+YxlXReTQIrqThADWFhqElIQDFpD4Tf03VVowkY+3ViRVwhDFfFqDrO7YcfyFjtSyuXDPNUK3a0oVvMIkyl5X/VHNGV0coLRgUrj4PMnnxMXHrvCVX25IiLYH45OzndAV4WQZAu9MCyznfGxKe3aNUoxzv5svlMR6HgQtSbjiujLIlL93giCjBo/GUTJr+abplno9A+2wEwA=
+.gemini.google.com	TRUE	/	FALSE	1800729675	_ga_WC57KJ50ZZ	GS2.1.s1766167638$o1$g1$t1766169675$j60$l0$h0
+.uptimerobot.com	TRUE	/	FALSE	1797705678	_clck	nlmb4n%5E2%5Eg1z%5E0%5E2179
+.uptimerobot.com	TRUE	/	FALSE	1800731041	_ga	GA1.1.109726908.1766169680
+.uptimerobot.com	TRUE	/	TRUE	1800731104	FPID	FPID2.2.MElFhRL2U%2Bu%2FNBEfCPez%2FcT8jK%2B0bfYbFZhzLGxc3Wg%3D.1766169680
+.uptimerobot.com	TRUE	/	TRUE	1766241680	FPLC	XPCmadVDKl38kJzqWEHXIrImyGZcwJ8sTiMz6lqS3YN34wkCztj5%2BCNkoDct2B5Ul83z9oMvnLb2fqUh180WhBfqYtgOTkCq%2B00GkVEXgO4aCzP4iXdzdKRrpnL1qg%3D%3D
+.uptimerobot.com	TRUE	/	TRUE	1773945678	FPAU	1.1.1866887922.1766169679
+.uptimerobot.com	TRUE	/	FALSE	1773947102	_fbp	fb.1.1766169680440.872193703264169907
+.uptimerobot.com	TRUE	/	TRUE	1797707102	__ca__chat	38bniuguqgv2
+.uptimerobot.com	TRUE	/	FALSE	1789499681	intercom-id-dvwkegfu	0c75574d-6b16-4080-968b-0e7f41e80ba6
+.uptimerobot.com	TRUE	/	FALSE	1789501042	intercom-device-id-dvwkegfu	cfa96d1f-0f30-4871-8c32-f4d05e3aad37
+.uptimerobot.com	TRUE	/	TRUE	1800730075	uruid	3228716
+.uptimerobot.com	TRUE	/	TRUE	1800730075	uid	1e4ae3fd3bc2cff51617215ab1ec6f99
+.uptimerobot.com	TRUE	/	TRUE	1766256475	__Secure-ur.jwt	eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIzMjI4NzE2IiwiZW1haWwiOiJ5dWtpc2FrYW1ha2kxMTVAZ21haWwuY29tIiwiYWNjZXNzX3Rva2VuIjoiZDExNGY1M2I4YzQ2MmUyNDNmNWMzNGQwIiwib3JnX2lkIjpudWxsLCJyZW1lbWJlcl9tZSI6ZmFsc2UsImlhdCI6MTc2NjE3MDA3NSwiZXhwIjoxNzY2MjU2NDc1LCJpc3MiOiJ1cHRpbWVyb2JvdC1iYWNrZW5kIn0.ylYjdGbzrM1C4re5owyUv0DIdPFovXTVLV4knLkF2Zg
+chatgpt.com	FALSE	/	FALSE	0	oai-hm	SHOULD_WE_BEGIN%20%7C%20ON_YOUR_MIND
+.uptimerobot.com	TRUE	/	TRUE	1773947041	_rdt_uuid	1766169679418.b247ba9f-4e7a-43fb-b3db-335cb75b55af
+.uptimerobot.com	TRUE	/	FALSE	1766775843	intercom-session-dvwkegfu	aXB3eVZnbTZDU1RFUTNoN3F2ZnRmNzNiSnlnNExxR3dEUElkakg0Q0Jyd3JpaGtIWVkxMFc0M2cveEJSN1JGczZlOStuY25MSm8wam14RXB2MWFpZkJGNlBzVDhFQzc5TnY1VkloSnlaN1E9LS1KR1RkZ3RHelJxOHZCMTZoem1oOVZ3PT0=--671c18a3381629d8e37e40acad8a190461fbe1b5
+.uptimerobot.com	TRUE	/	FALSE	1766257451	_uetsid	4f4d0d50dd0a11f083e88731e616ab9c
+.uptimerobot.com	TRUE	/	FALSE	1799867051	_uetvid	4f4d32c0dd0a11f0acf1e79b7a2ecf9b
+.uptimerobot.com	TRUE	/	FALSE	1773945679	_gcl_au	1.1.1866887922.1766169679.386598141.1766171101.1766171100
+.uptimerobot.com	TRUE	/	FALSE	1766257503	_clsk	1hmf0fb%5E1766171103085%5E17%5E1%5Ea.clarity.ms%2Fcollect
+.uptimerobot.com	TRUE	/	FALSE	1800731103	_ga_50DCJGBBH2	GS2.1.s1766169679$o1$g1$t1766171103$j60$l1$h1616001623
+.bing.com	TRUE	/	TRUE	1766257777	.MSA.Auth	CfDJ8BJecyNyfxpMtsfDoM3OqQtBzAmxZjJqSa8lz1M0Njc-sgDmdcSSH3WTABXnbPajHeXodqiDoK0ome4t_KybLcfA1uPnunBGF-_G9hsq-sBYUCVjQNJ56R_KdYMWQhWT_U5Hkx2Cif20SMMMtxSdf-hJtwFEB2GcXSZMmQe6gev0JURfJEmrg7X5joV2JjZ-_R8veBQpT2VO3HR4_G0vTHdF6cKqbpCDtXQIU019AfOlu3RUQ0hcDfRdhwCBEncrztS5AzVPyjhibeKD8kwTsXvHo9kUVZ38buoyH3bWw1xEAy0_YwoXkm9kXFRnQSXwW-3rvTAO4xCxys4UcKF7YCuEf8n1KxXffOw3JUfiNBO9jhoe47YrmMjCNQ92t-pC-n2R8oWk9O-5x8Tdza3Ok5cgLzI5vbtYzQ_v7fP0VGAU
+.bing.com	TRUE	/	TRUE	1767380977	_U	1E7fHmryAbZFQnfMUAoWQpEp5MMyRXqcDD9dUe-Pg_oYvhCtyyljvp8lghHLxMIkE-n6Q1vXBXluiWgFMhYKhnBvbFKCujuCL59ARMxhuNuQgHQbXS1G77bDLcUF3FRuYID2EAds9WGKd6MDLqebDb4sVjSZJj50_isAMBqGbQdFFzTfv-yhW2V28Ot-aO91gWB4cp4D6B031P7XXjFZ_O8YqN_v0jaafXElw7OKBnHE
+chatgpt.com	FALSE	/	TRUE	1766175083	__cflb	0H28vzvP5FJafnkHxismpqYcBQvc4Xc7n9Tpvj7p9dV
+.chatgpt.com	TRUE	/	TRUE	1766175499	__chatroute	eyJhbGciOiJFUzI1NiIsImtpZCI6InM3V09lNzAzUXA2Z2VESkU0bWl6SHlTVU5ySm1MTElrbnRWSXZNT2lwajgiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3NjYxNzU1MDAsImlhdCI6MTc2NjE3MTkwMCwiaXNzIjoiY2hhdC1wb3J0ZXIiLCJwbGFuX3R5cGUiOiJmcmVlIn0.RJKulr6h7VBGv5nIlMFFObGLxL2R8U_dlX5UrkdKa3t6iL0HR9Gf6NArWNeu51s5-XYG806ZE7BavVO8GLNPsQ
+.realtime.chatgpt.com	TRUE	/	TRUE	0	_cfuvid	xIom0pb.GpnmiwCNzJrG5rHfWpzeKXFOFeLmbseKQ6o-1766172031291-0.0.1.1-604800000
+.ws.chatgpt.com	TRUE	/	TRUE	0	_cfuvid	6f0vzdGeqtUv0TmiFHvWnNxvZd2ZhNss2Hos5PHliLw-1766172151571-0.0.1.1-604800000
+.c.msn.com	TRUE	/	TRUE	0	SM	C
+ntp.msn.com	FALSE	/	TRUE	1766174180	ai_session	j4UxE4VkQCiSmrVyKzjK2a|1766172255644|1766172380613
+.bing.com	TRUE	/	TRUE	0	WLS	C=286f46b4eb3ffd03&N=Marcos
+.discord.com	TRUE	/	FALSE	1800732935	_ga_5CWMJQ1S0X	GS2.1.s1766172934$o6$g0$t1766172934$j60$l0$h0
+.google.com	TRUE	/	TRUE	1781933032	NID	527=UHNyVL49ys7mdkHvFRNa-AhVkd_QN9NmT8vHh_cV1RoW3xcdJXQdmm6qyucCrEmVrCaf5j9KCVqzwgkG4BefdPi1mtXc3HGnDM0_MuvRMqJHQNC3mXBA4al9jaKoWXqGlUH2JQnbDW23E-ThuNoXAozzFfVuBCzeEFDRBkhyMnZgC8zdYUAhtHTuVwvVTj-Ixreq8caDgz7pkK2bXfaTpU421pTklEChGZw-OKAeOYrbQT-RzID7MIzt0FQzXMrtVKfRn2AqDqrTRTayIim12v39ccrLCvASUF1oA95rl-6Ey3yRaFON0CGHC-mi5_IYa_aYwznS78Wkx9TkYWGzBZZRqoFmrVXGsRb35ejCop6aqhJnN6jEjCRFh9_SDWXFPxXC_IjuXIIbd_DoXkIy64Js2fYj_VQqXQtQJSA7A-ZRflc6V7Frn62eHq7pZn4_zUmYaF6-0UYpkkuzHhjexZjHle8bMAWfO99gJCElHuV7iRKIUrcCK4TYVRFBQwxYib2WVA9i2tRMiW5RlZ9xYeTaNH9kmcyMju0MJg7ZyprfDXQRa1beuUss7movAnwuY2LXqzvGXcTNLEk-X8LasFoscW9FdVnzwpL6E9RvTbapautRt0qpbbDCLjLGmIFc7vXBNXRdMzUeuSxxUomnGL5faVtpZzVW9-zslP3DRz7I0eJytcRJGlDioCSe78METSSbbLu5mM3-yofSuaSp-ztbaf_9qsLK3afj3UsVf8WCzKSkJ9gxYZxMBOxxWrKq2yznaA
+accounts.google.com	FALSE	/	TRUE	1800733032	LSID	o.chromewebstore.google.com|o.mail.google.com|o.myaccount.google.com|s.youtube:g.a0004ggnC82iLgG4RfTAmBdJ7baB5xr9l7qz8Yv5Fb7TirTmqAtZuOtTP-GVnaGAjRTbYm4rPAACgYKAcASARMSFQHGX2MiZ6KjjoL8FUTM8s7ldZ4tyRoVAUF8yKoIxYuRCHrDyQR5WQen8Ho30076
+accounts.google.com	FALSE	/	TRUE	1800733032	__Host-1PLSID	o.chromewebstore.google.com|o.mail.google.com|o.myaccount.google.com|s.youtube:g.a0004ggnC82iLgG4RfTAmBdJ7baB5xr9l7qz8Yv5Fb7TirTmqAtZcajPAZyh8nBmZ7RWAhfWuAACgYKATQSARMSFQHGX2MidPU2MpO1IxqOVGCOHWv2JRoVAUF8yKoHPh38BsL1kRju4lr2w7V60076
+accounts.google.com	FALSE	/	TRUE	1800733032	__Host-3PLSID	o.chromewebstore.google.com|o.mail.google.com|o.myaccount.google.com|s.youtube:g.a0004ggnC82iLgG4RfTAmBdJ7baB5xr9l7qz8Yv5Fb7TirTmqAtZOlQaPQO174ofLqahzA6e2gACgYKAf0SARMSFQHGX2MiN8H4L8kUeE0iNLf3f9B2XxoVAUF8yKrQka0xMjIGqqeaC3elrBob0076
+chromewebstore.google.com	FALSE	/	TRUE	1800733032	OSID	g.a0004ggnCziRC3zBjHze5g-lK27sanqBFzhahz6bxbpMMGOOS33QuXliL8ZXLS5CNYf1HRAHzgACgYKAZISARMSFQHGX2Mi-XmqIDcdimjmvia0F0sJGxoVAUF8yKqJWDH4gnNuRDNcxNbG5_gR0076
+chromewebstore.google.com	FALSE	/	TRUE	1800733032	__Secure-OSID	g.a0004ggnCziRC3zBjHze5g-lK27sanqBFzhahz6bxbpMMGOOS33QlsCIhoXxgDtCExBwx1ytMQACgYKAagSARMSFQHGX2MitKUvY0ed__ktfomw6A1MphoVAUF8yKqoR5LpZ_7A5bZ6NNceRs7w0076
+.chromewebstore.google.com	TRUE	/	FALSE	1800733832	_ga	GA1.1.1279224081.1766173034
+chromewebstore.google.com	FALSE	/	TRUE	1768765034	OTZ	8397817_68_64_73560_68_416340
+.chromewebstore.google.com	TRUE	/	FALSE	1800733039	_ga_C2WJL5J9RY	GS2.1.s1766173034$o1$g0$t1766173039$j55$l0$h0
+.doubleclick.net	TRUE	/	TRUE	1800733055	IDE	AHWqTUm0egTAwOnzTepqDergBfwNFtwzgbj7KlqlpXieb_WPOeQR-wJn8mjXtPAaLBY
+.chatgpt.com	TRUE	/	TRUE	1766174944	__cf_bm	miwz1f3J83hSYBshmWg8tNem.wNQ_LxVSETb_mbyayI-1766173145-1.0.1.1-Qt3k8k8LS_N7CmGMKqNT.Aq_MEExi2KN1zLJsAu.ubpTcoGuqk_ChxdGkJ5krgB1oOKFXOLxBZlKcp.MYGqnrN8.WLPQB7ddtkanyRDIFFU
+.github.com	TRUE	/	TRUE	1768765297	fileTreeExpanded	true
+.render.com	TRUE	/	FALSE	1766778189	intercom-session-wf6otxqc	TFVOblBMZGFLWGF5cVVaZ1RaeFVtcExocStqMkNvTEsyQmQ4a0VlRlB0Qkw5R1U1QlpUZ1JLalVLVTV2YjVaenVlM1RFeVVyR3Jhb0hZZWlVYmt5b0toYmVpcUorbWJDOHVYQnhoQVc0Tnc9LS1EOE55UFNHckN5aGpCR3RhTG96MU9RPT0=--f47fadc896fa6ad2ae5d26be2fa27c2ce22a63cc
+github.com	FALSE	/	TRUE	0	_gh_sess	SPDhuZl6Ye3EefUQwNzROPxFPDwN6Gk38%2BumL56Q28oTYp%2FYApUzablvibtVaGNIR6tbUeS9bLptHvHMuSEtPjfjcfuae5ThDlfZn6Zmb1uMSR5zG4r2b1C3dLKtGwohAGWxbVOdEm1WROGZ9XGpB8x2%2BQdI7howMJZOQe8oEcKAwOT6I3RaqYikk4l96Gs0gbgRYm0AtQm2g9UZtU6uyrsdnSSAp2ctZ%2BOWUU674mU2LjJ18IHslh%2BcnuN%2Fnrxd68Q0q5w3Q7yICMs6FpbYkh9v3929%2FYAmBrIsRtsKpK3c%2FLDSgkLjvjnVLKlrzYq0yqD9%2BbhD41ayr2%2BNEbiqB1Oy8qSTlZdIQtl%2BsoZNKvN17gNpmfKZ5YTO5mGNIrCFnDImD49cXi0zTD35N%2F8HNlqEyiQ%3D--Llw9h16YoUOF2LUL--UZI0FY9OHsuxhDJ2efWm0A%3D%3D
+.youtube.com	TRUE	/	TRUE	1797709468	__Secure-1PSIDTS	sidts-CjQBflaCdQduSVX3GFViYKQLmpbb_m6cIuIf8Z02O0QtwGU0Ij9WzeWnZezA0knbV4Ueslz1EAA
+.youtube.com	TRUE	/	TRUE	1797709468	__Secure-3PSIDTS	sidts-CjQBflaCdQduSVX3GFViYKQLmpbb_m6cIuIf8Z02O0QtwGU0Ij9WzeWnZezA0knbV4Ueslz1EAA
+.youtube.com	TRUE	/	TRUE	1797709468	__Secure-3PSIDCC	AKEyXzXev5x8oh7rOl24AC44eyNi1sc0NoRDow90h0sr4H5mulrSsd2WTnsXjjbN4jtCyzFw_A
+.bing.com	TRUE	/	TRUE	1766260184	GC	98KD3iVNQ8Kgg3KurGefMWANuecstxfE3SPNOvljNj80WFDy2X0gfBQH7dl-fd6Fi72nhl_hNnKeqqjFj2FVWQ
+.bing.com	TRUE	/	TRUE	0	_SS	SID=16D4ED5DBFE963163EECFB9ABEA362C8&PC=U531&R=81&RB=81&GB=0&RG=0&RP=78
+.bing.com	TRUE	/	TRUE	0	dsc	order=ShopOrderDefault
+.bing.com	TRUE	/	TRUE	1799869784	SRCHHPGUSR	SRCHLANG=pt-BR&PV=19.0.0&PREFCOL=1&BRW=XW&BRH=M&CW=1528&CH=732&SCW=1513&SCH=4080&DPR=1.3&UTC=-180&PRVCW=1528&PRVCH=732&B=0&HV=1766173784&HVE=CfDJ8BJecyNyfxpMtsfDoM3OqQsZefBCGURb07XaPtlqYa0_qeel7Nx0S1VKvuJKpfbGy0u55aKfifK97OAXL9km6lqDFN0ztH4o7OUSfSXGyb99LQTKWLrv8n5MGNniDTO0SCfKE36Efs0NqkI0hQZeS4hDgI3ctUpc7KoFQYRnwLbrIG7tY7DbstwUILo0DEgk3A&EXLTT=31&AV=14&ADV=14&RB=0&MB=0
+.login.live.com	TRUE	/	TRUE	0	uaid	cf3fceba3b92428f97ce4fe1edd27218
+.login.live.com	TRUE	/	TRUE	0	MSPRequ	id=63539&lt=1766173785&co=0
+.login.live.com	TRUE	/	TRUE	0	MSPOK	$uuid-a4aa18c4-ddee-4fc0-9573-f470552e483a$uuid-2ca5a4b1-a0b4-4a78-97c4-592dc856fb26$uuid-941b28ac-acf5-424d-8ac0-1e9a6a3e46e1$uuid-5d8ef4d3-be75-401d-a1ae-82fffd7e7107$uuid-fc2cf14d-6887-4322-8f21-3e99b4f65049$uuid-07476be7-60fa-4720-89fa-bd9442058e23$uuid-fa917b9a-f47a-4a83-a979-16fdcd148e14$uuid-7df52048-2d8a-4a6a-9fbb-bdb8ede1a8ce$uuid-51bdb0d2-29a2-4621-80c2-214e48f16329$uuid-5141eb76-dad1-4669-9ec2-171189ec83a3
+.login.live.com	TRUE	/	TRUE	0	OParams	11O.Dj2dQQkveMSGA2SAdMZctXKsHvEFN2sPAk2Qk*8Ced3hSO9TW!BPBmmadhd84EF0*L0E0q0a5qqOxNGXoMOmMfmxKh8iVRJKZGiysQYojh*6mzkEC5d*fVXcPHKsKzUxrHah1eO71dBjKXSAV2JqJ01M8JVy8fe!Zb2A20vDrv3PrN0l9YFZdGRLtk1rxSa0K7mqb2JCg68uqQD*9YN9ghunnC!tSMUAjrMu932dkPv!vroBUTNL9PAeWE8cK0hK9Ha8qR!oWlu!Nx4WFSQdtU93o9KCVCiio63rKZW4IUFgH3hz3y69kPi!CctOsZXJSnv6OLgRYiKJEqthp1khTfE8nliCDN!tsC3DO1kLfxxV5c7AfvZFC3SrgMTWcb3fXZeJQmbzz!D4pP5oMySXPMen0dC2WKDxgC54F8kIdgYP9qHYPsi7GH1ks5y!0hyIgiSGFTC6!xAlN7GttH57iZXJpL0xUnkJNOkvMw!GoyU!NprmIlFTpT*EZMUnmVb3CaVDlXWrw50b7qYP1vx9rB1a*bGJRXqJIK9nt7ZTCMHns3VP8uv4fGb8MfjPM0MMqqgHS46I7d0nerkIEO0qwipRWYWLtzJkLH7uZqUBc6vn7PZtFbQAWybhW4B!Ya0bxseuIKSG4Bsal1AubdRzWstf6RvCYxUJyaihySUdFt0XVCQGNE8gjnkhZW5qa8ZpDQ$$
+.bing.com	TRUE	/	TRUE	1799869786	_RwBf	mta=0&ispd=23&rc=81&rb=81&rg=0&pc=78&mtu=0&rbb=0&clo=0&v=23&l=2025-12-19T08:00:00.0000000Z&lft=0001-01-01T00:00:00.0000000&aof=0&ard=0001-01-01T00:00:00.0000000&rwdbt=1766079365&rwflt=-62135539200&rwaul2=0&g=&o=0&p=search_and_earn&c=ML2XE3&t=965&s=2024-04-30T00:26:19.5302165+00:00&ts=2025-12-19T19:49:44.7433450+00:00&rwred=0&wls=2&wlb=0&wle=0&ccp=2&cpt=0&lka=0&lkt=0&aad=0&TH=&cid=0&gb=2025w18_u&e=NbHWfxdKanmpnXJhVM-Pk-Zb3JSs0qMtMNBZcuqLMeRX47md36KITku8598b7sLQhdGb3C1UGBclj_jAUVzzfQ&A=85940C939E6B7176DAFEE573FFFFFFFF
+chatgpt.com	FALSE	/	TRUE	1766175597	_uasid	"Z0FBQUFBQnBSYXhsZlFZTzdqOVZ6eEx6T2w3MldFOGdzeVJCVDRfZWtCc1pKMXRLRjAtSUxvNHRhT3JfdC1QdGhiQlItUV9xT3VWWmw1MjZ3dDRBZWpnS2c1YXl5THJqdnpvbHFiRVFqVUdUdUdBMHdXWmZFMGNtenFoRENjZmIxQXlIdFFPZnhXdFljY0pFZksyTXlRSjBBNi1GM3o0b1p4dlF3MnFNTzhYTnBCeGt5dWt1N0JzbmJhN1hEaFg2UF9ST2ZBQWIzUWxSWXhHZXR5dU9WYVh5NE1vVzU4UkFadWZKeUhOZ1dGd0JuU3R0blppRWdOaEU4eGJvcmFqYnNuOU9mbVgxSHNwdzBTTlI2R0k4LWQyaUVSN3JyMEFYMjRkcmVfd0NzYXV0Y2l2b3V5TEp4ajRWNUlDckxrc3hzZ3NjUWMxUXN6QTdkR2VWUlIyT1doNGFrV0JOMWZ5eUtBPT0="
+chatgpt.com	FALSE	/	TRUE	1766175597	_umsid	"Z0FBQUFBQnBSYXhsY0Y4U2NZT0NTU3BrT1lLYW1zYW5UeXgxS0U0cGdRelRiRjlDWkR1VWUxQVowakluYjk1QkNCUmtUNThfOWRCSkluNG1FVm1DUF9WWGk0a2dNVnVrbEd0cXZwanlQU2hyXzNwQzU5THdXSWVkWDRyNHd2dG02ZkJjWEZWOE40bGpkek9jdkFrb0tnVjBoZHd2UHV3cVQ2TFJTaEV2cE1YdEJqX1BYc0MwdEhwbU5rc2w1SUtKbVZtdkNmdnpYdHVORFViTjNLS3hud1hjZkZzaHNsejB3MHRUajFsVUI1c2k0Uy1COTBBU2k3cz0="
+.chatgpt.com	TRUE	/	TRUE	1797709798	oai-sc	0gAAAAABpRaxm2ahH25qK9ensVrvhWsPwtLslQxjGhTnnb-527S2FzlnJ6g3n8OFhtLOg32mpNUobm_7IDS174uB8da3lXrzDyv66H_ZoTuUSAHyQF_zm4w63WqxQuOKbV8tM_oJv1RaC7Xb7hW3ANesy2MmfQq934VfB0IwHxLGf6Ry4tvcEafe1yCapop6FqNpOEKgFry9BXc_H7J8Mrv5M9CkA7ecxe3JoTDRByePynIB1qQhA3hI
+.google.com	TRUE	/	TRUE	1797709834	__Secure-1PSIDTS	sidts-CjEBflaCdVEb49sly5l7ClCyIJ9Dbf5gNQLb2uBckUwQ-aiTagw6d-AZOX_xc-6wgV4OEAA
+.google.com	TRUE	/	TRUE	1797709834	__Secure-3PSIDTS	sidts-CjEBflaCdVEb49sly5l7ClCyIJ9Dbf5gNQLb2uBckUwQ-aiTagw6d-AZOX_xc-6wgV4OEAA
+.chromewebstore.google.com	TRUE	/	FALSE	1800733854	_ga_KHZNC1Q6K0	GS2.1.s1766173033$o1$g1$t1766173854$j37$l0$h0
+.google.com	TRUE	/	FALSE	1797709954	SIDCC	AKEyXzUBcjWrzfCqYrTUjI-75rKLe7znpWUtohfXq7chOHGHnnmC1OP46Qw2_VUBUwH8WCAS4Jk
+.google.com	TRUE	/	TRUE	1797709954	__Secure-1PSIDCC	AKEyXzWVk3Uv0EeocN7O3jj_qsez9yznt-y7pjK4miGnxb4XsK8fcYgJpVOlsiBwpQBdHiJSoQ
+.google.com	TRUE	/	TRUE	1797709954	__Secure-3PSIDCC	AKEyXzXGYwKUNGXNG7ggPGy51fsCH_3iU6epccaw4i6-mFVCXEvzyZcoEyhlvIOivKfqiLqbDQ
+chatgpt.com	FALSE	/	FALSE	1797709972	_dd_s	aid=c886de7b-f090-4db8-8d8d-60828819f5b0&rum=0&expire=1766174872311&logs=1&id=f9bec4b6-c839-4587-a032-3fef1378e574&created=1766161912715
