@@ -59,25 +59,27 @@ async def play_next(ctx):
         title = song['title']
         thumbnail = song['thumbnail']
         duration = song['duration']
+        voice_channel = song['voice_channel']  # pegando canal salvo
 
-        voice_channel = ctx.author.voice.channel
-        if not ctx.voice_client:
-            vc = await voice_channel.connect()
-        else:
-            vc = ctx.voice_client
+        try:
+            if not ctx.voice_client:
+                vc = await voice_channel.connect()
+            else:
+                vc = ctx.voice_client
+        except Exception as e:
+            await ctx.send(f"❌ Não foi possível entrar no canal de voz. Erro: {e}")
+            return
 
         try:
             vc.play(discord.FFmpegPCMAudio(url), after=lambda e: asyncio.run_coroutine_threadsafe(play_next(ctx), bot.loop))
-
             embed = discord.Embed(title="🎶 Tocando agora:", description=f"**{title}**", color=0x00ff00)
             embed.add_field(name="Duração", value=duration, inline=True)
             embed.set_thumbnail(url=thumbnail)
             await ctx.send(embed=embed)
-            break  # Sai do loop, a música começou
+            break  # Sai do loop, música começou
         except Exception as e:
             await ctx.send(f"❌ Não foi possível tocar **{title}**, pulando...\nErro: {e}")
-            continue  # Tenta próxima música
-
+            continue  # tenta próxima música
     else:
         if ctx.voice_client:
             await ctx.voice_client.disconnect()
@@ -89,6 +91,8 @@ async def play(ctx, url):
     if not ctx.author.voice or not ctx.author.voice.channel:
         await ctx.send("Você precisa estar em um canal de voz!")
         return
+
+    voice_channel = ctx.author.voice.channel  # salva o canal do usuário
 
     if ctx.guild.id not in queue:
         queue[ctx.guild.id] = []
@@ -112,7 +116,8 @@ async def play(ctx, url):
         'url': audio_url,
         'title': title,
         'thumbnail': thumbnail,
-        'duration': duration
+        'duration': duration,
+        'voice_channel': voice_channel  # salva canal para usar no play_next
     })
 
     await ctx.send(f"✅ Adicionado à fila: **{title}**")
